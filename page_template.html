@@ -51,6 +51,30 @@ img{image-rendering:pixelated;}
 .sync{font-size:0.82rem;color:var(--muted);margin:0;}
 .sync span{color:var(--gold);}
 
+.alert-banner{
+  display:flex; align-items:flex-start; gap:12px;
+  background:rgba(52,211,153,0.08); border:1px solid rgba(52,211,153,0.4);
+  border-radius:10px; padding:14px 18px; margin-bottom:24px;
+}
+.alert-banner .icon{font-size:1.3rem; line-height:1; flex:none;}
+.alert-banner .body{display:flex; flex-direction:column; gap:6px;}
+.alert-banner .title{color:var(--green); font-weight:700; font-size:0.9rem;}
+.alert-banner .items{display:flex; flex-wrap:wrap; gap:8px;}
+.alert-chip{
+  background:var(--surface-2); border:1px solid rgba(52,211,153,0.35); border-radius:6px;
+  padding:5px 10px; font-size:0.8rem; color:var(--body); text-decoration:none;
+}
+.alert-chip b{color:var(--heading);}
+.alert-chip .p{color:var(--green); font-family:'JetBrains Mono',monospace; font-weight:600; margin-left:4px;}
+.card.hit{border-left-color:var(--green) !important; box-shadow:0 0 0 1px rgba(52,211,153,0.4);}
+@media (prefers-reduced-motion:no-preference){
+  .card.hit{animation:hitpulse 2.4s ease-in-out infinite;}
+}
+@keyframes hitpulse{
+  0%,100%{box-shadow:0 0 0 1px rgba(52,211,153,0.4);}
+  50%{box-shadow:0 0 0 3px rgba(52,211,153,0.7);}
+}
+
 .stats{
   display:grid;grid-template-columns:repeat(4,1fr);gap:1px;
   background:var(--border);border:1px solid var(--border);border-radius:10px;
@@ -70,6 +94,13 @@ img{image-rendering:pixelated;}
 .filter-group{display:flex;flex-direction:column;gap:8px;}
 .filter-label{font-size:0.72rem;text-transform:uppercase;letter-spacing:0.08em;color:var(--muted);font-weight:600;}
 .chip-row{display:flex;flex-wrap:wrap;gap:6px;}
+.level-range{display:flex;align-items:center;gap:6px;color:var(--muted);font-size:0.82rem;}
+.level-input{
+  width:56px; background:var(--surface-2); border:1px solid var(--border-strong);
+  border-radius:6px; padding:5px 8px; color:var(--heading); font-size:0.82rem;
+}
+.level-input::-webkit-outer-spin-button,.level-input::-webkit-inner-spin-button{margin:0;}
+.level-input:focus{border-color:var(--gold);}
 .chip{
   color:var(--body);background:var(--surface-2);border:1px solid var(--border-strong);
   border-radius:999px;padding:5px 12px;font-size:0.78rem;
@@ -163,6 +194,8 @@ img{image-rendering:pixelated;}
     <p class="sync">Última sincronización: <span id="syncTime" class="mono"></span> · monitoreando desde <span id="sinceTime" class="mono"></span></p>
   </header>
 
+  <div id="alertBanner"></div>
+
   <section class="stats" aria-label="Resumen">
     <div class="stat"><span class="stat-value" id="statTotal">—</span><span class="stat-label">En venta</span></div>
     <div class="stat"><span class="stat-value" id="statMedian">—</span><span class="stat-label">Precio mediana</span></div>
@@ -173,6 +206,14 @@ img{image-rendering:pixelated;}
   <div class="layout">
     <section aria-label="Listado del mercado">
       <div class="filters">
+        <div class="filter-group">
+          <span class="filter-label">Nivel</span>
+          <div class="level-range">
+            <input type="number" id="levelMin" class="level-input mono" placeholder="Mín" min="1">
+            <span>—</span>
+            <input type="number" id="levelMax" class="level-input mono" placeholder="Máx" min="1">
+          </div>
+        </div>
         <div class="filter-group">
           <span class="filter-label">Clase</span>
           <div class="chip-row" id="classFilters"></div>
@@ -242,7 +283,14 @@ function icon(hash, alt, cls){
   return `<img src="${DATA.icons[hash]}" alt="${escapeHtml(alt||'')}" class="${cls||''}" loading="lazy">`;
 }
 
-let state = { classes: new Set(), races: new Set(), sort: 'newest' };
+let state = { classes: new Set(), races: new Set(), sort: 'newest', levelMin: null, levelMax: null };
+
+function wireLevelInputs(){
+  const minEl = document.getElementById('levelMin');
+  const maxEl = document.getElementById('levelMax');
+  minEl.addEventListener('input', () => { state.levelMin = minEl.value ? Number(minEl.value) : null; renderGrid(); });
+  maxEl.addEventListener('input', () => { state.levelMax = maxEl.value ? Number(maxEl.value) : null; renderGrid(); });
+}
 
 function renderStats(){
   const listings = DATA.listings;
@@ -329,13 +377,32 @@ function detailHTML(item){
   </div>`;
 }
 
+const ALERT_RULE = { minLevel: 42, maxPriceUsdt: 150 };
+function isAlertHit(item){
+  return item.level >= ALERT_RULE.minLevel && (item.priceUsdtMicros / 1e6) < ALERT_RULE.maxPriceUsdt;
+}
+
+function renderAlertBanner(){
+  const hits = DATA.listings.filter(isAlertHit).sort((a,b) => a.priceUsdtMicros - b.priceUsdtMicros);
+  const el = document.getElementById('alertBanner');
+  if (!hits.length){ el.innerHTML = ''; return; }
+  const chips = hits.map(h => `<a class="alert-chip" href="#listing-${h.listingId}"><b>${escapeHtml(h.name)}</b> · Nivel ${h.level}<span class="p">${fmtPrice(h.priceUsdtMicros/1e6)} USDT</span></a>`).join('');
+  el.innerHTML = `<div class="alert-banner">
+    <span class="icon">🔔</span>
+    <div class="body">
+      <div class="title">${hits.length} personaje${hits.length>1?'s':''} nivel ${ALERT_RULE.minLevel}+ por menos de ${ALERT_RULE.maxPriceUsdt} USDT</div>
+      <div class="items">${chips}</div>
+    </div>
+  </div>`;
+}
+
 function cardHTML(item){
   const factionColor = (item.faction % 2 === 0) ? 'var(--red)' : 'var(--blue)';
   const clase = CLASS_NAMES[item.classId] || item.classId;
   const raza = RACE_NAMES[item.raceId] || item.raceId;
   const price = item.priceUsdtMicros / 1e6;
   const avatarInner = icon(item.spriteIcon, item.name) || escapeHtml((item.name||'?').slice(0,2).toUpperCase());
-  return `<article class="card" style="--faction-color:${factionColor}" data-listing="${item.listingId}">
+  return `<article class="card${isAlertHit(item) ? ' hit' : ''}" id="listing-${item.listingId}" style="--faction-color:${factionColor}" data-listing="${item.listingId}">
     <div class="card-top">
       <div class="avatar">${avatarInner}</div>
       <div class="card-id">
@@ -364,7 +431,9 @@ function cardHTML(item){
 function renderGrid(){
   let items = DATA.listings.filter(l =>
     (state.classes.size === 0 || state.classes.has(l.classId)) &&
-    (state.races.size === 0 || state.races.has(l.raceId))
+    (state.races.size === 0 || state.races.has(l.raceId)) &&
+    (state.levelMin === null || l.level >= state.levelMin) &&
+    (state.levelMax === null || l.level <= state.levelMax)
   );
   const sorters = {
     newest: (a,b) => new Date(b.createdAt) - new Date(a.createdAt),
@@ -425,7 +494,12 @@ function renderFeeds(){
 }
 
 renderStats();
+renderAlertBanner();
 buildFilterChips();
+wireLevelInputs();
 renderGrid();
 renderFeeds();
+
+// Recarga sola cada 5 min (si dejás la pestaña abierta) para traer datos nuevos.
+setTimeout(() => location.reload(), 5 * 60 * 1000);
 </script>
