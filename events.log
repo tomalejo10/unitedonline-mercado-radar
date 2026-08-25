@@ -305,3 +305,6 @@
 [2026-08-25T21:32:53.052956+00:00] nuevo_listado | helkaa (listing 557) | Mago · Gnomo · Nivel 35 · 70 USDT
 [2026-08-25T23:04:06.601313+00:00] nuevo_listado | Vito (listing 558) | Clérigo · Humano · Nivel 39 · 150 USDT
 [2026-08-25T23:04:09.471422+00:00] retirado_o_vencido | Vito (listing 429) | 150 USDT | sin transferencia coincidente tras 63 min
+[2026-08-25T23:38:27.782394+00:00] nuevo_listado | Natsuki Subaru (listing 560) | Mago · Elfo · Nivel 39 · 149 USDT
+[2026-08-25T23:38:27.782472+00:00] nuevo_listado | Rengarr (listing 559) | Paladín · Elfo oscuro · Nivel 31 · 59 USDT
+[2026-08-25T23:38:27.782747+00:00] cambio_precio | Ozich (listing 38) | precio bajó: 500 -> 400 USDT
