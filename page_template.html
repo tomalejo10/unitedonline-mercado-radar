@@ -1,0 +1,431 @@
+<title>Mercado Radar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0A0A0F;
+  --surface:#131319;
+  --surface-2:#1C1C25;
+  --surface-3:#26262F;
+  --border:rgba(241,230,200,0.09);
+  --border-strong:rgba(241,230,200,0.16);
+  --heading:#F1E6C8;
+  --body:#C9C4B8;
+  --muted:#827D71;
+  --gold:#D8B968;
+  --red:#FF4747;
+  --blue:#4A9BFF;
+  --green:#34D399;
+  --amber:#F0A93B;
+  --teal:#3CC9C4;
+  --slate:#8B8A94;
+}
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;}
+body{
+  background:var(--bg);
+  color:var(--body);
+  font-family:'Geist',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+  line-height:1.5;
+  -webkit-font-smoothing:antialiased;
+}
+.mono{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace;font-variant-numeric:tabular-nums;}
+a{color:var(--gold);}
+button{font:inherit;}
+:focus-visible{outline:2px solid var(--gold);outline-offset:2px;}
+img{image-rendering:pixelated;}
+
+.page{max-width:1180px;margin:0 auto;padding:28px 20px 64px;}
+
+.hero{padding:20px 0 28px;border-bottom:1px solid var(--border);margin-bottom:24px;}
+.eyebrow{
+  font-size:0.72rem;letter-spacing:0.12em;text-transform:uppercase;
+  color:var(--muted);font-weight:600;margin-bottom:10px;
+}
+.hero h1{
+  font-size:clamp(1.9rem,4vw,2.6rem);color:var(--heading);margin:0 0 10px;
+  font-weight:700;letter-spacing:-0.01em;text-wrap:balance;
+}
+.lede{max-width:62ch;color:var(--body);font-size:1rem;margin:0 0 14px;}
+.sync{font-size:0.82rem;color:var(--muted);margin:0;}
+.sync span{color:var(--gold);}
+
+.stats{
+  display:grid;grid-template-columns:repeat(4,1fr);gap:1px;
+  background:var(--border);border:1px solid var(--border);border-radius:10px;
+  overflow:hidden;margin-bottom:28px;
+}
+.stat{background:var(--surface);padding:16px 18px;display:flex;flex-direction:column;gap:4px;}
+.stat-value{font-family:'JetBrains Mono',monospace;font-variant-numeric:tabular-nums;font-size:1.5rem;color:var(--heading);font-weight:600;}
+.stat-label{font-size:0.74rem;color:var(--muted);text-transform:uppercase;letter-spacing:0.06em;}
+
+.layout{display:grid;grid-template-columns:1fr 320px;gap:24px;align-items:start;}
+@media (max-width:860px){.layout{grid-template-columns:1fr;} .stats{grid-template-columns:repeat(2,1fr);}}
+
+.filters{
+  display:flex;flex-wrap:wrap;gap:18px 28px;background:var(--surface);
+  border:1px solid var(--border);border-radius:10px;padding:16px 18px;margin-bottom:16px;
+}
+.filter-group{display:flex;flex-direction:column;gap:8px;}
+.filter-label{font-size:0.72rem;text-transform:uppercase;letter-spacing:0.08em;color:var(--muted);font-weight:600;}
+.chip-row{display:flex;flex-wrap:wrap;gap:6px;}
+.chip{
+  color:var(--body);background:var(--surface-2);border:1px solid var(--border-strong);
+  border-radius:999px;padding:5px 12px;font-size:0.78rem;
+  cursor:pointer;transition:background .15s,color .15s,border-color .15s;
+}
+.chip:hover{border-color:var(--gold);}
+.chip.active{background:var(--gold);border-color:var(--gold);color:#1A1508;font-weight:600;}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;}
+.card{
+  background:var(--surface);border:1px solid var(--border);border-left:3px solid var(--faction-color);
+  border-radius:8px;padding:13px 14px;display:flex;flex-direction:column;gap:8px;
+}
+.card-top{display:flex;align-items:flex-start;gap:10px;}
+.avatar{
+  width:40px;height:40px;flex:none;border-radius:6px;background:var(--surface-3);
+  display:flex;align-items:center;justify-content:center;overflow:hidden;
+  font-size:0.8rem;font-weight:700;color:var(--muted);
+}
+.avatar img{width:100%;height:100%;object-fit:contain;}
+.card-id{flex:1;min-width:0;}
+.card-name-row{display:flex;align-items:baseline;justify-content:space-between;gap:6px;}
+.card-name{font-weight:700;font-size:0.98rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.pill{font-size:0.62rem;text-transform:uppercase;letter-spacing:0.05em;border-radius:999px;padding:2px 7px;font-weight:700;white-space:nowrap;}
+.pill-online{background:rgba(52,211,153,0.15);color:var(--green);border:1px solid rgba(52,211,153,0.35);}
+.card-meta{font-size:0.78rem;color:var(--muted);}
+.bar-row{display:flex;flex-direction:column;gap:3px;}
+.bar{height:5px;border-radius:3px;background:var(--surface-3);overflow:hidden;}
+.bar-fill{height:100%;border-radius:3px;}
+.bar-hp .bar-fill{background:#D9534F;}
+.bar-mp .bar-fill{background:#4A7FD9;}
+.card-bottom{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-top:2px;}
+.card-price{font-family:'JetBrains Mono',monospace;font-variant-numeric:tabular-nums;color:var(--gold);font-weight:600;font-size:1.05rem;}
+.card-price .unit{font-size:0.7rem;color:var(--muted);font-weight:500;margin-left:3px;}
+.card-actions{display:flex;gap:6px;}
+.detail-toggle,.detail-link{
+  background:none;border:1px solid var(--border-strong);color:var(--muted);
+  border-radius:6px;padding:4px 9px;font-size:0.72rem;cursor:pointer;
+  text-decoration:none;white-space:nowrap;display:inline-block;
+}
+.detail-toggle:hover,.detail-link:hover{border-color:var(--gold);color:var(--gold);}
+
+.detail{display:none;margin-top:6px;padding-top:12px;border-top:1px solid var(--border);flex-direction:column;gap:12px;}
+.card.expanded .detail{display:flex;}
+.detail-stats{display:grid;grid-template-columns:1fr 1fr;gap:8px 14px;}
+.detail-stat{display:flex;flex-direction:column;gap:1px;}
+.detail-stat .v{font-family:'JetBrains Mono',monospace;font-variant-numeric:tabular-nums;color:var(--heading);font-size:0.86rem;font-weight:600;}
+.detail-stat .l{font-size:0.66rem;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;}
+.inv-label{font-size:0.66rem;color:var(--muted);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:6px;}
+.inv-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(64px,1fr));gap:6px;}
+.inv-item{
+  background:var(--surface-2);border:1px solid var(--border);border-radius:6px;
+  padding:5px;display:flex;flex-direction:column;align-items:center;gap:3px;position:relative;
+}
+.inv-item img{width:26px;height:26px;object-fit:contain;}
+.inv-item .amt{font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:var(--body);}
+.inv-item .eq{position:absolute;top:2px;right:2px;width:6px;height:6px;border-radius:50%;background:var(--amber);}
+.inv-item .nm{font-size:0.56rem;color:var(--muted);text-align:center;line-height:1.15;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.no-detail{font-size:0.78rem;color:var(--muted);font-style:italic;}
+
+.empty-grid{grid-column:1/-1;padding:40px 20px;text-align:center;color:var(--muted);font-size:0.9rem;}
+
+.feeds{display:flex;flex-direction:column;gap:16px;position:sticky;top:20px;}
+.panel{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:16px 16px 6px;}
+.panel h2{font-size:0.92rem;color:var(--heading);margin:0 0 12px;font-weight:600;}
+.feed{display:flex;flex-direction:column;}
+.feed-item{padding:10px 0;border-top:1px solid var(--border);display:flex;flex-direction:column;gap:3px;}
+.feed-item:first-child{border-top:none;}
+.feed-head{display:flex;align-items:center;justify-content:space-between;gap:8px;}
+.feed-name{font-weight:600;color:var(--heading);font-size:0.86rem;}
+.feed-badge{font-size:0.62rem;text-transform:uppercase;letter-spacing:0.05em;font-weight:700;padding:2px 7px;border-radius:999px;white-space:nowrap;}
+.badge-vendido{background:rgba(52,211,153,0.15);color:var(--green);}
+.badge-retirado{background:rgba(139,138,148,0.18);color:var(--slate);}
+.badge-up{background:rgba(240,169,59,0.15);color:var(--amber);}
+.badge-down{background:rgba(60,201,196,0.15);color:var(--teal);}
+.feed-detail{font-size:0.76rem;color:var(--muted);word-break:break-word;}
+.feed-time{font-size:0.7rem;color:var(--muted);}
+.feed-empty{padding:18px 0;color:var(--muted);font-size:0.84rem;}
+
+.footnote{margin-top:36px;padding-top:18px;border-top:1px solid var(--border);}
+.footnote p{max-width:72ch;font-size:0.78rem;color:var(--muted);margin:0;}
+
+::selection{background:rgba(216,185,104,0.35);color:var(--heading);}
+</style>
+
+<div class="page">
+  <header class="hero">
+    <div class="eyebrow">No oficial · fan tracker</div>
+    <h1>Mercado Radar</h1>
+    <p class="lede">Seguimiento del mercado de personajes de United Online: qué está en venta, qué se vendió de verdad —verificado contra la blockchain de BNB Smart Chain— y cómo se mueven los precios.</p>
+    <p class="sync">Última sincronización: <span id="syncTime" class="mono"></span> · monitoreando desde <span id="sinceTime" class="mono"></span></p>
+  </header>
+
+  <section class="stats" aria-label="Resumen">
+    <div class="stat"><span class="stat-value" id="statTotal">—</span><span class="stat-label">En venta</span></div>
+    <div class="stat"><span class="stat-value" id="statMedian">—</span><span class="stat-label">Precio mediana</span></div>
+    <div class="stat"><span class="stat-value" id="statSold">—</span><span class="stat-label">Ventas confirmadas</span></div>
+    <div class="stat"><span class="stat-value" id="statMoves">—</span><span class="stat-label">Movimientos de precio</span></div>
+  </section>
+
+  <div class="layout">
+    <section aria-label="Listado del mercado">
+      <div class="filters">
+        <div class="filter-group">
+          <span class="filter-label">Clase</span>
+          <div class="chip-row" id="classFilters"></div>
+        </div>
+        <div class="filter-group">
+          <span class="filter-label">Raza</span>
+          <div class="chip-row" id="raceFilters"></div>
+        </div>
+        <div class="filter-group">
+          <span class="filter-label">Orden</span>
+          <div class="chip-row" id="sortButtons"></div>
+        </div>
+      </div>
+      <div class="grid" id="listingGrid"></div>
+    </section>
+
+    <aside class="feeds">
+      <div class="panel">
+        <h2>Actividad reciente</h2>
+        <div class="feed" id="salesFeed"></div>
+      </div>
+      <div class="panel">
+        <h2>Cambios de precio</h2>
+        <div class="feed" id="priceFeed"></div>
+      </div>
+    </aside>
+  </div>
+
+  <footer class="footnote">
+    <p>Datos recolectados por un bot que scrapea el mercado cada 5 minutos y cruza las bajas de listado contra transferencias entrantes de USDT (BEP-20) a la wallet del mercado en BNB Smart Chain, para confirmar si una venta fue real. Sprites e íconos son del propio juego (motor open source). Página hecha por un jugador, no afiliada a United Online — para comprar o vender de verdad, andá a unitedonline.com.ar/mercado.</p>
+  </footer>
+</div>
+
+<script>
+const DATA = __SNAPSHOT_DATA__;
+
+const CLASS_NAMES = {1:"Guerrero",2:"Cazador",3:"Paladín",4:"Asesino",5:"Clérigo",6:"Bardo",7:"Mago",8:"Druida",9:"Bandido"};
+const RACE_NAMES = {1:"Humano",2:"Elfo",3:"Elfo oscuro",4:"Gnomo",5:"Enano",6:"Orco"};
+
+function escapeHtml(s){
+  return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+}
+function pct(v, max){ if(!max) return 0; return Math.max(0, Math.min(100, (v/max)*100)); }
+function fmtInt(n){ return Math.round(n).toLocaleString('es-AR'); }
+function fmtPrice(n){
+  return n % 1 === 0 ? n.toLocaleString('es-AR') : n.toLocaleString('es-AR', {maximumFractionDigits:2});
+}
+function median(nums){
+  if (!nums.length) return 0;
+  const s = nums.slice().sort((a,b)=>a-b);
+  const mid = Math.floor(s.length/2);
+  return s.length % 2 ? s[mid] : (s[mid-1]+s[mid])/2;
+}
+function relTime(iso){
+  const d = new Date(iso);
+  const diffMs = Date.now() - d.getTime();
+  const min = Math.round(diffMs/60000);
+  if (min < 1) return "recién";
+  if (min < 60) return `hace ${min} min`;
+  const hr = Math.round(min/60);
+  if (hr < 24) return `hace ${hr} h`;
+  const days = Math.round(hr/24);
+  return `hace ${days} d`;
+}
+function icon(hash, alt, cls){
+  if (!hash || !DATA.icons[hash]) return '';
+  return `<img src="${DATA.icons[hash]}" alt="${escapeHtml(alt||'')}" class="${cls||''}" loading="lazy">`;
+}
+
+let state = { classes: new Set(), races: new Set(), sort: 'newest' };
+
+function renderStats(){
+  const listings = DATA.listings;
+  document.getElementById('statTotal').textContent = listings.length.toLocaleString('es-AR');
+  const med = median(listings.map(l => l.priceUsdtMicros/1e6));
+  document.getElementById('statMedian').textContent = listings.length ? fmtInt(med) + ' USDT' : '—';
+  const sold = DATA.events.filter(e=>e.type==='vendido').length;
+  const moves = DATA.events.filter(e=>e.type==='cambio_precio').length;
+  document.getElementById('statSold').textContent = sold.toLocaleString('es-AR');
+  document.getElementById('statMoves').textContent = moves.toLocaleString('es-AR');
+
+  const sync = new Date(DATA.generatedAt);
+  document.getElementById('syncTime').textContent = sync.toLocaleString('es-AR', {day:'2-digit', month:'2-digit', hour:'2-digit', minute:'2-digit'});
+  const seedEvent = DATA.events.slice().reverse().find(e=>e.type==='seed_inicial');
+  document.getElementById('sinceTime').textContent = seedEvent
+    ? new Date(seedEvent.ts).toLocaleDateString('es-AR', {day:'2-digit', month:'2-digit', year:'numeric'})
+    : '—';
+}
+
+function buildFilterChips(){
+  const classIds = [...new Set(DATA.listings.map(l=>l.classId))].sort((a,b)=>a-b);
+  const raceIds = [...new Set(DATA.listings.map(l=>l.raceId))].sort((a,b)=>a-b);
+  const classEl = document.getElementById('classFilters');
+  const raceEl = document.getElementById('raceFilters');
+
+  classEl.innerHTML = classIds.map(id =>
+    `<button type="button" class="chip" data-kind="class" data-id="${id}">${CLASS_NAMES[id]||id}</button>`
+  ).join('');
+  raceEl.innerHTML = raceIds.map(id =>
+    `<button type="button" class="chip" data-kind="race" data-id="${id}">${RACE_NAMES[id]||id}</button>`
+  ).join('');
+
+  const sorts = [
+    ['newest','Más nuevos'], ['price_asc','Precio ↑'], ['price_desc','Precio ↓'],
+    ['level_asc','Nivel ↑'], ['level_desc','Nivel ↓'],
+  ];
+  document.getElementById('sortButtons').innerHTML = sorts.map(([id,label]) =>
+    `<button type="button" class="chip${id==='newest'?' active':''}" data-kind="sort" data-id="${id}">${label}</button>`
+  ).join('');
+
+  document.querySelectorAll('.chip').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const kind = btn.dataset.kind, id = btn.dataset.id;
+      if (kind === 'sort') {
+        document.querySelectorAll('.chip[data-kind="sort"]').forEach(b=>b.classList.remove('active'));
+        btn.classList.add('active');
+        state.sort = id;
+      } else {
+        const set = kind === 'class' ? state.classes : state.races;
+        const numId = Number(id);
+        if (set.has(numId)) { set.delete(numId); btn.classList.remove('active'); }
+        else { set.add(numId); btn.classList.add('active'); }
+      }
+      renderGrid();
+    });
+  });
+}
+
+function detailHTML(item){
+  const d = item.detail;
+  if (!d) return `<div class="detail"><p class="no-detail">Sin datos de detalle todavía (el bot los va completando de a poco).</p></div>`;
+  const stats = [
+    ['Oro en mano', fmtInt(d.gold||0)],
+    ['Oro en banco', fmtInt(d.bankGold||0)],
+    ['Clan', d.guild ? escapeHtml(d.guild) : '—'],
+    ['Muertes', fmtInt(d.deaths||0)],
+    ['Usuarios matados', fmtInt(d.usersKilled||0)],
+    ['Criminales matados', fmtInt(d.criminalsKilled||0)],
+    ['Ciudadanos matados', fmtInt(d.citizensKilled||0)],
+    ['Quests completadas', fmtInt(d.completedQuests||0)],
+  ];
+  const statsHtml = stats.map(([l,v]) => `<div class="detail-stat"><span class="v">${v}</span><span class="l">${l}</span></div>`).join('');
+  const invHtml = (d.inventory||[]).map(it => `
+    <div class="inv-item" title="${escapeHtml(it.name||'')} x${it.amount}">
+      ${it.equipped ? '<span class="eq"></span>' : ''}
+      ${icon(it.icon, it.name)}
+      <span class="amt">x${it.amount}</span>
+      <span class="nm">${escapeHtml(it.name||'')}</span>
+    </div>`).join('');
+  return `<div class="detail">
+    <div class="detail-stats">${statsHtml}</div>
+    ${invHtml ? `<div><div class="inv-label">Inventario (${d.inventory.length})</div><div class="inv-grid">${invHtml}</div></div>` : ''}
+    <p class="no-detail">Hechizos, skills y bóveda: "Ver en el market ↗" (mientras el listado siga activo).</p>
+  </div>`;
+}
+
+function cardHTML(item){
+  const factionColor = (item.faction % 2 === 0) ? 'var(--red)' : 'var(--blue)';
+  const clase = CLASS_NAMES[item.classId] || item.classId;
+  const raza = RACE_NAMES[item.raceId] || item.raceId;
+  const price = item.priceUsdtMicros / 1e6;
+  const avatarInner = icon(item.spriteIcon, item.name) || escapeHtml((item.name||'?').slice(0,2).toUpperCase());
+  return `<article class="card" style="--faction-color:${factionColor}" data-listing="${item.listingId}">
+    <div class="card-top">
+      <div class="avatar">${avatarInner}</div>
+      <div class="card-id">
+        <div class="card-name-row">
+          <span class="card-name" style="color:${factionColor}" title="${escapeHtml(item.name)}">${escapeHtml(item.name)}</span>
+          ${item.online ? '<span class="pill pill-online">online</span>' : ''}
+        </div>
+        <div class="card-meta">${clase} · ${raza} · Nivel ${item.level}</div>
+      </div>
+    </div>
+    <div class="bar-row">
+      <div class="bar bar-hp"><div class="bar-fill" style="width:${pct(item.hp,item.maxHp)}%"></div></div>
+      <div class="bar bar-mp"><div class="bar-fill" style="width:${pct(item.mp,item.maxMp)}%"></div></div>
+    </div>
+    <div class="card-bottom">
+      <div class="card-price mono">${fmtPrice(price)}<span class="unit">USDT</span></div>
+      <div class="card-actions">
+        <button type="button" class="detail-toggle">Oro / inv.</button>
+        <a class="detail-link" href="https://unitedonline.com.ar/mercado/${item.listingId}" target="_blank" rel="noopener">Market ↗</a>
+      </div>
+    </div>
+    ${detailHTML(item)}
+  </article>`;
+}
+
+function renderGrid(){
+  let items = DATA.listings.filter(l =>
+    (state.classes.size === 0 || state.classes.has(l.classId)) &&
+    (state.races.size === 0 || state.races.has(l.raceId))
+  );
+  const sorters = {
+    newest: (a,b) => new Date(b.createdAt) - new Date(a.createdAt),
+    price_asc: (a,b) => a.priceUsdtMicros - b.priceUsdtMicros,
+    price_desc: (a,b) => b.priceUsdtMicros - a.priceUsdtMicros,
+    level_asc: (a,b) => a.level - b.level,
+    level_desc: (a,b) => b.level - a.level,
+  };
+  items = items.slice().sort(sorters[state.sort]);
+  const grid = document.getElementById('listingGrid');
+  grid.innerHTML = items.length
+    ? items.map(cardHTML).join('')
+    : `<div class="empty-grid">Ningún personaje coincide con estos filtros.</div>`;
+
+  grid.querySelectorAll('.detail-toggle').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const card = btn.closest('.card');
+      const expanding = !card.classList.contains('expanded');
+      card.classList.toggle('expanded');
+      btn.textContent = expanding ? 'Ocultar detalle' : 'Ver detalle';
+    });
+  });
+}
+
+function feedItemHTML(e, kind){
+  let badge = '', detail = escapeHtml(e.detail || '');
+  if (kind === 'sales') {
+    badge = e.type === 'vendido'
+      ? '<span class="feed-badge badge-vendido">vendido</span>'
+      : '<span class="feed-badge badge-retirado">retirado</span>';
+  } else {
+    const up = /subió/.test(e.detail || '');
+    badge = up
+      ? '<span class="feed-badge badge-up">subió</span>'
+      : '<span class="feed-badge badge-down">bajó</span>';
+  }
+  return `<div class="feed-item">
+    <div class="feed-head">
+      <span class="feed-name">${escapeHtml(e.name || '—')}</span>
+      ${badge}
+    </div>
+    <div class="feed-detail mono">${detail}</div>
+    <div class="feed-time">${relTime(e.ts)}</div>
+  </div>`;
+}
+
+function renderFeeds(){
+  const sales = DATA.events.filter(e => e.type === 'vendido' || e.type === 'retirado_o_vencido');
+  const moves = DATA.events.filter(e => e.type === 'cambio_precio');
+
+  document.getElementById('salesFeed').innerHTML = sales.length
+    ? sales.map(e => feedItemHTML(e,'sales')).join('')
+    : `<div class="feed-empty">Todavía no se registró ninguna venta ni retiro. El bot revisa el mercado cada 5 minutos — esto se va a ir llenando solo.</div>`;
+
+  document.getElementById('priceFeed').innerHTML = moves.length
+    ? moves.map(e => feedItemHTML(e,'moves')).join('')
+    : `<div class="feed-empty">Sin cambios de precio detectados todavía.</div>`;
+}
+
+renderStats();
+buildFilterChips();
+renderGrid();
+renderFeeds();
+</script>

@@ -1,0 +1,59 @@
+name: Mercado Radar
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: mercado-radar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+      - run: playwright install --with-deps chromium
+
+      - name: Run bot (scrape + blockchain check)
+        env:
+          ANKR_API_KEY: ${{ secrets.ANKR_API_KEY }}
+        run: python bot.py
+
+      - name: Build page
+        run: python build_page.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "mercado-radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state.db assets last_content_hash.txt events.log
+          git diff --staged --quiet || git commit -m "Actualizar estado del mercado"
+          git push
+
+      - name: Prepare Pages artifact
+        run: |
+          mkdir -p _site
+          cp mercado_radar.html _site/index.html
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - uses: actions/deploy-pages@v4
+        id: deployment

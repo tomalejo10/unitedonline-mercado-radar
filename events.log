@@ -1,0 +1,291 @@
+[2026-08-25T16:12:05.034070+00:00] seed_inicial | - (listing None) | 170 personajes cargados
+[2026-08-25T16:46:12.964033+00:00] WARN no se pudo traer el detalle del listing 552: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:46:32.562723+00:00] WARN no se pudo traer el detalle del listing 549: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:47:01.052282+00:00] WARN no se pudo traer el detalle del listing 538: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:47:01.140797+00:00] WARN no se pudo traer el detalle del listing 542: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:47:05.637771+00:00] WARN no se pudo traer el detalle del listing 537: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:47:05.723163+00:00] WARN no se pudo traer el detalle del listing 541: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:47:22.981984+00:00] WARN no se pudo traer el detalle del listing 527: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:47:23.259465+00:00] WARN no se pudo traer el detalle del listing 525: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:47:27.566775+00:00] WARN no se pudo traer el detalle del listing 525: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:47:27.832427+00:00] WARN no se pudo traer el detalle del listing 524: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:47:40.259204+00:00] WARN no se pudo traer el detalle del listing 517: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:47:40.293009+00:00] WARN no se pudo traer el detalle del listing 517: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:47:44.836025+00:00] WARN no se pudo traer el detalle del listing 516: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:47:44.870739+00:00] WARN no se pudo traer el detalle del listing 516: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:47:53.668758+00:00] WARN no se pudo traer el detalle del listing 509: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:47:53.708405+00:00] WARN no se pudo traer el detalle del listing 509: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:47:58.256181+00:00] WARN no se pudo traer el detalle del listing 508: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:47:58.309012+00:00] WARN no se pudo traer el detalle del listing 508: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:48:12.732002+00:00] WARN no se pudo traer el detalle del listing 500: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:48:12.767556+00:00] WARN no se pudo traer el detalle del listing 500: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:48:17.306803+00:00] WARN no se pudo traer el detalle del listing 498: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:48:17.359871+00:00] WARN no se pudo traer el detalle del listing 498: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:48:27.948584+00:00] WARN no se pudo traer el detalle del listing 494: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:48:27.975478+00:00] WARN no se pudo traer el detalle del listing 494: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:48:32.520800+00:00] WARN no se pudo traer el detalle del listing 493: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:48:32.560719+00:00] WARN no se pudo traer el detalle del listing 493: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:48:40.589983+00:00] WARN no se pudo traer el detalle del listing 484: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:48:41.829116+00:00] WARN no se pudo traer el detalle del listing 483: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:48:45.170698+00:00] WARN no se pudo traer el detalle del listing 483: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:48:46.401733+00:00] WARN no se pudo traer el detalle del listing 477: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:48:56.349072+00:00] WARN no se pudo traer el detalle del listing 461: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:48:56.369029+00:00] WARN no se pudo traer el detalle del listing 471: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:49:00.929995+00:00] WARN no se pudo traer el detalle del listing 460: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:49:00.964759+00:00] WARN no se pudo traer el detalle del listing 467: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:49:10.030443+00:00] WARN no se pudo traer el detalle del listing 450: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:49:10.044369+00:00] WARN no se pudo traer el detalle del listing 457: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:49:14.615289+00:00] WARN no se pudo traer el detalle del listing 449: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:49:14.651410+00:00] WARN no se pudo traer el detalle del listing 456: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:49:22.967111+00:00] WARN no se pudo traer el detalle del listing 447: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:49:23.501918+00:00] WARN no se pudo traer el detalle del listing 432: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:49:27.546204+00:00] WARN no se pudo traer el detalle del listing 446: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:49:28.079908+00:00] WARN no se pudo traer el detalle del listing 429: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:49:39.748401+00:00] WARN no se pudo traer el detalle del listing 407: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:49:40.055662+00:00] WARN no se pudo traer el detalle del listing 394: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:49:44.343009+00:00] WARN no se pudo traer el detalle del listing 405: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:49:44.627788+00:00] WARN no se pudo traer el detalle del listing 390: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:49:53.741783+00:00] WARN no se pudo traer el detalle del listing 394: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:49:54.651854+00:00] WARN no se pudo traer el detalle del listing 361: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:49:58.345346+00:00] WARN no se pudo traer el detalle del listing 390: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:50:12.621297+00:00] WARN no se pudo traer el detalle del listing 354: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:50:17.219413+00:00] WARN no se pudo traer el detalle del listing 353: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:50:30.931415+00:00] WARN no se pudo traer el detalle del listing 323: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:50:35.518973+00:00] WARN no se pudo traer el detalle del listing 322: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:50:48.951567+00:00] WARN no se pudo traer el detalle del listing 259: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:50:53.534766+00:00] WARN no se pudo traer el detalle del listing 258: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:51:04.881245+00:00] WARN no se pudo traer el detalle del listing 216: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:51:09.469898+00:00] WARN no se pudo traer el detalle del listing 211: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:51:19.341801+00:00] WARN no se pudo traer el detalle del listing 182: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:51:19.577786+00:00] WARN no se pudo traer el detalle del listing 516: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:51:23.926780+00:00] WARN no se pudo traer el detalle del listing 180: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:51:24.156365+00:00] WARN no se pudo traer el detalle del listing 509: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:51:32.391033+00:00] WARN no se pudo traer el detalle del listing 494: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:51:32.627368+00:00] WARN no se pudo traer el detalle del listing 141: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:51:36.967526+00:00] WARN no se pudo traer el detalle del listing 493: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:51:37.217079+00:00] WARN no se pudo traer el detalle del listing 134: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:51:47.223831+00:00] WARN no se pudo traer el detalle del listing 38: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:51:47.659263+00:00] WARN no se pudo traer el detalle del listing 216: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:51:51.809161+00:00] WARN no se pudo traer el detalle del listing 32: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:51:52.232214+00:00] WARN no se pudo traer el detalle del listing 211: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:51:54.421746+00:00] nuevo_listado | Usualy (listing 553) | Cazador · Enano · Nivel 36 · 75 USDT
+[2026-08-25T16:52:00.492125+00:00] WARN no se pudo traer el detalle del listing 160: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:52:05.084523+00:00] WARN no se pudo traer el detalle del listing 146: Page.evaluate: TypeError: Failed to fetch
+    at eval (eval at evaluate (:302:30), <anonymous>:1:8)
+    at UtilityScript.evaluate (<anonymous>:309:18)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-08-25T16:52:10.808653+00:00] cambio_precio | China Suarez (listing 500) | precio bajó: 80 -> 70 USDT
+[2026-08-25T16:53:58.643442+00:00] ERROR consultando blockchain (se reintenta la próxima corrida): Todos los RPC fallaron: {'code': -32005, 'message': 'limit exceeded'}
+[2026-08-25T16:56:15.027636+00:00] ERROR consultando blockchain (se reintenta la próxima corrida): Todos los RPC fallaron: {'code': -32005, 'message': 'limit exceeded'}
+[2026-08-25T17:01:17.576205+00:00] ERROR consultando blockchain (se reintenta la próxima corrida): Todos los RPC fallaron: {'code': -32005, 'message': 'limit exceeded'}
+[2026-08-25T17:06:04.116609+00:00] cambio_precio | ThommyGun (listing 353) | precio subió: 50 -> 55 USDT
