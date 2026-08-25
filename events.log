@@ -293,3 +293,9 @@
 [2026-08-25T17:56:30.698589+00:00] nuevo_listado | Totelio (listing 554) | Clérigo · Elfo oscuro · Nivel 36 · 140 USDT
 [2026-08-25T17:56:32.029351+00:00] retirado_o_vencido | Adelga Mate (listing 446) | 300 USDT | sin transferencia coincidente tras 62 min
 [2026-08-25T17:56:32.029488+00:00] retirado_o_vencido | Ephel (listing 494) | 130 USDT | sin transferencia coincidente tras 62 min
+[2026-08-25T19:18:17.410037+00:00] nuevo_listado | SJEANE (listing 555) | Druida · Elfo · Nivel 39 · 195 USDT
+[2026-08-25T19:18:17.410096+00:00] cambio_precio | Dios Cuervo (listing 512) | precio bajó: 170 -> 110 USDT
+[2026-08-25T19:18:17.410577+00:00] cambio_precio | El Tripa (listing 354) | precio bajó: 200 -> 170 USDT
+[2026-08-25T19:18:17.410630+00:00] cambio_precio | LMH (listing 361) | precio bajó: 80 -> 70 USDT
+[2026-08-25T19:18:17.410815+00:00] cambio_precio | Niv (listing 487) | precio bajó: 199 -> 159 USDT
+[2026-08-25T19:18:21.254273+00:00] retirado_o_vencido | China Suarez (listing 500) | 70 USDT | sin transferencia coincidente tras 114 min
