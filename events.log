@@ -290,3 +290,6 @@
 [2026-08-25T17:01:17.576205+00:00] ERROR consultando blockchain (se reintenta la próxima corrida): Todos los RPC fallaron: {'code': -32005, 'message': 'limit exceeded'}
 [2026-08-25T17:06:04.116609+00:00] cambio_precio | ThommyGun (listing 353) | precio subió: 50 -> 55 USDT
 [2026-08-25T17:28:34.878125+00:00] cambio_precio | ThommyGun (listing 353) | precio bajó: 55 -> 50 USDT
+[2026-08-25T17:56:30.698589+00:00] nuevo_listado | Totelio (listing 554) | Clérigo · Elfo oscuro · Nivel 36 · 140 USDT
+[2026-08-25T17:56:32.029351+00:00] retirado_o_vencido | Adelga Mate (listing 446) | 300 USDT | sin transferencia coincidente tras 62 min
+[2026-08-25T17:56:32.029488+00:00] retirado_o_vencido | Ephel (listing 494) | 130 USDT | sin transferencia coincidente tras 62 min
