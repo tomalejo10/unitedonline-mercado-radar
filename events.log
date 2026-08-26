@@ -311,3 +311,7 @@
 [2026-08-26T00:00:13.202956+00:00] nuevo_listado | pROPANO (listing 561) | Bardo · Gnomo · Nivel 36 · 90 USDT
 [2026-08-26T00:00:13.203031+00:00] nuevo_listado | oDEGARD (listing 562) | Clérigo · Elfo · Nivel 25 · 50 USDT
 [2026-08-26T00:00:13.203066+00:00] nuevo_listado | Lelouch (listing 563) | Druida · Elfo · Nivel 44 · 750 USDT
+[2026-08-26T01:51:31.948896+00:00] nuevo_listado | Capote (listing 564) | Mago · Elfo · Nivel 42 · 330 USDT
+[2026-08-26T01:51:31.948983+00:00] cambio_precio | ELVIRA (listing 522) | precio bajó: 125 -> 115 USDT
+[2026-08-26T01:51:31.949035+00:00] cambio_precio | BlackFire (listing 534) | precio bajó: 250 -> 225 USDT
+[2026-08-26T01:51:31.949320+00:00] cambio_precio | Nayral (listing 467) | precio bajó: 70 -> 65 USDT
