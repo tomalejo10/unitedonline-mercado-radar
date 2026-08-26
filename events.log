@@ -344,3 +344,8 @@
 [2026-08-26T16:59:51.595774+00:00] nuevo_listado | Lucila Manguera (listing 571) | Cazador · Enano · Nivel 25 · 50 USDT
 [2026-08-26T16:59:51.595827+00:00] nuevo_listado | MATALEY (listing 572) | Bardo · Elfo · Nivel 39 · 150 USDT
 [2026-08-26T16:59:51.596062+00:00] cambio_precio | Usualy (listing 553) | precio bajó: 75 -> 70 USDT
+[2026-08-26T19:12:56.104262+00:00] cambio_precio | El Armenio (listing 359) | precio bajó: 110 -> 100 USDT
+[2026-08-26T19:12:56.104480+00:00] cambio_precio | Diir (listing 492) | precio bajó: 250 -> 195 USDT
+[2026-08-26T19:12:56.104540+00:00] cambio_precio | Mesami (listing 503) | precio bajó: 140 -> 135 USDT
+[2026-08-26T19:12:58.935870+00:00] retirado_o_vencido | MATALEY (listing 525) | 300 USDT | sin transferencia coincidente tras 133 min
+[2026-08-26T19:12:58.936053+00:00] retirado_o_vencido | Necrofaga (listing 527) | 85 USDT | sin transferencia coincidente tras 133 min
