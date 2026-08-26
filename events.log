@@ -315,3 +315,13 @@
 [2026-08-26T01:51:31.948983+00:00] cambio_precio | ELVIRA (listing 522) | precio bajó: 125 -> 115 USDT
 [2026-08-26T01:51:31.949035+00:00] cambio_precio | BlackFire (listing 534) | precio bajó: 250 -> 225 USDT
 [2026-08-26T01:51:31.949320+00:00] cambio_precio | Nayral (listing 467) | precio bajó: 70 -> 65 USDT
+[2026-08-26T03:03:59.003699+00:00] nuevo_listado | Wanda Nara (listing 565) | Mago · Gnomo · Nivel 37 · 100 USDT
+[2026-08-26T03:03:59.003752+00:00] nuevo_listado | Maria Soledad (listing 566) | Asesino · Humano · Nivel 33 · 50 USDT
+[2026-08-26T03:03:59.003876+00:00] cambio_precio | murat (listing 542) | precio subió: 230 -> 280 USDT
+[2026-08-26T03:03:59.003942+00:00] cambio_precio | Rengarr (listing 559) | precio bajó: 59 -> 50 USDT
+[2026-08-26T03:03:59.004090+00:00] cambio_precio | Caillou (listing 322) | precio bajó: 65 -> 50 USDT
+[2026-08-26T03:03:59.004114+00:00] cambio_precio | Jimi (listing 332) | precio bajó: 380 -> 220 USDT
+[2026-08-26T03:03:59.004183+00:00] cambio_precio | Aquaa (listing 377) | precio bajó: 350 -> 300 USDT
+[2026-08-26T03:04:01.988833+00:00] retirado_o_vencido | gavilAn (listing 407) | 88 USDT | sin transferencia coincidente tras 72 min
+[2026-08-26T03:04:01.988939+00:00] retirado_o_vencido | Chimoltrufia (listing 497) | 145 USDT | sin transferencia coincidente tras 72 min
+[2026-08-26T03:04:01.988961+00:00] retirado_o_vencido | Lelouch (listing 563) | 750 USDT | sin transferencia coincidente tras 72 min
