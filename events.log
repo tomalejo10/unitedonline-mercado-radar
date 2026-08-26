@@ -340,3 +340,7 @@
 [2026-08-26T16:01:05.817400+00:00] cambio_precio | M a (listing 134) | precio bajó: 750 -> 500 USDT
 [2026-08-26T16:01:05.817672+00:00] cambio_precio | Jupi (listing 484) | precio bajó: 300 -> 170 USDT
 [2026-08-26T16:01:05.817710+00:00] cambio_precio | Pilar (listing 495) | precio subió: 50 -> 70 USDT
+[2026-08-26T16:59:51.595703+00:00] nuevo_listado | Teemo (listing 570) | Mago · Humano · Nivel 32 · 55 USDT
+[2026-08-26T16:59:51.595774+00:00] nuevo_listado | Lucila Manguera (listing 571) | Cazador · Enano · Nivel 25 · 50 USDT
+[2026-08-26T16:59:51.595827+00:00] nuevo_listado | MATALEY (listing 572) | Bardo · Elfo · Nivel 39 · 150 USDT
+[2026-08-26T16:59:51.596062+00:00] cambio_precio | Usualy (listing 553) | precio bajó: 75 -> 70 USDT
