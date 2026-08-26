@@ -330,3 +330,7 @@
 [2026-08-26T06:06:20.960138+00:00] cambio_precio | Vithak (listing 163) | precio bajó: 140 -> 100 USDT
 [2026-08-26T07:09:31.045596+00:00] cambio_precio | Klyf (listing 538) | precio bajó: 270 -> 250 USDT
 [2026-08-26T07:09:31.045683+00:00] cambio_precio | differeNt (listing 544) | precio bajó: 270 -> 260 USDT
+[2026-08-26T13:34:07.642632+00:00] nuevo_listado | ThieveS (listing 568) | Mago · Elfo · Nivel 40 · 190 USDT
+[2026-08-26T13:34:07.642848+00:00] cambio_precio | Rhaena (listing 546) | precio bajó: 250 -> 225 USDT
+[2026-08-26T13:34:07.642906+00:00] cambio_precio | PATADA (listing 551) | precio bajó: 150 -> 133 USDT
+[2026-08-26T13:34:07.643428+00:00] cambio_precio | Krauser (listing 493) | precio bajó: 96 -> 69 USDT
