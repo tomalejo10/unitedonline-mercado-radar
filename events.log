@@ -349,3 +349,7 @@
 [2026-08-26T19:12:56.104540+00:00] cambio_precio | Mesami (listing 503) | precio bajó: 140 -> 135 USDT
 [2026-08-26T19:12:58.935870+00:00] retirado_o_vencido | MATALEY (listing 525) | 300 USDT | sin transferencia coincidente tras 133 min
 [2026-08-26T19:12:58.936053+00:00] retirado_o_vencido | Necrofaga (listing 527) | 85 USDT | sin transferencia coincidente tras 133 min
+[2026-08-26T22:09:10.330632+00:00] nuevo_listado | rAZOR (listing 573) | Mago · Gnomo · Nivel 37 · 170 USDT
+[2026-08-26T22:09:10.330858+00:00] cambio_precio | Doue (listing 552) | precio bajó: 200 -> 180 USDT
+[2026-08-26T22:09:10.331043+00:00] cambio_precio | Neymar (listing 238) | precio bajó: 350 -> 150 USDT
+[2026-08-26T22:09:10.331374+00:00] cambio_precio | Mesami (listing 503) | precio bajó: 135 -> 125 USDT
