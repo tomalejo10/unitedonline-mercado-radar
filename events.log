@@ -353,3 +353,20 @@
 [2026-08-26T22:09:10.330858+00:00] cambio_precio | Doue (listing 552) | precio bajó: 200 -> 180 USDT
 [2026-08-26T22:09:10.331043+00:00] cambio_precio | Neymar (listing 238) | precio bajó: 350 -> 150 USDT
 [2026-08-26T22:09:10.331374+00:00] cambio_precio | Mesami (listing 503) | precio bajó: 135 -> 125 USDT
+[2026-08-27T03:18:52.883675+00:00] nuevo_listado | Oscuridad (listing 576) | Asesino · Enano · Nivel 34 · 50 USDT
+[2026-08-27T03:18:52.883768+00:00] nuevo_listado | MEMU (listing 574) | Paladín · Elfo oscuro · Nivel 42 · 235 USDT
+[2026-08-27T03:18:52.883817+00:00] nuevo_listado | lFl (listing 575) | Mago · Elfo · Nivel 33 · 50 USDT
+[2026-08-27T03:18:52.883930+00:00] cambio_precio | BlackFire (listing 534) | precio bajó: 225 -> 200 USDT
+[2026-08-27T03:18:52.884018+00:00] cambio_precio | Usualy (listing 553) | precio bajó: 70 -> 68 USDT
+[2026-08-27T03:18:52.884074+00:00] cambio_precio | aheryN (listing 567) | precio bajó: 125 -> 110 USDT
+[2026-08-27T03:18:52.884099+00:00] cambio_precio | ThieveS (listing 568) | precio bajó: 190 -> 180 USDT
+[2026-08-27T03:18:52.884128+00:00] cambio_precio | Teemo (listing 570) | precio bajó: 55 -> 50 USDT
+[2026-08-27T03:18:52.884199+00:00] cambio_precio | VESSLAN (listing 180) | precio bajó: 400 -> 250 USDT
+[2026-08-27T03:18:52.884320+00:00] cambio_precio | Jimi (listing 332) | precio bajó: 220 -> 155 USDT
+[2026-08-27T03:18:52.884366+00:00] cambio_precio | Ruths (listing 349) | precio bajó: 150 -> 90 USDT
+[2026-08-27T03:18:52.884403+00:00] cambio_precio | LMH (listing 361) | precio bajó: 70 -> 65 USDT
+[2026-08-27T03:18:52.884502+00:00] cambio_precio | Aheel (listing 456) | precio bajó: 380 -> 320 USDT
+[2026-08-27T03:18:52.884529+00:00] cambio_precio | sveNja (listing 458) | precio bajó: 130 -> 120 USDT
+[2026-08-27T03:18:52.884618+00:00] cambio_precio | Mario Moran (listing 501) | precio bajó: 175 -> 160 USDT
+[2026-08-27T03:18:58.862990+00:00] retirado_o_vencido | rAZOR (listing 543) | 225 USDT | sin transferencia coincidente tras 309 min
+[2026-08-27T03:18:58.863076+00:00] retirado_o_vencido | oDEGARD (listing 562) | 50 USDT | sin transferencia coincidente tras 309 min
