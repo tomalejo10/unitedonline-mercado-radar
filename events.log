@@ -370,3 +370,23 @@
 [2026-08-27T03:18:52.884618+00:00] cambio_precio | Mario Moran (listing 501) | precio bajó: 175 -> 160 USDT
 [2026-08-27T03:18:58.862990+00:00] retirado_o_vencido | rAZOR (listing 543) | 225 USDT | sin transferencia coincidente tras 309 min
 [2026-08-27T03:18:58.863076+00:00] retirado_o_vencido | oDEGARD (listing 562) | 50 USDT | sin transferencia coincidente tras 309 min
+[2026-08-27T14:27:22.545904+00:00] nuevo_listado | QuritA (listing 577) | Mago · Elfo · Nivel 34 · 65 USDT
+[2026-08-27T14:27:22.545976+00:00] nuevo_listado | DOBB (listing 578) | Paladín · Elfo · Nivel 28 · 50 USDT
+[2026-08-27T14:27:22.546028+00:00] nuevo_listado | Mifky (listing 579) | Mago · Gnomo · Nivel 40 · 145 USDT
+[2026-08-27T14:27:22.546120+00:00] cambio_precio | Revel Stoke (listing 514) | precio bajó: 350 -> 200 USDT
+[2026-08-27T14:27:22.546216+00:00] cambio_precio | Krivens (listing 529) | precio bajó: 200 -> 170 USDT
+[2026-08-27T14:27:22.546263+00:00] cambio_precio | Viserys (listing 530) | precio bajó: 170 -> 160 USDT
+[2026-08-27T14:27:22.546307+00:00] cambio_precio | MARK (listing 531) | precio bajó: 70 -> 60 USDT
+[2026-08-27T14:27:22.546393+00:00] cambio_precio | gialE (listing 532) | precio bajó: 170 -> 160 USDT
+[2026-08-27T14:27:22.546485+00:00] cambio_precio | murat (listing 542) | precio bajó: 280 -> 180 USDT
+[2026-08-27T14:27:22.546533+00:00] cambio_precio | differeNt (listing 544) | precio bajó: 260 -> 250 USDT
+[2026-08-27T14:27:22.546582+00:00] cambio_precio | Gwayne (listing 548) | precio bajó: 219 -> 200 USDT
+[2026-08-27T14:27:22.546668+00:00] cambio_precio | Capote (listing 564) | precio bajó: 330 -> 280 USDT
+[2026-08-27T14:27:22.546769+00:00] cambio_precio | Presi Dacca (listing 133) | precio bajó: 250 -> 200 USDT
+[2026-08-27T14:27:22.546833+00:00] cambio_precio | VESSLAN (listing 180) | precio bajó: 250 -> 150 USDT
+[2026-08-27T14:27:22.546897+00:00] cambio_precio | wachina (listing 211) | precio subió: 260 -> 300 USDT
+[2026-08-27T14:27:22.547067+00:00] cambio_precio | El Tripa (listing 354) | precio bajó: 170 -> 155 USDT
+[2026-08-27T14:27:22.547266+00:00] cambio_precio | UndentifieD (listing 496) | precio subió: 89 -> 100 USDT
+[2026-08-27T14:27:47.218671+00:00] retirado_o_vencido | Mayseck (listing 477) | 50 USDT | sin transferencia coincidente tras 668 min
+[2026-08-27T14:27:47.218796+00:00] retirado_o_vencido | MEMU (listing 523) | 260 USDT | sin transferencia coincidente tras 668 min
+[2026-08-27T14:27:47.218864+00:00] vendido | Jupi (listing 484) | 170 USDT | tx 0x7dc38aeb64bcfb4fe991fabe80ac0e59b469e4176d574674c928605490540751 | comprador 0xbd612a3f30dca67bf60a39fd0d35e39b7ab80774
