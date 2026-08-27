@@ -390,3 +390,29 @@
 [2026-08-27T14:27:47.218671+00:00] retirado_o_vencido | Mayseck (listing 477) | 50 USDT | sin transferencia coincidente tras 668 min
 [2026-08-27T14:27:47.218796+00:00] retirado_o_vencido | MEMU (listing 523) | 260 USDT | sin transferencia coincidente tras 668 min
 [2026-08-27T14:27:47.218864+00:00] vendido | Jupi (listing 484) | 170 USDT | tx 0x7dc38aeb64bcfb4fe991fabe80ac0e59b469e4176d574674c928605490540751 | comprador 0xbd612a3f30dca67bf60a39fd0d35e39b7ab80774
+[2026-08-27T23:53:16.873246+00:00] nuevo_listado | zophiE (listing 580) | Cazador · Orco · Nivel 37 · 120 USDT
+[2026-08-27T23:53:16.873326+00:00] nuevo_listado | Alysanne (listing 581) | Mago · Humano · Nivel 39 · 99 USDT
+[2026-08-27T23:53:16.873388+00:00] nuevo_listado | wakosfhf (listing 582) | Mago · Elfo · Nivel 40 · 140 USDT
+[2026-08-27T23:53:16.873435+00:00] nuevo_listado | Ruths (listing 583) | Paladín · Humano · Nivel 38 · 90 USDT
+[2026-08-27T23:53:16.873480+00:00] nuevo_listado | Ullr (listing 584) | Cazador · Enano · Nivel 39 · 180 USDT
+[2026-08-27T23:53:16.873523+00:00] nuevo_listado | zaira nara (listing 585) | Mago · Humano · Nivel 25 · 50 USDT
+[2026-08-27T23:53:16.873566+00:00] nuevo_listado | CuetOh Rlz (listing 586) | Mago · Gnomo · Nivel 44 · 400 USDT
+[2026-08-27T23:53:16.873608+00:00] nuevo_listado | MEMU (listing 587) | Paladín · Elfo oscuro · Nivel 42 · 199 USDT
+[2026-08-27T23:53:16.873651+00:00] nuevo_listado | DONOWitz (listing 588) | Mago · Elfo · Nivel 32 · 80 USDT
+[2026-08-27T23:53:16.873693+00:00] nuevo_listado | aNaDriEl (listing 589) | Paladín · Humano · Nivel 44 · 560 USDT
+[2026-08-27T23:53:16.873734+00:00] nuevo_listado | nAna (listing 590) | Bardo · Gnomo · Nivel 31 · 80 USDT
+[2026-08-27T23:53:16.873820+00:00] cambio_precio | Myst (listing 513) | precio bajó: 300 -> 250 USDT
+[2026-08-27T23:53:16.873887+00:00] cambio_precio | ITACHl (listing 516) | precio bajó: 80 -> 67 USDT
+[2026-08-27T23:53:16.874079+00:00] cambio_precio | Rhaena (listing 546) | precio bajó: 225 -> 200 USDT
+[2026-08-27T23:53:16.874159+00:00] cambio_precio | Kzjnlaw (listing 556) | precio bajó: 70 -> 50 USDT
+[2026-08-27T23:53:16.874213+00:00] cambio_precio | pROPANO (listing 561) | precio bajó: 90 -> 80 USDT
+[2026-08-27T23:53:16.874291+00:00] cambio_precio | Wanda Nara (listing 565) | precio bajó: 100 -> 85 USDT
+[2026-08-27T23:53:16.874471+00:00] cambio_precio | Luxury (listing 240) | precio bajó: 370 -> 320 USDT
+[2026-08-27T23:53:16.874739+00:00] cambio_precio | Barton (listing 462) | precio bajó: 150 -> 145 USDT
+[2026-08-27T23:53:16.874809+00:00] cambio_precio | hjkNv (listing 475) | precio subió: 185 -> 200 USDT
+[2026-08-27T23:53:16.874865+00:00] cambio_precio | Diir (listing 492) | precio bajó: 195 -> 115 USDT
+[2026-08-27T23:53:16.874999+00:00] cambio_precio | Mesami (listing 503) | precio bajó: 125 -> 120 USDT
+[2026-08-27T23:53:42.883332+00:00] retirado_o_vencido | Chaman (listing 412) | 140 USDT | sin transferencia coincidente tras 566 min
+[2026-08-27T23:53:42.883456+00:00] retirado_o_vencido | Urkha (listing 545) | 250 USDT | sin transferencia coincidente tras 566 min
+[2026-08-27T23:53:42.883516+00:00] vendido | Neymar (listing 238) | 150 USDT | tx 0x689d88b48fa2e5dc287a882b29564b8ce735fdf42ebc74f22321ba6680ae158a | comprador 0xc1da33e8d60daf4f93a52357a57a076f44c45759
+[2026-08-27T23:53:42.883591+00:00] vendido | Vito (listing 558) | 150 USDT | tx 0x87733f913f1a190b3b09ebd0b65c1d11df1dce3c1f7eec080ea43c7b9151e4e3 | comprador 0x515b72ed8a97f42c568d6a143232775018f133c8
