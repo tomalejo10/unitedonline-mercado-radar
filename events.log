@@ -440,3 +440,27 @@
 [2026-08-28T09:40:30.462241+00:00] retirado_o_vencido | Boo (listing 515) | 50 USDT | sin transferencia coincidente tras 587 min
 [2026-08-28T09:40:30.462293+00:00] retirado_o_vencido | MEMU (listing 574) | 235 USDT | sin transferencia coincidente tras 587 min
 [2026-08-28T09:40:30.462352+00:00] vendido | Usualy (listing 553) | 68 USDT | tx 0xfbcc8bd06774a2344fd4eb77aea1334f10912c161b4cd890a56ed8af180ed5fb | comprador 0xac7b1b390becb677db28041c29ff86374afd861c
+[2026-08-28T21:00:15.025674+00:00] nuevo_listado | Rhaena (listing 596) | Clérigo · Elfo oscuro · Nivel 42 · 250 USDT
+[2026-08-28T21:00:15.025718+00:00] nuevo_listado | mAyda (listing 598) | Bardo · Elfo · Nivel 37 · 105 USDT
+[2026-08-28T21:00:15.025741+00:00] nuevo_listado | Barak (listing 599) | Guerrero · Enano · Nivel 34 · 85 USDT
+[2026-08-28T21:00:15.025778+00:00] nuevo_listado | SilverBako (listing 600) | Guerrero · Enano · Nivel 34 · 50 USDT
+[2026-08-28T21:00:15.025796+00:00] nuevo_listado | MATALEY (listing 601) | Bardo · Elfo · Nivel 39 · 115 USDT
+[2026-08-28T21:00:15.025852+00:00] cambio_precio | ELVIRA (listing 522) | precio subió: 125 -> 150 USDT
+[2026-08-28T21:00:15.025890+00:00] cambio_precio | Klyf (listing 538) | precio bajó: 250 -> 225 USDT
+[2026-08-28T21:00:15.025924+00:00] cambio_precio | AskelaD (listing 549) | precio bajó: 60 -> 55 USDT
+[2026-08-28T21:00:15.025942+00:00] cambio_precio | PATADA (listing 551) | precio bajó: 125 -> 115 USDT
+[2026-08-28T21:00:15.025977+00:00] cambio_precio | Wanda Nara (listing 565) | precio bajó: 85 -> 75 USDT
+[2026-08-28T21:00:15.025996+00:00] cambio_precio | aheryN (listing 567) | precio bajó: 110 -> 100 USDT
+[2026-08-28T21:00:15.026028+00:00] cambio_precio | DOBB (listing 578) | precio subió: 50 -> 95 USDT
+[2026-08-28T21:00:15.026046+00:00] cambio_precio | zophiE (listing 580) | precio bajó: 120 -> 95 USDT
+[2026-08-28T21:00:15.026062+00:00] cambio_precio | Alysanne (listing 581) | precio bajó: 99 -> 88 USDT
+[2026-08-28T21:00:15.026078+00:00] cambio_precio | wakosfhf (listing 582) | precio bajó: 140 -> 139 USDT
+[2026-08-28T21:00:15.026163+00:00] cambio_precio | Luxury (listing 240) | precio subió: 320 -> 330 USDT
+[2026-08-28T21:00:15.026272+00:00] cambio_precio | Blandius (listing 390) | precio bajó: 70 -> 50 USDT
+[2026-08-28T21:00:15.026356+00:00] cambio_precio | Pilar (listing 495) | precio bajó: 70 -> 50 USDT
+[2026-08-28T21:00:42.393268+00:00] retirado_o_vencido | Jimi (listing 332) | 155 USDT | sin transferencia coincidente tras 680 min
+[2026-08-28T21:00:42.393372+00:00] retirado_o_vencido | mAyda (listing 410) | 160 USDT | sin transferencia coincidente tras 680 min
+[2026-08-28T21:00:42.393401+00:00] retirado_o_vencido | PANCHIN (listing 524) | 100 USDT | sin transferencia coincidente tras 680 min
+[2026-08-28T21:00:42.393427+00:00] retirado_o_vencido | murat (listing 542) | 180 USDT | sin transferencia coincidente tras 680 min
+[2026-08-28T21:00:42.393451+00:00] retirado_o_vencido | Rhaena (listing 546) | 200 USDT | sin transferencia coincidente tras 680 min
+[2026-08-28T21:00:42.393497+00:00] vendido | ITACHl (listing 516) | 67 USDT | tx 0x376ae197c3c453754aaccfa42ae09ced0b5ae926d3269e6dd75af0fc9606099b | comprador 0xc1da33e8d60daf4f93a52357a57a076f44c45759
