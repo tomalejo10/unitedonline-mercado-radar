@@ -416,3 +416,27 @@
 [2026-08-27T23:53:42.883456+00:00] retirado_o_vencido | Urkha (listing 545) | 250 USDT | sin transferencia coincidente tras 566 min
 [2026-08-27T23:53:42.883516+00:00] vendido | Neymar (listing 238) | 150 USDT | tx 0x689d88b48fa2e5dc287a882b29564b8ce735fdf42ebc74f22321ba6680ae158a | comprador 0xc1da33e8d60daf4f93a52357a57a076f44c45759
 [2026-08-27T23:53:42.883591+00:00] vendido | Vito (listing 558) | 150 USDT | tx 0x87733f913f1a190b3b09ebd0b65c1d11df1dce3c1f7eec080ea43c7b9151e4e3 | comprador 0x515b72ed8a97f42c568d6a143232775018f133c8
+[2026-08-28T09:40:19.435282+00:00] nuevo_listado | Jimi (listing 592) | Clérigo · Humano · Nivel 37 · 135 USDT
+[2026-08-28T09:40:19.435354+00:00] nuevo_listado | TuSSik (listing 594) | Cazador · Enano · Nivel 44 · 850 USDT
+[2026-08-28T09:40:19.435414+00:00] nuevo_listado | murat (listing 595) | Mago · Humano · Nivel 40 · 160 USDT
+[2026-08-28T09:40:19.435463+00:00] nuevo_listado | mAyda (listing 591) | Bardo · Elfo · Nivel 37 · 79 USDT
+[2026-08-28T09:40:19.435507+00:00] cambio_precio | Dios Cuervo (listing 512) | precio bajó: 110 -> 80 USDT
+[2026-08-28T09:40:19.435620+00:00] cambio_precio | ELVIRA (listing 522) | precio subió: 115 -> 125 USDT
+[2026-08-28T09:40:19.435734+00:00] cambio_precio | Gwayne (listing 548) | precio bajó: 200 -> 160 USDT
+[2026-08-28T09:40:19.435786+00:00] cambio_precio | PATADA (listing 551) | precio bajó: 133 -> 125 USDT
+[2026-08-28T09:40:19.435857+00:00] cambio_precio | Capote (listing 564) | precio bajó: 280 -> 210 USDT
+[2026-08-28T09:40:19.435932+00:00] cambio_precio | QuritA (listing 577) | precio bajó: 65 -> 59 USDT
+[2026-08-28T09:40:19.436174+00:00] cambio_precio | TAPION (listing 251) | precio bajó: 380 -> 295 USDT
+[2026-08-28T09:40:19.436322+00:00] cambio_precio | El Tripa (listing 354) | precio bajó: 155 -> 140 USDT
+[2026-08-28T09:40:19.436410+00:00] cambio_precio | Angelito Vuela (listing 413) | precio bajó: 230 -> 210 USDT
+[2026-08-28T09:40:19.436454+00:00] cambio_precio | Paltita (listing 419) | precio bajó: 225 -> 200 USDT
+[2026-08-28T09:40:19.436529+00:00] cambio_precio | Khoga (listing 450) | precio bajó: 70 -> 55 USDT
+[2026-08-28T09:40:19.436591+00:00] cambio_precio | Barton (listing 462) | precio bajó: 145 -> 140 USDT
+[2026-08-28T09:40:19.436671+00:00] cambio_precio | Diir (listing 492) | precio bajó: 115 -> 105 USDT
+[2026-08-28T09:40:19.436717+00:00] cambio_precio | UndentifieD (listing 496) | precio bajó: 100 -> 85 USDT
+[2026-08-28T09:40:19.436761+00:00] cambio_precio | Mario Moran (listing 501) | precio subió: 160 -> 175 USDT
+[2026-08-28T09:40:30.462043+00:00] retirado_o_vencido | Ruths (listing 349) | 90 USDT | sin transferencia coincidente tras 587 min
+[2026-08-28T09:40:30.462183+00:00] retirado_o_vencido | zaira nara (listing 364) | 50 USDT | sin transferencia coincidente tras 587 min
+[2026-08-28T09:40:30.462241+00:00] retirado_o_vencido | Boo (listing 515) | 50 USDT | sin transferencia coincidente tras 587 min
+[2026-08-28T09:40:30.462293+00:00] retirado_o_vencido | MEMU (listing 574) | 235 USDT | sin transferencia coincidente tras 587 min
+[2026-08-28T09:40:30.462352+00:00] vendido | Usualy (listing 553) | 68 USDT | tx 0xfbcc8bd06774a2344fd4eb77aea1334f10912c161b4cd890a56ed8af180ed5fb | comprador 0xac7b1b390becb677db28041c29ff86374afd861c
