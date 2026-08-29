@@ -464,3 +464,23 @@
 [2026-08-28T21:00:42.393427+00:00] retirado_o_vencido | murat (listing 542) | 180 USDT | sin transferencia coincidente tras 680 min
 [2026-08-28T21:00:42.393451+00:00] retirado_o_vencido | Rhaena (listing 546) | 200 USDT | sin transferencia coincidente tras 680 min
 [2026-08-28T21:00:42.393497+00:00] vendido | ITACHl (listing 516) | 67 USDT | tx 0x376ae197c3c453754aaccfa42ae09ced0b5ae926d3269e6dd75af0fc9606099b | comprador 0xc1da33e8d60daf4f93a52357a57a076f44c45759
+[2026-08-29T03:08:31.887973+00:00] nuevo_listado | plm (listing 608) | Paladín · Elfo oscuro · Nivel 36 · 70 USDT
+[2026-08-29T03:08:31.888039+00:00] nuevo_listado | SPIRIT (listing 609) | Mago · Humano · Nivel 37 · 75 USDT
+[2026-08-29T03:08:31.888081+00:00] nuevo_listado | Capote (listing 602) | Mago · Elfo · Nivel 42 · 200 USDT
+[2026-08-29T03:08:31.888126+00:00] nuevo_listado | LionKing (listing 603) | Paladín · Humano · Nivel 35 · 80 USDT
+[2026-08-29T03:08:31.888188+00:00] nuevo_listado | Niukhs (listing 604) | Paladín · Humano · Nivel 38 · 150 USDT
+[2026-08-29T03:08:31.888231+00:00] nuevo_listado | MATALEY (listing 605) | Bardo · Elfo · Nivel 39 · 115 USDT
+[2026-08-29T03:08:31.888267+00:00] nuevo_listado | VolZung (listing 606) | Cazador · Enano · Nivel 30 · 50 USDT
+[2026-08-29T03:08:31.888366+00:00] cambio_precio | ELVIRA (listing 522) | precio bajó: 150 -> 135 USDT
+[2026-08-29T03:08:31.888538+00:00] cambio_precio | zophiE (listing 580) | precio bajó: 95 -> 85 USDT
+[2026-08-29T03:08:31.888573+00:00] cambio_precio | Alysanne (listing 581) | precio bajó: 88 -> 77 USDT
+[2026-08-29T03:08:31.888959+00:00] cambio_precio | hjkNv (listing 475) | precio bajó: 200 -> 170 USDT
+[2026-08-29T03:08:31.889028+00:00] cambio_precio | Mesami (listing 503) | precio bajó: 120 -> 110 USDT
+[2026-08-29T03:08:38.666946+00:00] retirado_o_vencido | KOTS (listing 366) | 270 USDT | sin transferencia coincidente tras 368 min
+[2026-08-29T03:08:38.667059+00:00] retirado_o_vencido | Revel Stoke (listing 514) | 200 USDT | sin transferencia coincidente tras 368 min
+[2026-08-29T03:08:38.667103+00:00] retirado_o_vencido | BlackFire (listing 534) | 200 USDT | sin transferencia coincidente tras 368 min
+[2026-08-29T03:08:38.667139+00:00] retirado_o_vencido | Gwayne (listing 548) | 160 USDT | sin transferencia coincidente tras 368 min
+[2026-08-29T03:08:38.667212+00:00] retirado_o_vencido | Capote (listing 564) | 210 USDT | sin transferencia coincidente tras 368 min
+[2026-08-29T03:08:38.667283+00:00] retirado_o_vencido | MATALEY (listing 572) | 150 USDT | sin transferencia coincidente tras 368 min
+[2026-08-29T03:08:38.667323+00:00] retirado_o_vencido | mAyda (listing 591) | 79 USDT | sin transferencia coincidente tras 368 min
+[2026-08-29T03:08:38.667362+00:00] vendido | Khoga (listing 450) | 55 USDT | tx 0x1cfe9f0d4c269ffc43d3608954600584b641d8d4f777191033acd6af133a69cd | comprador 0xe2fc31f816a9b94326492132018c3aecc4a93ae1
