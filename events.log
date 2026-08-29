@@ -503,3 +503,14 @@
 [2026-08-29T15:04:20.121131+00:00] cambio_precio | Khoga (listing 610) | precio bajó: 79 -> 74 USDT
 [2026-08-29T15:04:25.574440+00:00] retirado_o_vencido | Presi Dacca (listing 133) | 200 USDT | sin transferencia coincidente tras 300 min
 [2026-08-29T15:04:25.574541+00:00] vendido | Wanda Nara (listing 565) | 75 USDT | tx 0x759a60e080a8747a7755c610e7ca5718263fc34819fcbb2d320469661c2d8ca0 | comprador 0x83a9a8f53447a3897617a857fcc19c90ccf84d15
+[2026-08-29T18:29:17.392760+00:00] nuevo_listado | Barak (listing 613) | Guerrero · Enano · Nivel 35 · 90 USDT
+[2026-08-29T18:29:17.392829+00:00] nuevo_listado | Naihil (listing 614) | Bardo · Elfo · Nivel 42 · 0 USDT
+[2026-08-29T18:29:17.392880+00:00] nuevo_listado | kENDRA (listing 615) | Clérigo · Elfo oscuro · Nivel 39 · 0 USDT
+[2026-08-29T18:29:17.393054+00:00] cambio_precio | PATADA (listing 551) | precio subió: 115 -> 125 USDT
+[2026-08-29T18:29:17.393117+00:00] cambio_precio | Doue (listing 552) | precio bajó: 180 -> 170 USDT
+[2026-08-29T18:29:17.393312+00:00] cambio_precio | Piju (listing 611) | precio bajó: 200 -> 170 USDT
+[2026-08-29T18:29:17.393368+00:00] cambio_precio | M a (listing 134) | precio subió: 500 -> 700 USDT
+[2026-08-29T18:29:17.393629+00:00] cambio_precio | Kaneki (listing 368) | precio bajó: 179 -> 169 USDT
+[2026-08-29T18:29:17.393803+00:00] cambio_precio | Diir (listing 492) | precio bajó: 105 -> 99 USDT
+[2026-08-29T18:29:17.393889+00:00] cambio_precio | AKD (listing 511) | precio bajó: 199 -> 190 USDT
+[2026-08-29T18:29:22.896013+00:00] retirado_o_vencido | Alysanne (listing 581) | 75 USDT | sin transferencia coincidente tras 205 min
