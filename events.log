@@ -484,3 +484,18 @@
 [2026-08-29T03:08:38.667283+00:00] retirado_o_vencido | MATALEY (listing 572) | 150 USDT | sin transferencia coincidente tras 368 min
 [2026-08-29T03:08:38.667323+00:00] retirado_o_vencido | mAyda (listing 591) | 79 USDT | sin transferencia coincidente tras 368 min
 [2026-08-29T03:08:38.667362+00:00] vendido | Khoga (listing 450) | 55 USDT | tx 0x1cfe9f0d4c269ffc43d3608954600584b641d8d4f777191033acd6af133a69cd | comprador 0xe2fc31f816a9b94326492132018c3aecc4a93ae1
+[2026-08-29T10:03:45.202575+00:00] nuevo_listado | Khoga (listing 610) | Mago · Gnomo · Nivel 37 · 79 USDT
+[2026-08-29T10:03:45.202642+00:00] nuevo_listado | Piju (listing 611) | Clérigo · Humano · Nivel 40 · 200 USDT
+[2026-08-29T10:03:45.202936+00:00] cambio_precio | Alysanne (listing 581) | precio bajó: 77 -> 75 USDT
+[2026-08-29T10:03:45.203227+00:00] cambio_precio | LMH (listing 361) | precio bajó: 65 -> 60 USDT
+[2026-08-29T10:03:45.203300+00:00] cambio_precio | Paltita (listing 419) | precio bajó: 200 -> 190 USDT
+[2026-08-29T10:03:45.203378+00:00] cambio_precio | sveNja (listing 458) | precio bajó: 120 -> 100 USDT
+[2026-08-29T10:03:45.203466+00:00] cambio_precio | UndentifieD (listing 496) | precio bajó: 85 -> 78 USDT
+[2026-08-29T10:03:54.112889+00:00] retirado_o_vencido | Ozich (listing 38) | 400 USDT | sin transferencia coincidente tras 415 min
+[2026-08-29T10:03:54.113006+00:00] retirado_o_vencido | Tafeen (listing 536) | 160 USDT | sin transferencia coincidente tras 415 min
+[2026-08-29T10:03:54.113047+00:00] retirado_o_vencido | Gaspel (listing 537) | 160 USDT | sin transferencia coincidente tras 415 min
+[2026-08-29T10:03:54.113082+00:00] retirado_o_vencido | VolZung (listing 547) | 50 USDT | sin transferencia coincidente tras 415 min
+[2026-08-29T10:03:54.113115+00:00] retirado_o_vencido | Ruths (listing 583) | 90 USDT | sin transferencia coincidente tras 415 min
+[2026-08-29T10:03:54.113162+00:00] retirado_o_vencido | murat (listing 595) | 160 USDT | sin transferencia coincidente tras 415 min
+[2026-08-29T10:03:54.113192+00:00] retirado_o_vencido | Barak (listing 599) | 85 USDT | sin transferencia coincidente tras 415 min
+[2026-08-29T10:03:54.113223+00:00] retirado_o_vencido | MATALEY (listing 601) | 115 USDT | sin transferencia coincidente tras 415 min
