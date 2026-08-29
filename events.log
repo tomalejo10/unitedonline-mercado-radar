@@ -520,3 +520,15 @@
 [2026-08-29T21:07:16.439113+00:00] cambio_precio | Kaydy Cain (listing 252) | precio bajó: 100 -> 60 USDT
 [2026-08-29T21:07:16.439282+00:00] cambio_precio | Diir (listing 492) | precio bajó: 99 -> 95 USDT
 [2026-08-29T21:07:23.409407+00:00] retirado_o_vencido | Myst (listing 513) | 250 USDT | sin transferencia coincidente tras 158 min
+[2026-08-29T23:19:44.847572+00:00] nuevo_listado | TRESH (listing 617) | Mago · Humano · Nivel 32 · 60 USDT
+[2026-08-29T23:19:44.847622+00:00] nuevo_listado | Linziel (listing 618) | Clérigo · Elfo oscuro · Nivel 35 · 80 USDT
+[2026-08-29T23:19:44.847699+00:00] cambio_precio | ELVIRA (listing 522) | precio bajó: 135 -> 125 USDT
+[2026-08-29T23:19:44.847765+00:00] cambio_precio | lli (listing 541) | precio bajó: 350 -> 300 USDT
+[2026-08-29T23:19:44.847897+00:00] cambio_precio | nAna (listing 590) | precio bajó: 80 -> 75 USDT
+[2026-08-29T23:19:44.847941+00:00] cambio_precio | LionKing (listing 603) | precio bajó: 80 -> 75 USDT
+[2026-08-29T23:19:44.847986+00:00] cambio_precio | Khoga (listing 610) | precio subió: 74 -> 77 USDT
+[2026-08-29T23:19:44.848247+00:00] cambio_precio | Barton (listing 462) | precio bajó: 140 -> 135 USDT
+[2026-08-29T23:19:44.848304+00:00] cambio_precio | Krauser (listing 493) | precio bajó: 69 -> 60 USDT
+[2026-08-29T23:19:44.848337+00:00] cambio_precio | Mario Moran (listing 501) | precio bajó: 175 -> 160 USDT
+[2026-08-29T23:19:47.206227+00:00] retirado_o_vencido | LMH (listing 361) | 60 USDT | sin transferencia coincidente tras 132 min
+[2026-08-29T23:19:47.206316+00:00] vendido | hjkNv (listing 475) | 170 USDT | tx 0xe918e55489e61516f6b520ffaec95d730bbb990d33a79f26bb08a9f5af4e9d47 | comprador 0x8894e0a0c962cb723c1976a4421c95949be2d4e3
