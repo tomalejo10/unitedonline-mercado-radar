@@ -499,3 +499,7 @@
 [2026-08-29T10:03:54.113162+00:00] retirado_o_vencido | murat (listing 595) | 160 USDT | sin transferencia coincidente tras 415 min
 [2026-08-29T10:03:54.113192+00:00] retirado_o_vencido | Barak (listing 599) | 85 USDT | sin transferencia coincidente tras 415 min
 [2026-08-29T10:03:54.113223+00:00] retirado_o_vencido | MATALEY (listing 601) | 115 USDT | sin transferencia coincidente tras 415 min
+[2026-08-29T15:04:20.120802+00:00] nuevo_listado | Boris (listing 612) | Paladín · Elfo oscuro · Nivel 40 · 230 USDT
+[2026-08-29T15:04:20.121131+00:00] cambio_precio | Khoga (listing 610) | precio bajó: 79 -> 74 USDT
+[2026-08-29T15:04:25.574440+00:00] retirado_o_vencido | Presi Dacca (listing 133) | 200 USDT | sin transferencia coincidente tras 300 min
+[2026-08-29T15:04:25.574541+00:00] vendido | Wanda Nara (listing 565) | 75 USDT | tx 0x759a60e080a8747a7755c610e7ca5718263fc34819fcbb2d320469661c2d8ca0 | comprador 0x83a9a8f53447a3897617a857fcc19c90ccf84d15
