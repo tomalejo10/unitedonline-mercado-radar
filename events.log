@@ -514,3 +514,9 @@
 [2026-08-29T18:29:17.393803+00:00] cambio_precio | Diir (listing 492) | precio bajó: 105 -> 99 USDT
 [2026-08-29T18:29:17.393889+00:00] cambio_precio | AKD (listing 511) | precio bajó: 199 -> 190 USDT
 [2026-08-29T18:29:22.896013+00:00] retirado_o_vencido | Alysanne (listing 581) | 75 USDT | sin transferencia coincidente tras 205 min
+[2026-08-29T21:07:16.438733+00:00] nuevo_listado | LA PALIDA (listing 616) | Mago · Humano · Nivel 41 · 155 USDT
+[2026-08-29T21:07:16.438900+00:00] cambio_precio | wakosfhf (listing 582) | precio bajó: 139 -> 126 USDT
+[2026-08-29T21:07:16.438967+00:00] cambio_precio | plm (listing 608) | precio bajó: 70 -> 60 USDT
+[2026-08-29T21:07:16.439113+00:00] cambio_precio | Kaydy Cain (listing 252) | precio bajó: 100 -> 60 USDT
+[2026-08-29T21:07:16.439282+00:00] cambio_precio | Diir (listing 492) | precio bajó: 99 -> 95 USDT
+[2026-08-29T21:07:23.409407+00:00] retirado_o_vencido | Myst (listing 513) | 250 USDT | sin transferencia coincidente tras 158 min
