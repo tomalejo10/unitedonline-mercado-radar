@@ -536,3 +536,18 @@
 [2026-08-30T01:27:39.289075+00:00] nuevo_listado | Marti (listing 620) | Clérigo · Humano · Nivel 39 · 120 USDT
 [2026-08-30T01:27:39.289184+00:00] cambio_precio | ELVIRA (listing 522) | precio bajó: 125 -> 120 USDT
 [2026-08-30T01:27:39.289467+00:00] cambio_precio | Khoga (listing 610) | precio subió: 77 -> 94 USDT
+[2026-08-30T07:12:24.386657+00:00] nuevo_listado | ABYSZ (listing 624) | Clérigo · Elfo oscuro · Nivel 43 · 325 USDT
+[2026-08-30T07:12:24.386698+00:00] nuevo_listado | RachelBerry (listing 625) | Clérigo · Humano · Nivel 43 · 280 USDT
+[2026-08-30T07:12:24.386720+00:00] nuevo_listado | E Z (listing 622) | Paladín · Elfo · Nivel 35 · 60 USDT
+[2026-08-30T07:12:24.386745+00:00] nuevo_listado | Marti (listing 623) | Clérigo · Elfo oscuro · Nivel 39 · 120 USDT
+[2026-08-30T07:12:24.386793+00:00] cambio_precio | Dios Cuervo (listing 512) | precio bajó: 80 -> 70 USDT
+[2026-08-30T07:12:24.386855+00:00] cambio_precio | ELVIRA (listing 522) | precio subió: 120 -> 155 USDT
+[2026-08-30T07:12:24.386933+00:00] cambio_precio | aheryN (listing 567) | precio bajó: 100 -> 85 USDT
+[2026-08-30T07:12:24.386978+00:00] cambio_precio | zophiE (listing 580) | precio bajó: 85 -> 75 USDT
+[2026-08-30T07:12:24.387020+00:00] cambio_precio | mAyda (listing 598) | precio subió: 105 -> 110 USDT
+[2026-08-30T07:12:24.387052+00:00] cambio_precio | plm (listing 608) | precio bajó: 60 -> 50 USDT
+[2026-08-30T07:12:24.387209+00:00] cambio_precio | Aquaa (listing 377) | precio subió: 300 -> 400 USDT
+[2026-08-30T07:12:24.387258+00:00] cambio_precio | Aguacate (listing 437) | precio bajó: 100 -> 60 USDT
+[2026-08-30T07:12:40.436191+00:00] retirado_o_vencido | Kaydy Cain (listing 252) | 60 USDT | sin transferencia coincidente tras 345 min
+[2026-08-30T07:12:40.436284+00:00] vendido | Rhaena (listing 596) | 250 USDT | tx 0xa5e7882dacc40c02edda530e4666148f8bdd18bcdf2b7236478546c8faedc4f5 | comprador 0x8894e0a0c962cb723c1976a4421c95949be2d4e3
+[2026-08-30T07:12:40.436306+00:00] vendido | MATALEY (listing 605) | 115 USDT | tx 0x7e29696fc45f5d8a9a2d48e4324be6130cb894cb901eff0b3624f00a2562653e | comprador 0xeb2d2f1b8c558a40207669291fda468e50c8a0bb
