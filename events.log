@@ -560,3 +560,11 @@
 [2026-08-30T12:55:48.308241+00:00] retirado_o_vencido | VESSLAN (listing 180) | 150 USDT | sin transferencia coincidente tras 343 min
 [2026-08-30T12:55:48.308335+00:00] retirado_o_vencido | Marti (listing 620) | 120 USDT | sin transferencia coincidente tras 343 min
 [2026-08-30T12:55:48.308407+00:00] vendido | Mesami (listing 503) | 110 USDT | tx 0x8cab969a73beb739894299d12527496b2412bf9d28b0a2183f585227f6ef609d | comprador 0xc1da33e8d60daf4f93a52357a57a076f44c45759
+[2026-08-30T17:13:18.209454+00:00] nuevo_listado | Thalion (listing 628) | Druida · Gnomo · Nivel 40 · 0 USDT
+[2026-08-30T17:13:18.209682+00:00] cambio_precio | Teemo (listing 570) | precio bajó: 50 -> 0 USDT
+[2026-08-30T17:13:18.209766+00:00] cambio_precio | wakosfhf (listing 582) | precio bajó: 126 -> 108 USDT
+[2026-08-30T17:13:18.209856+00:00] cambio_precio | LionKing (listing 603) | precio bajó: 75 -> 65 USDT
+[2026-08-30T17:13:18.209950+00:00] cambio_precio | Linziel (listing 618) | precio subió: 80 -> 88 USDT
+[2026-08-30T17:13:18.210009+00:00] cambio_precio | Marti (listing 623) | precio bajó: 120 -> 115 USDT
+[2026-08-30T17:13:18.210181+00:00] cambio_precio | TAPION (listing 251) | precio bajó: 295 -> 260 USDT
+[2026-08-30T17:13:18.210320+00:00] cambio_precio | El Tripa (listing 354) | precio bajó: 140 -> 125 USDT
