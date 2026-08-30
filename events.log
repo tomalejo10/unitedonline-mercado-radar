@@ -581,3 +581,20 @@
 [2026-08-30T19:51:19.505961+00:00] cambio_precio | E Z (listing 622) | precio bajó: 60 -> 50 USDT
 [2026-08-30T19:51:19.506204+00:00] cambio_precio | Paltita (listing 419) | precio bajó: 190 -> 160 USDT
 [2026-08-30T19:51:19.506305+00:00] cambio_precio | Diir (listing 492) | precio bajó: 95 -> 89 USDT
+[2026-08-30T22:25:28.905510+00:00] nuevo_listado | ShaD (listing 640) | Bandido · Elfo oscuro · Nivel 38 · 0 USDT
+[2026-08-30T22:25:28.905551+00:00] nuevo_listado | Zarok (listing 641) | Druida · Gnomo · Nivel 39 · 0 USDT
+[2026-08-30T22:25:28.905572+00:00] nuevo_listado | DAIGO (listing 636) | Bardo · Elfo · Nivel 41 · 0 USDT
+[2026-08-30T22:25:28.905593+00:00] nuevo_listado | TukeroSS (listing 638) | Paladín · Humano · Nivel 37 · 70 USDT
+[2026-08-30T22:25:28.905608+00:00] nuevo_listado | gavilAn (listing 639) | Bardo · Elfo · Nivel 38 · 150 USDT
+[2026-08-30T22:25:28.905690+00:00] cambio_precio | Nyxar (listing 550) | precio bajó: 280 -> 130 USDT
+[2026-08-30T22:25:28.905756+00:00] cambio_precio | zaira nara (listing 585) | precio subió: 50 -> 70 USDT
+[2026-08-30T22:25:28.905772+00:00] cambio_precio | CuetOh Rlz (listing 586) | precio bajó: 400 -> 300 USDT
+[2026-08-30T22:25:28.905824+00:00] cambio_precio | Khoga (listing 610) | precio bajó: 94 -> 83 USDT
+[2026-08-30T22:25:28.905994+00:00] cambio_precio | Paltita (listing 419) | precio bajó: 160 -> 150 USDT
+[2026-08-30T22:25:28.906090+00:00] cambio_precio | Mario Moran (listing 501) | precio bajó: 160 -> 135 USDT
+[2026-08-30T22:25:33.559317+00:00] retirado_o_vencido | Dharos (listing 191) | 680 USDT | sin transferencia coincidente tras 154 min
+[2026-08-30T22:25:33.559408+00:00] retirado_o_vencido | InuYasha (listing 216) | 290 USDT | sin transferencia coincidente tras 154 min
+[2026-08-30T22:25:33.559462+00:00] retirado_o_vencido | morixA (listing 247) | 170 USDT | sin transferencia coincidente tras 154 min
+[2026-08-30T22:25:33.559478+00:00] retirado_o_vencido | Moltres (listing 521) | 390 USDT | sin transferencia coincidente tras 154 min
+[2026-08-30T22:25:33.559496+00:00] vendido | plm (listing 608) | 50 USDT | tx 0xcadfa8aeca7f91ccfd4a330e9fbe4974d80927532f21baa4ab933cf90dd9cff5 | comprador 0xc1da33e8d60daf4f93a52357a57a076f44c45759
+[2026-08-30T22:25:33.559513+00:00] vendido | Ketassins (listing 634) | 0 USDT | tx 0x502de0f23231723043d90a89aac3c798fbbdfa7ec11f06229f2c60dcbbff9b5b | comprador 0x07a783dab524167a9548f457336c941ea0b5132f
