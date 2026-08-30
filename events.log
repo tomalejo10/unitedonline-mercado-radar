@@ -551,3 +551,12 @@
 [2026-08-30T07:12:40.436191+00:00] retirado_o_vencido | Kaydy Cain (listing 252) | 60 USDT | sin transferencia coincidente tras 345 min
 [2026-08-30T07:12:40.436284+00:00] vendido | Rhaena (listing 596) | 250 USDT | tx 0xa5e7882dacc40c02edda530e4666148f8bdd18bcdf2b7236478546c8faedc4f5 | comprador 0x8894e0a0c962cb723c1976a4421c95949be2d4e3
 [2026-08-30T07:12:40.436306+00:00] vendido | MATALEY (listing 605) | 115 USDT | tx 0x7e29696fc45f5d8a9a2d48e4324be6130cb894cb901eff0b3624f00a2562653e | comprador 0xeb2d2f1b8c558a40207669291fda468e50c8a0bb
+[2026-08-30T12:55:32.682319+00:00] nuevo_listado | Fraigh (listing 626) | Mago · Elfo · Nivel 40 · 155 USDT
+[2026-08-30T12:55:32.682379+00:00] nuevo_listado | Maliur (listing 627) | Asesino · Elfo oscuro · Nivel 40 · 145 USDT
+[2026-08-30T12:55:32.682463+00:00] cambio_precio | Bandio (listing 535) | precio bajó: 145 -> 130 USDT
+[2026-08-30T12:55:32.682555+00:00] cambio_precio | Mifky (listing 579) | precio bajó: 145 -> 130 USDT
+[2026-08-30T12:55:32.682632+00:00] cambio_precio | SPIRIT (listing 609) | precio bajó: 75 -> 70 USDT
+[2026-08-30T12:55:32.682702+00:00] cambio_precio | Maca (listing 187) | precio subió: 50 -> 80 USDT
+[2026-08-30T12:55:48.308241+00:00] retirado_o_vencido | VESSLAN (listing 180) | 150 USDT | sin transferencia coincidente tras 343 min
+[2026-08-30T12:55:48.308335+00:00] retirado_o_vencido | Marti (listing 620) | 120 USDT | sin transferencia coincidente tras 343 min
+[2026-08-30T12:55:48.308407+00:00] vendido | Mesami (listing 503) | 110 USDT | tx 0x8cab969a73beb739894299d12527496b2412bf9d28b0a2183f585227f6ef609d | comprador 0xc1da33e8d60daf4f93a52357a57a076f44c45759
