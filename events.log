@@ -532,3 +532,7 @@
 [2026-08-29T23:19:44.848337+00:00] cambio_precio | Mario Moran (listing 501) | precio bajó: 175 -> 160 USDT
 [2026-08-29T23:19:47.206227+00:00] retirado_o_vencido | LMH (listing 361) | 60 USDT | sin transferencia coincidente tras 132 min
 [2026-08-29T23:19:47.206316+00:00] vendido | hjkNv (listing 475) | 170 USDT | tx 0xe918e55489e61516f6b520ffaec95d730bbb990d33a79f26bb08a9f5af4e9d47 | comprador 0x8894e0a0c962cb723c1976a4421c95949be2d4e3
+[2026-08-30T01:27:39.289004+00:00] nuevo_listado | Prestancia (listing 619) | Bandido · Elfo · Nivel 33 · 50 USDT
+[2026-08-30T01:27:39.289075+00:00] nuevo_listado | Marti (listing 620) | Clérigo · Humano · Nivel 39 · 120 USDT
+[2026-08-30T01:27:39.289184+00:00] cambio_precio | ELVIRA (listing 522) | precio bajó: 125 -> 120 USDT
+[2026-08-30T01:27:39.289467+00:00] cambio_precio | Khoga (listing 610) | precio subió: 77 -> 94 USDT
