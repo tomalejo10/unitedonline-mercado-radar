@@ -598,3 +598,105 @@
 [2026-08-30T22:25:33.559478+00:00] retirado_o_vencido | Moltres (listing 521) | 390 USDT | sin transferencia coincidente tras 154 min
 [2026-08-30T22:25:33.559496+00:00] vendido | plm (listing 608) | 50 USDT | tx 0xcadfa8aeca7f91ccfd4a330e9fbe4974d80927532f21baa4ab933cf90dd9cff5 | comprador 0xc1da33e8d60daf4f93a52357a57a076f44c45759
 [2026-08-30T22:25:33.559513+00:00] vendido | Ketassins (listing 634) | 0 USDT | tx 0x502de0f23231723043d90a89aac3c798fbbdfa7ec11f06229f2c60dcbbff9b5b | comprador 0x07a783dab524167a9548f457336c941ea0b5132f
+[2026-09-05T18:23:59.681241+00:00] nuevo_listado | sAoco (listing 644) | Mago · Elfo · Nivel 39 · 90 USDT
+[2026-09-05T18:23:59.681317+00:00] nuevo_listado | Qvi (listing 645) | Cazador · Enano · Nivel 38 · 92 USDT
+[2026-09-05T18:23:59.681378+00:00] nuevo_listado | Turgon (listing 646) | Mago · Humano · Nivel 41 · 225 USDT
+[2026-09-05T18:23:59.681425+00:00] nuevo_listado | Ephelsea (listing 648) | Paladín · Elfo · Nivel 38 · 85 USDT
+[2026-09-05T18:23:59.681469+00:00] nuevo_listado | Daeron (listing 649) | Druida · Humano · Nivel 38 · 140 USDT
+[2026-09-05T18:23:59.681512+00:00] nuevo_listado | Ginger (listing 650) | Clérigo · Humano · Nivel 38 · 0 USDT
+[2026-09-05T18:23:59.681554+00:00] nuevo_listado | Niv (listing 652) | Clérigo · Humano · Nivel 40 · 115 USDT
+[2026-09-05T18:23:59.681595+00:00] nuevo_listado | Waske (listing 659) | Asesino · Elfo oscuro · Nivel 40 · 150 USDT
+[2026-09-05T18:23:59.681635+00:00] nuevo_listado | Vodka (listing 660) | Clérigo · Elfo oscuro · Nivel 43 · 300 USDT
+[2026-09-05T18:23:59.681676+00:00] nuevo_listado | Tuhotuksi (listing 663) | Mago · Humano · Nivel 43 · 300 USDT
+[2026-09-05T18:23:59.681716+00:00] nuevo_listado | SHuliens (listing 667) | Asesino · Elfo oscuro · Nivel 42 · 250 USDT
+[2026-09-05T18:23:59.681756+00:00] nuevo_listado | Dipsy (listing 669) | Druida · Gnomo · Nivel 30 · 50 USDT
+[2026-09-05T18:23:59.681795+00:00] nuevo_listado | GodWar (listing 670) | Clérigo · Elfo · Nivel 43 · 0 USDT
+[2026-09-05T18:23:59.681864+00:00] nuevo_listado | morixA (listing 671) | Mago · Elfo · Nivel 35 · 50 USDT
+[2026-09-05T18:23:59.681918+00:00] nuevo_listado | Charly Garcia (listing 672) | Clérigo · Elfo · Nivel 38 · 170 USDT
+[2026-09-05T18:23:59.681960+00:00] nuevo_listado | Chuchina (listing 673) | Mago · Humano · Nivel 40 · 170 USDT
+[2026-09-05T18:23:59.682000+00:00] nuevo_listado | Din (listing 674) | Druida · Gnomo · Nivel 29 · 50 USDT
+[2026-09-05T18:23:59.682040+00:00] nuevo_listado | DONOWitz (listing 676) | Mago · Elfo · Nivel 35 · 70 USDT
+[2026-09-05T18:23:59.682080+00:00] nuevo_listado | fiNNk (listing 677) | Paladín · Elfo oscuro · Nivel 39 · 80 USDT
+[2026-09-05T18:23:59.682119+00:00] nuevo_listado | Crenier (listing 681) | Asesino · Elfo oscuro · Nivel 33 · 50 USDT
+[2026-09-05T18:23:59.682159+00:00] nuevo_listado | Fakeup (listing 683) | Clérigo · Elfo · Nivel 35 · 80 USDT
+[2026-09-05T18:23:59.682198+00:00] nuevo_listado | teqacE (listing 688) | Cazador · Enano · Nivel 30 · 50 USDT
+[2026-09-05T18:23:59.682239+00:00] nuevo_listado | TENSION (listing 689) | Mago · Humano · Nivel 40 · 130 USDT
+[2026-09-05T18:23:59.682279+00:00] nuevo_listado | Myst (listing 691) | Mago · Elfo · Nivel 42 · 200 USDT
+[2026-09-05T18:23:59.682319+00:00] nuevo_listado | InuYasha (listing 692) | Clérigo · Elfo · Nivel 39 · 140 USDT
+[2026-09-05T18:23:59.682357+00:00] nuevo_listado | a S (listing 693) | Asesino · Elfo oscuro · Nivel 30 · 50 USDT
+[2026-09-05T18:23:59.682401+00:00] nuevo_listado | ZAiRAH (listing 694) | Mago · Humano · Nivel 41 · 140 USDT
+[2026-09-05T18:23:59.682468+00:00] nuevo_listado | HARDAWAY (listing 695) | Paladín · Elfo · Nivel 37 · 65 USDT
+[2026-09-05T18:23:59.682511+00:00] nuevo_listado | CENTURION (listing 696) | Paladín · Elfo oscuro · Nivel 34 · 55 USDT
+[2026-09-05T18:23:59.682551+00:00] nuevo_listado | Xander (listing 697) | Mago · Elfo · Nivel 26 · 50 USDT
+[2026-09-05T18:23:59.682591+00:00] nuevo_listado | Satori (listing 698) | Clérigo · Elfo · Nivel 41 · 170 USDT
+[2026-09-05T18:23:59.682629+00:00] nuevo_listado | Luxi (listing 699) | Mago · Elfo · Nivel 37 · 87 USDT
+[2026-09-05T18:23:59.682684+00:00] nuevo_listado | aRyana (listing 700) | Bardo · Elfo · Nivel 38 · 66 USDT
+[2026-09-05T18:23:59.682726+00:00] nuevo_listado | Zoc (listing 701) | Asesino · Gnomo · Nivel 38 · 100 USDT
+[2026-09-05T18:23:59.682765+00:00] nuevo_listado | SAMA (listing 702) | Clérigo · Elfo · Nivel 38 · 69 USDT
+[2026-09-05T18:23:59.682806+00:00] nuevo_listado | Manuela Pisuela (listing 703) | Asesino · Elfo oscuro · Nivel 41 · 500 USDT
+[2026-09-05T18:23:59.682881+00:00] nuevo_listado | Devastacion (listing 704) | Mago · Elfo · Nivel 30 · 60 USDT
+[2026-09-05T18:23:59.682930+00:00] nuevo_listado | apokeador (listing 705) | Mago · Gnomo · Nivel 37 · 0 USDT
+[2026-09-05T18:23:59.682978+00:00] nuevo_listado | Dinamita (listing 706) | Asesino · Orco · Nivel 35 · 70 USDT
+[2026-09-05T18:23:59.683018+00:00] nuevo_listado | Capote (listing 708) | Mago · Elfo · Nivel 42 · 165 USDT
+[2026-09-05T18:23:59.683057+00:00] nuevo_listado | TIO PEPINO (listing 710) | Asesino · Elfo oscuro · Nivel 41 · 130 USDT
+[2026-09-05T18:23:59.683096+00:00] nuevo_listado | Ahcnoc (listing 711) | Clérigo · Elfo · Nivel 43 · 250 USDT
+[2026-09-05T18:23:59.683135+00:00] nuevo_listado | DrGroove (listing 712) | Cazador · Elfo oscuro · Nivel 30 · 0 USDT
+[2026-09-05T18:23:59.683174+00:00] nuevo_listado | Teemo (listing 713) | Mago · Humano · Nivel 37 · 79 USDT
+[2026-09-05T18:23:59.683213+00:00] nuevo_listado | MEMU (listing 714) | Paladín · Elfo oscuro · Nivel 42 · 165 USDT
+[2026-09-05T18:23:59.683252+00:00] nuevo_listado | Lady aliceNt (listing 717) | Druida · Elfo · Nivel 34 · 67 USDT
+[2026-09-05T18:23:59.683291+00:00] nuevo_listado | gyVaH (listing 722) | Cazador · Enano · Nivel 40 · 155 USDT
+[2026-09-05T18:23:59.683330+00:00] nuevo_listado | Paltita (listing 723) | Mago · Elfo · Nivel 41 · 129 USDT
+[2026-09-05T18:23:59.683369+00:00] nuevo_listado | HyH (listing 724) | Clérigo · Elfo oscuro · Nivel 40 · 110 USDT
+[2026-09-05T18:23:59.683407+00:00] nuevo_listado | Kaydy Cain (listing 725) | Bardo · Elfo · Nivel 37 · 65 USDT
+[2026-09-05T18:23:59.683462+00:00] nuevo_listado | plm (listing 608) | Paladín · Elfo oscuro · Nivel 37 · 50 USDT
+[2026-09-05T18:23:59.683501+00:00] cambio_precio | DonTripon (listing 517) | precio bajó: 590 -> 200 USDT
+[2026-09-05T18:23:59.683616+00:00] cambio_precio | Homero (listing 30) | precio bajó: 500 -> 300 USDT
+[2026-09-05T18:23:59.683681+00:00] cambio_precio | AskelaD (listing 549) | precio bajó: 55 -> 50 USDT
+[2026-09-05T18:23:59.683724+00:00] cambio_precio | PATADA (listing 551) | precio bajó: 125 -> 110 USDT
+[2026-09-05T18:23:59.683765+00:00] cambio_precio | Doue (listing 552) | precio bajó: 170 -> 130 USDT
+[2026-09-05T18:23:59.683805+00:00] cambio_precio | Totelio (listing 554) | precio bajó: 140 -> 75 USDT
+[2026-09-05T18:23:59.683884+00:00] cambio_precio | SJEANE (listing 555) | precio bajó: 195 -> 110 USDT
+[2026-09-05T18:23:59.683947+00:00] cambio_precio | pROPANO (listing 561) | precio bajó: 80 -> 60 USDT
+[2026-09-05T18:23:59.683992+00:00] cambio_precio | aheryN (listing 567) | precio bajó: 85 -> 50 USDT
+[2026-09-05T18:23:59.684033+00:00] cambio_precio | ThieveS (listing 568) | precio bajó: 180 -> 130 USDT
+[2026-09-05T18:23:59.684119+00:00] cambio_precio | DOBB (listing 578) | precio subió: 95 -> 115 USDT
+[2026-09-05T18:23:59.684165+00:00] cambio_precio | Ullr (listing 584) | precio bajó: 180 -> 130 USDT
+[2026-09-05T18:23:59.684206+00:00] cambio_precio | zaira nara (listing 585) | precio bajó: 70 -> 50 USDT
+[2026-09-05T18:23:59.684250+00:00] cambio_precio | aNaDriEl (listing 589) | precio bajó: 560 -> 400 USDT
+[2026-09-05T18:23:59.684290+00:00] cambio_precio | nAna (listing 590) | precio subió: 75 -> 100 USDT
+[2026-09-05T18:23:59.684343+00:00] cambio_precio | LionKing (listing 603) | precio bajó: 65 -> 52 USDT
+[2026-09-05T18:23:59.684383+00:00] cambio_precio | Niukhs (listing 604) | precio bajó: 150 -> 0 USDT
+[2026-09-05T18:23:59.684428+00:00] cambio_precio | NaGato (listing 96) | precio bajó: 109 -> 97 USDT
+[2026-09-05T18:23:59.684469+00:00] cambio_precio | gROK (listing 97) | precio bajó: 555 -> 510 USDT
+[2026-09-05T18:23:59.684509+00:00] cambio_precio | Piju (listing 611) | precio subió: 170 -> 400 USDT
+[2026-09-05T18:23:59.684549+00:00] cambio_precio | Boris (listing 612) | precio bajó: 230 -> 200 USDT
+[2026-09-05T18:23:59.684587+00:00] cambio_precio | Barak (listing 613) | precio bajó: 90 -> 65 USDT
+[2026-09-05T18:23:59.684640+00:00] cambio_precio | Linziel (listing 618) | precio subió: 88 -> 140 USDT
+[2026-09-05T18:23:59.684698+00:00] cambio_precio | Moltres (listing 633) | precio bajó: 390 -> 350 USDT
+[2026-09-05T18:23:59.684742+00:00] cambio_precio | DAIGO (listing 636) | precio subió: 0 -> 300 USDT
+[2026-09-05T18:23:59.684791+00:00] cambio_precio | TukeroSS (listing 638) | precio bajó: 70 -> 50 USDT
+[2026-09-05T18:23:59.684881+00:00] cambio_precio | gavilAn (listing 639) | precio bajó: 150 -> 70 USDT
+[2026-09-05T18:23:59.685002+00:00] cambio_precio | Peroncho (listing 186) | precio bajó: 120 -> 95 USDT
+[2026-09-05T18:23:59.685060+00:00] cambio_precio | Maca (listing 187) | precio bajó: 80 -> 50 USDT
+[2026-09-05T18:23:59.685123+00:00] cambio_precio | Zyx (listing 228) | precio bajó: 950 -> 850 USDT
+[2026-09-05T18:23:59.685166+00:00] cambio_precio | Luxury (listing 240) | precio subió: 330 -> 380 USDT
+[2026-09-05T18:23:59.685224+00:00] cambio_precio | TAPION (listing 251) | precio bajó: 260 -> 200 USDT
+[2026-09-05T18:23:59.685326+00:00] cambio_precio | Lechu (listing 333) | precio bajó: 140 -> 70 USDT
+[2026-09-05T18:23:59.685398+00:00] cambio_precio | El Tripa (listing 354) | precio bajó: 125 -> 95 USDT
+[2026-09-05T18:23:59.685442+00:00] cambio_precio | El Armenio (listing 359) | precio bajó: 100 -> 60 USDT
+[2026-09-05T18:23:59.685485+00:00] cambio_precio | Kaneki (listing 368) | precio bajó: 169 -> 149 USDT
+[2026-09-05T18:23:59.685595+00:00] cambio_precio | sveNja (listing 458) | precio bajó: 100 -> 75 USDT
+[2026-09-05T18:23:59.685651+00:00] cambio_precio | Barton (listing 462) | precio bajó: 135 -> 125 USDT
+[2026-09-05T18:23:59.685717+00:00] cambio_precio | Diir (listing 492) | precio subió: 89 -> 150 USDT
+[2026-09-05T18:23:59.685757+00:00] cambio_precio | Krauser (listing 493) | precio bajó: 60 -> 50 USDT
+[2026-09-05T18:23:59.685799+00:00] cambio_precio | UndentifieD (listing 496) | precio bajó: 78 -> 65 USDT
+[2026-09-05T18:23:59.685911+00:00] cambio_precio | Mario Moran (listing 501) | precio bajó: 135 -> 100 USDT
+[2026-09-05T18:23:59.685980+00:00] cambio_precio | NadPescador (listing 510) | precio bajó: 350 -> 300 USDT
+[2026-09-05T18:23:59.686022+00:00] cambio_precio | AKD (listing 511) | precio bajó: 190 -> 150 USDT
+[2026-09-05T18:27:23.682588+00:00] retirado_o_vencido | DONOWitz (listing 588) | 80 USDT | sin transferencia coincidente tras 8401 min
+[2026-09-05T18:27:23.682716+00:00] retirado_o_vencido | E Z (listing 622) | 50 USDT | sin transferencia coincidente tras 8401 min
+[2026-09-05T18:27:23.682829+00:00] vendido | HOFFA (listing 434) | 1000 USDT | tx 0x88dc6d3d4ef317b2a919c1d00dde33fa7aedc319342a94fdb423887c870d96a4 | comprador 0xe2bfac6d662ae1b117ae254bcf531f2d8e473e0f
+[2026-09-05T18:27:23.682996+00:00] vendido | Nyxar (listing 550) | 130 USDT | tx 0x529a1e1254ca88d4409e64e2965f9eee279fe3f581575397244d560e5522ac61 | comprador 0x515b72ed8a97f42c568d6a143232775018f133c8
+[2026-09-05T18:27:23.683042+00:00] vendido | Teemo (listing 570) | 0 USDT | tx 0xd71dfb29e23eaec53ddcf6eb7b996963fc1ecbeec6295eb04c9d5946dda63702 | comprador 0xf0163f2938bf330cb5df7018db90d26727efe2a3
+[2026-09-05T18:27:23.683110+00:00] vendido | wakosfhf (listing 582) | 108 USDT | tx 0xf836f5a47452735e9f46c791ab48533e84d664a5cf6fd9877035d153aa060e8b | comprador 0x0f776cc057622f0da2f257d2b987a7cf3386b7cc
+[2026-09-05T18:27:23.683197+00:00] vendido | SPIRIT (listing 609) | 65 USDT | tx 0x2fac6fa61b476b154c550c214162f2f22f544687c0a3e4f4203dc3f0bcda567e | comprador 0x83a9a8f53447a3897617a857fcc19c90ccf84d15
