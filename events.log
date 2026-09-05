@@ -700,3 +700,32 @@
 [2026-09-05T18:27:23.683042+00:00] vendido | Teemo (listing 570) | 0 USDT | tx 0xd71dfb29e23eaec53ddcf6eb7b996963fc1ecbeec6295eb04c9d5946dda63702 | comprador 0xf0163f2938bf330cb5df7018db90d26727efe2a3
 [2026-09-05T18:27:23.683110+00:00] vendido | wakosfhf (listing 582) | 108 USDT | tx 0xf836f5a47452735e9f46c791ab48533e84d664a5cf6fd9877035d153aa060e8b | comprador 0x0f776cc057622f0da2f257d2b987a7cf3386b7cc
 [2026-09-05T18:27:23.683197+00:00] vendido | SPIRIT (listing 609) | 65 USDT | tx 0x2fac6fa61b476b154c550c214162f2f22f544687c0a3e4f4203dc3f0bcda567e | comprador 0x83a9a8f53447a3897617a857fcc19c90ccf84d15
+[2026-09-05T19:21:38.933352+00:00] retirado_o_vencido | Lumius III (listing 103) | 1e+06 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.933444+00:00] retirado_o_vencido | wachina (listing 211) | 300 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.933486+00:00] retirado_o_vencido | Daeron (listing 265) | 165 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.933522+00:00] retirado_o_vencido | Travis Scott (listing 337) | 100 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.933556+00:00] retirado_o_vencido | Blandius (listing 390) | 50 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.933635+00:00] retirado_o_vencido | Paltita (listing 419) | 150 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.933696+00:00] retirado_o_vencido | HARDAWAY (listing 447) | 180 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.933731+00:00] retirado_o_vencido | Qvi (listing 461) | 111 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.933764+00:00] retirado_o_vencido | Turgon (listing 471) | 280 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.933796+00:00] retirado_o_vencido | Jyste (listing 483) | 50 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.933829+00:00] retirado_o_vencido | Niv (listing 487) | 159 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.933861+00:00] retirado_o_vencido | Dios Cuervo (listing 512) | 70 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.933900+00:00] retirado_o_vencido | ELVIRA (listing 522) | 155 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.933933+00:00] retirado_o_vencido | Klyf (listing 538) | 190 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.933965+00:00] retirado_o_vencido | QuritA (listing 577) | 59 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.933996+00:00] retirado_o_vencido | zophiE (listing 580) | 80 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.934027+00:00] retirado_o_vencido | CuetOh Rlz (listing 586) | 300 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.934059+00:00] retirado_o_vencido | MEMU (listing 587) | 199 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.934089+00:00] retirado_o_vencido | mAyda (listing 598) | 110 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.934119+00:00] retirado_o_vencido | Capote (listing 602) | 200 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.934150+00:00] retirado_o_vencido | Khoga (listing 610) | 83 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.934180+00:00] retirado_o_vencido | LA PALIDA (listing 616) | 155 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.934210+00:00] retirado_o_vencido | Marti (listing 623) | 115 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.934241+00:00] retirado_o_vencido | ABYSZ (listing 624) | 325 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.934272+00:00] retirado_o_vencido | RachelBerry (listing 625) | 280 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.934302+00:00] retirado_o_vencido | Maliur (listing 627) | 145 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.934332+00:00] retirado_o_vencido | HARUKA (listing 630) | 330 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.934363+00:00] retirado_o_vencido | CUTIE (listing 631) | 400 USDT | sin transferencia coincidente tras 57 min
+[2026-09-05T19:21:38.934393+00:00] retirado_o_vencido | InuYasha (listing 632) | 190 USDT | sin transferencia coincidente tras 57 min
