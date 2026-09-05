@@ -347,12 +347,21 @@ def run():
         return
 
     # nuevos
+    # nota: el listing_id puede pertenecer a una fila ya existente pero inactiva
+    # (un listado que desapareció antes y el mercado reutilizó el id), asi que
+    # hace falta un upsert en vez de un INSERT plano para no romper el PRIMARY KEY.
     for lid in new_ids:
         item = current[lid]
         conn.execute(
             "INSERT INTO listings (listing_id, character_id, name, class_id, race_id, "
             "level, price_usdt_micros, online, created_at, active, first_seen, last_seen, faction) "
-            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, 1, ?, ?, ?)",
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, 1, ?, ?, ?) "
+            "ON CONFLICT(listing_id) DO UPDATE SET "
+            "character_id=excluded.character_id, name=excluded.name, class_id=excluded.class_id, "
+            "race_id=excluded.race_id, level=excluded.level, "
+            "price_usdt_micros=excluded.price_usdt_micros, online=excluded.online, "
+            "created_at=excluded.created_at, active=1, last_seen=excluded.last_seen, "
+            "faction=excluded.faction",
             (lid, item["characterId"], item["name"], item["classId"], item["raceId"],
              item["level"], item["priceUsdtMicros"], int(item["online"]),
              item["createdAt"], ts, ts, item["faction"]),
