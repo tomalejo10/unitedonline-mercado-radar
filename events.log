@@ -747,3 +747,14 @@
 [2026-09-06T01:01:29.983114+00:00] cambio_precio | ElhendiR (listing 348) | precio subió: 100 -> 125 USDT
 [2026-09-06T01:01:34.979940+00:00] retirado_o_vencido | lFl (listing 575) | 50 USDT | sin transferencia coincidente tras 108 min
 [2026-09-06T01:01:34.980026+00:00] retirado_o_vencido | aRyana (listing 700) | 66 USDT | sin transferencia coincidente tras 108 min
+[2026-09-06T05:57:59.929595+00:00] nuevo_listado | Capote (listing 729) | Mago · Elfo · Nivel 42 · 100 USDT
+[2026-09-06T05:57:59.929668+00:00] nuevo_listado | tAYRONE (listing 730) | Bardo · Elfo · Nivel 40 · 0 USDT
+[2026-09-06T05:57:59.929722+00:00] nuevo_listado | Vaydrahj (listing 731) | Asesino · Elfo oscuro · Nivel 40 · 150 USDT
+[2026-09-06T05:57:59.929769+00:00] nuevo_listado | Travis Scott (listing 732) | Asesino · Elfo oscuro · Nivel 36 · 80 USDT
+[2026-09-06T05:57:59.930043+00:00] cambio_precio | Moltres (listing 633) | precio bajó: 350 -> 330 USDT
+[2026-09-06T05:57:59.930127+00:00] cambio_precio | sAoco (listing 644) | precio bajó: 90 -> 75 USDT
+[2026-09-06T05:57:59.930255+00:00] cambio_precio | InuYasha (listing 692) | precio bajó: 140 -> 130 USDT
+[2026-09-06T05:57:59.930375+00:00] cambio_precio | gyVaH (listing 722) | precio bajó: 155 -> 135 USDT
+[2026-09-06T05:57:59.930427+00:00] cambio_precio | Drektiva (listing 728) | precio bajó: 150 -> 130 USDT
+[2026-09-06T05:58:14.956390+00:00] retirado_o_vencido | Natsuki Subaru (listing 560) | 149 USDT | sin transferencia coincidente tras 296 min
+[2026-09-06T05:58:14.956562+00:00] retirado_o_vencido | Kaydy Cain (listing 725) | 65 USDT | sin transferencia coincidente tras 296 min
