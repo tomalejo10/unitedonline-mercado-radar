@@ -758,3 +758,12 @@
 [2026-09-06T05:57:59.930427+00:00] cambio_precio | Drektiva (listing 728) | precio bajó: 150 -> 130 USDT
 [2026-09-06T05:58:14.956390+00:00] retirado_o_vencido | Natsuki Subaru (listing 560) | 149 USDT | sin transferencia coincidente tras 296 min
 [2026-09-06T05:58:14.956562+00:00] retirado_o_vencido | Kaydy Cain (listing 725) | 65 USDT | sin transferencia coincidente tras 296 min
+[2026-09-06T10:38:49.963687+00:00] nuevo_listado | Disnae (listing 733) | Mago · Elfo · Nivel 40 · 0 USDT
+[2026-09-06T10:38:49.963739+00:00] nuevo_listado | Mick Jagger (listing 734) | Clérigo · Elfo · Nivel 38 · 65 USDT
+[2026-09-06T10:38:49.963773+00:00] nuevo_listado | Capote (listing 735) | Mago · Elfo · Nivel 42 · 110 USDT
+[2026-09-06T10:38:49.963961+00:00] cambio_precio | NaGato (listing 96) | precio bajó: 97 -> 59 USDT
+[2026-09-06T10:38:49.963993+00:00] cambio_precio | gROK (listing 97) | precio bajó: 510 -> 390 USDT
+[2026-09-06T10:39:03.657623+00:00] retirado_o_vencido | AKD (listing 511) | 150 USDT | sin transferencia coincidente tras 281 min
+[2026-09-06T10:39:03.657713+00:00] vendido | kENDRA (listing 615) | 0 USDT | tx 0xfaeaaff8e110d2c93e897337a41a5d3dabe57c14e3b79b093c3a910e9336a62a | comprador 0xcf3f356adb5df9a50578481dcb358302df21d3d2
+[2026-09-06T10:39:03.657753+00:00] retirado_o_vencido | Capote (listing 708) | 165 USDT | sin transferencia coincidente tras 281 min
+[2026-09-06T10:39:03.657784+00:00] retirado_o_vencido | TIO PEPINO (listing 710) | 130 USDT | sin transferencia coincidente tras 281 min
