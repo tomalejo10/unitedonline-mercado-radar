@@ -737,3 +737,13 @@
 [2026-09-05T23:13:01.576390+00:00] retirado_o_vencido | AskelaD (listing 549) | 50 USDT | sin transferencia coincidente tras 102 min
 [2026-09-05T23:13:01.576515+00:00] retirado_o_vencido | Niv (listing 652) | 115 USDT | sin transferencia coincidente tras 102 min
 [2026-09-05T23:13:01.576582+00:00] retirado_o_vencido | DONOWitz (listing 676) | 70 USDT | sin transferencia coincidente tras 102 min
+[2026-09-06T01:01:29.982538+00:00] nuevo_listado | Drektiva (listing 728) | Cazador · Enano · Nivel 40 · 150 USDT
+[2026-09-06T01:01:29.982580+00:00] nuevo_listado | aRyana (listing 700) | Bardo · Elfo · Nivel 38 · 66 USDT
+[2026-09-06T01:01:29.982601+00:00] nuevo_listado | iNGVARD (listing 727) | Clérigo · Humano · Nivel 39 · 140 USDT
+[2026-09-06T01:01:29.982688+00:00] cambio_precio | pROPANO (listing 561) | precio bajó: 60 -> 50 USDT
+[2026-09-06T01:01:29.982835+00:00] cambio_precio | Manel (listing 146) | precio subió: 100 -> 125 USDT
+[2026-09-06T01:01:29.982971+00:00] cambio_precio | Luxi (listing 699) | precio subió: 87 -> 119 USDT
+[2026-09-06T01:01:29.983028+00:00] cambio_precio | HyH (listing 724) | precio subió: 110 -> 120 USDT
+[2026-09-06T01:01:29.983114+00:00] cambio_precio | ElhendiR (listing 348) | precio subió: 100 -> 125 USDT
+[2026-09-06T01:01:34.979940+00:00] retirado_o_vencido | lFl (listing 575) | 50 USDT | sin transferencia coincidente tras 108 min
+[2026-09-06T01:01:34.980026+00:00] retirado_o_vencido | aRyana (listing 700) | 66 USDT | sin transferencia coincidente tras 108 min
