@@ -772,3 +772,7 @@
 [2026-09-06T13:49:11.928506+00:00] cambio_precio | Travis Scott (listing 732) | precio bajó: 80 -> 60 USDT
 [2026-09-06T13:49:15.924975+00:00] retirado_o_vencido | stragort (listing 277) | 170 USDT | sin transferencia coincidente tras 190 min
 [2026-09-06T13:49:15.925112+00:00] retirado_o_vencido | Capote (listing 729) | 100 USDT | sin transferencia coincidente tras 190 min
+[2026-09-06T16:42:47.088142+00:00] nuevo_listado | Demisha (listing 736) | Clérigo · Humano · Nivel 43 · 0 USDT
+[2026-09-06T16:42:47.088219+00:00] nuevo_listado | Capote (listing 737) | Mago · Elfo · Nivel 42 · 190 USDT
+[2026-09-06T16:42:47.088416+00:00] cambio_precio | DOBB (listing 578) | precio bajó: 85 -> 70 USDT
+[2026-09-06T16:42:47.088694+00:00] cambio_precio | Satori (listing 698) | precio bajó: 170 -> 135 USDT
