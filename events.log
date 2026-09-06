@@ -776,3 +776,7 @@
 [2026-09-06T16:42:47.088219+00:00] nuevo_listado | Capote (listing 737) | Mago · Elfo · Nivel 42 · 190 USDT
 [2026-09-06T16:42:47.088416+00:00] cambio_precio | DOBB (listing 578) | precio bajó: 85 -> 70 USDT
 [2026-09-06T16:42:47.088694+00:00] cambio_precio | Satori (listing 698) | precio bajó: 170 -> 135 USDT
+[2026-09-06T18:39:36.206592+00:00] cambio_precio | Tuhotuksi (listing 663) | precio bajó: 300 -> 275 USDT
+[2026-09-06T18:39:36.206797+00:00] cambio_precio | Paltita (listing 723) | precio subió: 109 -> 118 USDT
+[2026-09-06T18:39:40.974117+00:00] retirado_o_vencido | DAIGO (listing 636) | 300 USDT | sin transferencia coincidente tras 116 min
+[2026-09-06T18:39:40.974348+00:00] retirado_o_vencido | Capote (listing 735) | 110 USDT | sin transferencia coincidente tras 116 min
