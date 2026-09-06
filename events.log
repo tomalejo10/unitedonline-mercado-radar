@@ -767,3 +767,8 @@
 [2026-09-06T10:39:03.657713+00:00] vendido | kENDRA (listing 615) | 0 USDT | tx 0xfaeaaff8e110d2c93e897337a41a5d3dabe57c14e3b79b093c3a910e9336a62a | comprador 0xcf3f356adb5df9a50578481dcb358302df21d3d2
 [2026-09-06T10:39:03.657753+00:00] retirado_o_vencido | Capote (listing 708) | 165 USDT | sin transferencia coincidente tras 281 min
 [2026-09-06T10:39:03.657784+00:00] retirado_o_vencido | TIO PEPINO (listing 710) | 130 USDT | sin transferencia coincidente tras 281 min
+[2026-09-06T13:49:11.927994+00:00] cambio_precio | ThieveS (listing 568) | precio bajó: 115 -> 105 USDT
+[2026-09-06T13:49:11.928418+00:00] cambio_precio | Paltita (listing 723) | precio bajó: 124 -> 109 USDT
+[2026-09-06T13:49:11.928506+00:00] cambio_precio | Travis Scott (listing 732) | precio bajó: 80 -> 60 USDT
+[2026-09-06T13:49:15.924975+00:00] retirado_o_vencido | stragort (listing 277) | 170 USDT | sin transferencia coincidente tras 190 min
+[2026-09-06T13:49:15.925112+00:00] retirado_o_vencido | Capote (listing 729) | 100 USDT | sin transferencia coincidente tras 190 min
