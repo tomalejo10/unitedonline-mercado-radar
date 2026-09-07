@@ -794,3 +794,11 @@
 [2026-09-07T05:02:53.896042+00:00] cambio_precio | aNaDriEl (listing 589) | precio bajó: 400 -> 350 USDT
 [2026-09-07T05:02:53.896269+00:00] cambio_precio | Luxi (listing 699) | precio bajó: 119 -> 87 USDT
 [2026-09-07T05:02:53.896349+00:00] cambio_precio | iNGVARD (listing 727) | precio bajó: 140 -> 119 USDT
+[2026-09-07T10:18:27.226982+00:00] nuevo_listado | Diensen (listing 744) | Mago · Humano · Nivel 41 · 105 USDT
+[2026-09-07T10:18:27.227052+00:00] nuevo_listado | sAoco (listing 745) | Mago · Elfo · Nivel 39 · 95 USDT
+[2026-09-07T10:18:27.227484+00:00] cambio_precio | Satori (listing 698) | precio bajó: 135 -> 110 USDT
+[2026-09-07T10:18:27.227617+00:00] cambio_precio | RAHNAROK (listing 738) | precio bajó: 280 -> 220 USDT
+[2026-09-07T10:18:27.227855+00:00] cambio_precio | Aquaa (listing 377) | precio bajó: 400 -> 320 USDT
+[2026-09-07T10:18:35.206270+00:00] retirado_o_vencido | Naihil (listing 614) | 0 USDT | sin transferencia coincidente tras 315 min
+[2026-09-07T10:18:35.206394+00:00] retirado_o_vencido | sAoco (listing 644) | 75 USDT | sin transferencia coincidente tras 315 min
+[2026-09-07T10:18:35.206445+00:00] retirado_o_vencido | SAMA (listing 702) | 69 USDT | sin transferencia coincidente tras 315 min
