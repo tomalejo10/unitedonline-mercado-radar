@@ -789,3 +789,8 @@
 [2026-09-07T00:22:24.406632+00:00] cambio_precio | Teemo (listing 713) | precio bajó: 79 -> 65 USDT
 [2026-09-07T00:22:26.516623+00:00] retirado_o_vencido | TukeroSS (listing 638) | 50 USDT | sin transferencia coincidente tras 100 min
 [2026-09-07T00:22:26.516789+00:00] retirado_o_vencido | morixA (listing 671) | 50 USDT | sin transferencia coincidente tras 100 min
+[2026-09-07T05:02:53.895811+00:00] nuevo_listado | Khoga (listing 742) | Mago · Gnomo · Nivel 39 · 80 USDT
+[2026-09-07T05:02:53.895872+00:00] nuevo_listado | TukeroSS (listing 743) | Paladín · Humano · Nivel 37 · 0 USDT
+[2026-09-07T05:02:53.896042+00:00] cambio_precio | aNaDriEl (listing 589) | precio bajó: 400 -> 350 USDT
+[2026-09-07T05:02:53.896269+00:00] cambio_precio | Luxi (listing 699) | precio bajó: 119 -> 87 USDT
+[2026-09-07T05:02:53.896349+00:00] cambio_precio | iNGVARD (listing 727) | precio bajó: 140 -> 119 USDT
