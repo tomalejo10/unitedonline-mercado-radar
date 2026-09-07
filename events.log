@@ -811,3 +811,12 @@
 [2026-09-07T15:59:27.531299+00:00] cambio_precio | Waske (listing 659) | precio bajó: 150 -> 125 USDT
 [2026-09-07T15:59:27.531359+00:00] cambio_precio | Vodka (listing 660) | precio bajó: 300 -> 240 USDT
 [2026-09-07T15:59:27.531763+00:00] cambio_precio | Pix (listing 453) | precio bajó: 400 -> 110 USDT
+[2026-09-07T19:50:52.737036+00:00] nuevo_listado | Insjk (listing 752) | Cazador · Enano · Nivel 41 · 0 USDT
+[2026-09-07T19:50:52.737079+00:00] nuevo_listado | RaptoR (listing 753) | Bardo · Elfo · Nivel 37 · 85 USDT
+[2026-09-07T19:50:52.737437+00:00] cambio_precio | Teemo (listing 713) | precio bajó: 65 -> 60 USDT
+[2026-09-07T19:50:52.737505+00:00] cambio_precio | Rimpini (listing 747) | precio bajó: 85 -> 80 USDT
+[2026-09-07T19:50:52.737600+00:00] cambio_precio | El Armenio (listing 359) | precio bajó: 60 -> 50 USDT
+[2026-09-07T19:50:52.737690+00:00] cambio_precio | Diir (listing 492) | precio bajó: 150 -> 122 USDT
+[2026-09-07T19:51:00.146343+00:00] retirado_o_vencido | Daeron (listing 649) | 140 USDT | sin transferencia coincidente tras 231 min
+[2026-09-07T19:51:00.146465+00:00] retirado_o_vencido | Ginger (listing 650) | 0 USDT | sin transferencia coincidente tras 231 min
+[2026-09-07T19:51:00.146485+00:00] retirado_o_vencido | Paltita (listing 723) | 118 USDT | sin transferencia coincidente tras 231 min
