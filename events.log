@@ -783,3 +783,9 @@
 [2026-09-06T20:51:06.110718+00:00] nuevo_listado | RAHNAROK (listing 738) | Mago · Elfo · Nivel 40 · 280 USDT
 [2026-09-06T20:51:06.110865+00:00] cambio_precio | differeNt (listing 544) | precio subió: 250 -> 290 USDT
 [2026-09-06T22:42:22.123694+00:00] cambio_precio | Rengarr (listing 559) | precio subió: 50 -> 99 USDT
+[2026-09-07T00:22:24.405965+00:00] nuevo_listado | AKD (listing 739) | Mago · Humano · Nivel 39 · 150 USDT
+[2026-09-07T00:22:24.406086+00:00] nuevo_listado | Kiev (listing 740) | Bardo · Elfo · Nivel 34 · 50 USDT
+[2026-09-07T00:22:24.406355+00:00] cambio_precio | Barak (listing 613) | precio bajó: 65 -> 55 USDT
+[2026-09-07T00:22:24.406632+00:00] cambio_precio | Teemo (listing 713) | precio bajó: 79 -> 65 USDT
+[2026-09-07T00:22:26.516623+00:00] retirado_o_vencido | TukeroSS (listing 638) | 50 USDT | sin transferencia coincidente tras 100 min
+[2026-09-07T00:22:26.516789+00:00] retirado_o_vencido | morixA (listing 671) | 50 USDT | sin transferencia coincidente tras 100 min
