@@ -841,3 +841,6 @@
 [2026-09-08T05:17:33.580093+00:00] cambio_precio | Zyx (listing 228) | precio bajó: 850 -> 800 USDT
 [2026-09-08T05:17:33.580168+00:00] cambio_precio | Marti (listing 755) | precio bajó: 250 -> 210 USDT
 [2026-09-08T05:17:33.580424+00:00] cambio_precio | Barton (listing 462) | precio bajó: 125 -> 111 USDT
+[2026-09-08T09:57:11.038260+00:00] nuevo_listado | Luxi (listing 758) | Mago · Elfo · Nivel 38 · 69 USDT
+[2026-09-08T09:57:11.038753+00:00] cambio_precio | Khoga (listing 742) | precio bajó: 80 -> 70 USDT
+[2026-09-08T09:57:24.514441+00:00] retirado_o_vencido | gyVaH (listing 722) | 135 USDT | sin transferencia coincidente tras 279 min
