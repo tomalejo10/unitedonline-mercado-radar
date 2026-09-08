@@ -844,3 +844,10 @@
 [2026-09-08T09:57:11.038260+00:00] nuevo_listado | Luxi (listing 758) | Mago · Elfo · Nivel 38 · 69 USDT
 [2026-09-08T09:57:11.038753+00:00] cambio_precio | Khoga (listing 742) | precio bajó: 80 -> 70 USDT
 [2026-09-08T09:57:24.514441+00:00] retirado_o_vencido | gyVaH (listing 722) | 135 USDT | sin transferencia coincidente tras 279 min
+[2026-09-08T14:14:45.864438+00:00] cambio_precio | ThieveS (listing 568) | precio bajó: 105 -> 95 USDT
+[2026-09-08T14:14:45.864748+00:00] cambio_precio | Rimpini (listing 747) | precio bajó: 75 -> 70 USDT
+[2026-09-08T14:14:45.864784+00:00] cambio_precio | Daeron (listing 748) | precio bajó: 74 -> 64 USDT
+[2026-09-08T14:14:45.864823+00:00] cambio_precio | RaptoR (listing 753) | precio bajó: 85 -> 70 USDT
+[2026-09-08T14:14:45.864854+00:00] cambio_precio | sAoco (listing 756) | precio bajó: 85 -> 75 USDT
+[2026-09-08T14:14:45.864897+00:00] cambio_precio | Luxi (listing 758) | precio subió: 69 -> 77 USDT
+[2026-09-08T14:14:52.431033+00:00] retirado_o_vencido | Luxi (listing 699) | 76 USDT | sin transferencia coincidente tras 257 min
