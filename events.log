@@ -859,3 +859,19 @@
 [2026-09-08T17:57:24.646283+00:00] cambio_precio | Zoc (listing 701) | precio subió: 100 -> 120 USDT
 [2026-09-08T17:57:24.646423+00:00] cambio_precio | elxokas (listing 749) | precio bajó: 70 -> 65 USDT
 [2026-09-08T17:57:24.646504+00:00] cambio_precio | Luxury (listing 240) | precio bajó: 380 -> 250 USDT
+[2026-09-08T20:53:12.022083+00:00] nuevo_listado | Maxo (listing 763) | Mago · Humano · Nivel 41 · 250 USDT
+[2026-09-08T20:53:12.022138+00:00] nuevo_listado | MEMU (listing 764) | Paladín · Elfo oscuro · Nivel 42 · 144 USDT
+[2026-09-08T20:53:12.022171+00:00] nuevo_listado | SHuliens (listing 765) | Asesino · Elfo oscuro · Nivel 42 · 250 USDT
+[2026-09-08T20:53:12.022200+00:00] nuevo_listado | rakef (listing 766) | Mago · Elfo · Nivel 40 · 110 USDT
+[2026-09-08T20:53:12.022276+00:00] cambio_precio | Bandio (listing 535) | precio bajó: 130 -> 89 USDT
+[2026-09-08T20:53:12.022326+00:00] cambio_precio | differeNt (listing 544) | precio bajó: 230 -> 210 USDT
+[2026-09-08T20:53:12.022356+00:00] cambio_precio | Doue (listing 552) | precio bajó: 130 -> 100 USDT
+[2026-09-08T20:53:12.022429+00:00] cambio_precio | Mifky (listing 579) | precio bajó: 130 -> 100 USDT
+[2026-09-08T20:53:12.022518+00:00] cambio_precio | Fraigh (listing 626) | precio bajó: 155 -> 120 USDT
+[2026-09-08T20:53:12.022588+00:00] cambio_precio | Vodka (listing 660) | precio bajó: 200 -> 170 USDT
+[2026-09-08T20:53:12.022867+00:00] cambio_precio | RAHNAROK (listing 738) | precio bajó: 220 -> 200 USDT
+[2026-09-08T20:53:12.022902+00:00] cambio_precio | AKD (listing 739) | precio bajó: 130 -> 110 USDT
+[2026-09-08T20:53:12.023155+00:00] cambio_precio | Diir (listing 492) | precio bajó: 118 -> 102 USDT
+[2026-09-08T20:53:19.753618+00:00] retirado_o_vencido | Waske (listing 659) | 100 USDT | sin transferencia coincidente tras 175 min
+[2026-09-08T20:53:19.753785+00:00] retirado_o_vencido | a S (listing 693) | 50 USDT | sin transferencia coincidente tras 175 min
+[2026-09-08T20:53:19.753830+00:00] retirado_o_vencido | Wuhr (listing 757) | 0 USDT | sin transferencia coincidente tras 175 min
