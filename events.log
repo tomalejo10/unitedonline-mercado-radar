@@ -875,3 +875,10 @@
 [2026-09-08T20:53:19.753618+00:00] retirado_o_vencido | Waske (listing 659) | 100 USDT | sin transferencia coincidente tras 175 min
 [2026-09-08T20:53:19.753785+00:00] retirado_o_vencido | a S (listing 693) | 50 USDT | sin transferencia coincidente tras 175 min
 [2026-09-08T20:53:19.753830+00:00] retirado_o_vencido | Wuhr (listing 757) | 0 USDT | sin transferencia coincidente tras 175 min
+[2026-09-08T23:12:17.046881+00:00] nuevo_listado | sAoco (listing 756) | Mago · Elfo · Nivel 40 · 75 USDT
+[2026-09-08T23:12:17.046922+00:00] nuevo_listado | aNNete (listing 767) | Mago · Elfo · Nivel 37 · 180 USDT
+[2026-09-08T23:12:17.047258+00:00] cambio_precio | AKD (listing 739) | precio bajó: 110 -> 100 USDT
+[2026-09-08T23:12:17.047322+00:00] cambio_precio | Aurore (listing 761) | precio bajó: 160 -> 115 USDT
+[2026-09-08T23:12:21.716965+00:00] retirado_o_vencido | SHuliens (listing 667) | 250 USDT | sin transferencia coincidente tras 139 min
+[2026-09-08T23:12:21.717062+00:00] retirado_o_vencido | MEMU (listing 714) | 165 USDT | sin transferencia coincidente tras 139 min
+[2026-09-08T23:12:21.717078+00:00] retirado_o_vencido | sAoco (listing 756) | 75 USDT | sin transferencia coincidente tras 139 min
