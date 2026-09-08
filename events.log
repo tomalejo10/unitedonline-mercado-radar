@@ -851,3 +851,11 @@
 [2026-09-08T14:14:45.864854+00:00] cambio_precio | sAoco (listing 756) | precio bajó: 85 -> 75 USDT
 [2026-09-08T14:14:45.864897+00:00] cambio_precio | Luxi (listing 758) | precio subió: 69 -> 77 USDT
 [2026-09-08T14:14:52.431033+00:00] retirado_o_vencido | Luxi (listing 699) | 76 USDT | sin transferencia coincidente tras 257 min
+[2026-09-08T17:57:24.645569+00:00] nuevo_listado | Double Strafe (listing 760) | Cazador · Enano · Nivel 32 · 50 USDT
+[2026-09-08T17:57:24.645672+00:00] nuevo_listado | Aurore (listing 761) | Cazador · Elfo · Nivel 41 · 160 USDT
+[2026-09-08T17:57:24.645728+00:00] nuevo_listado | Laurelia (listing 762) | Clérigo · Elfo · Nivel 26 · 50 USDT
+[2026-09-08T17:57:24.645776+00:00] nuevo_listado | Anethra (listing 759) | Asesino · Elfo oscuro · Nivel 40 · 160 USDT
+[2026-09-08T17:57:24.645918+00:00] cambio_precio | differeNt (listing 544) | precio bajó: 290 -> 230 USDT
+[2026-09-08T17:57:24.646283+00:00] cambio_precio | Zoc (listing 701) | precio subió: 100 -> 120 USDT
+[2026-09-08T17:57:24.646423+00:00] cambio_precio | elxokas (listing 749) | precio bajó: 70 -> 65 USDT
+[2026-09-08T17:57:24.646504+00:00] cambio_precio | Luxury (listing 240) | precio bajó: 380 -> 250 USDT
