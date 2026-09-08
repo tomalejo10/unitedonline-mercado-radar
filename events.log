@@ -833,3 +833,11 @@
 [2026-09-07T22:31:09.894922+00:00] retirado_o_vencido | Mick Jagger (listing 734) | 65 USDT | sin transferencia coincidente tras 160 min
 [2026-09-07T22:31:09.894973+00:00] retirado_o_vencido | Diensen (listing 744) | 105 USDT | sin transferencia coincidente tras 160 min
 [2026-09-08T00:41:29.817182+00:00] retirado_o_vencido | sAoco (listing 745) | 95 USDT | sin transferencia coincidente tras 130 min
+[2026-09-08T05:17:33.579419+00:00] nuevo_listado | sAoco (listing 756) | Mago · Elfo · Nivel 40 · 85 USDT
+[2026-09-08T05:17:33.579489+00:00] nuevo_listado | Wuhr (listing 757) | Druida · Elfo · Nivel 42 · 0 USDT
+[2026-09-08T05:17:33.579696+00:00] cambio_precio | nAna (listing 590) | precio bajó: 100 -> 70 USDT
+[2026-09-08T05:17:33.579952+00:00] cambio_precio | Luxi (listing 699) | precio bajó: 87 -> 76 USDT
+[2026-09-08T05:17:33.580058+00:00] cambio_precio | AKD (listing 739) | precio bajó: 150 -> 130 USDT
+[2026-09-08T05:17:33.580093+00:00] cambio_precio | Zyx (listing 228) | precio bajó: 850 -> 800 USDT
+[2026-09-08T05:17:33.580168+00:00] cambio_precio | Marti (listing 755) | precio bajó: 250 -> 210 USDT
+[2026-09-08T05:17:33.580424+00:00] cambio_precio | Barton (listing 462) | precio bajó: 125 -> 111 USDT
