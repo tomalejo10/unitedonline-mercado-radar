@@ -888,3 +888,13 @@
 [2026-09-09T01:15:43.001623+00:00] retirado_o_vencido | Diir (listing 492) | 102 USDT | sin transferencia coincidente tras 123 min
 [2026-09-09T01:15:43.001662+00:00] retirado_o_vencido | RAHNAROK (listing 738) | 200 USDT | sin transferencia coincidente tras 123 min
 [2026-09-09T01:15:43.001690+00:00] retirado_o_vencido | Khoga (listing 742) | 70 USDT | sin transferencia coincidente tras 123 min
+[2026-09-09T06:23:32.639618+00:00] nuevo_listado | Revel Stoke (listing 769) | Bardo · Elfo · Nivel 43 · 120 USDT
+[2026-09-09T06:23:32.639712+00:00] nuevo_listado | Playtest (listing 770) | Clérigo · Elfo oscuro · Nivel 40 · 156 USDT
+[2026-09-09T06:23:32.639756+00:00] nuevo_listado | Brang (listing 771) | Mago · Elfo · Nivel 38 · 80 USDT
+[2026-09-09T06:23:32.639794+00:00] nuevo_listado | TheRich (listing 772) | Clérigo · Humano · Nivel 25 · 65 USDT
+[2026-09-09T06:23:32.640177+00:00] cambio_precio | CENTURION (listing 696) | precio bajó: 55 -> 50 USDT
+[2026-09-09T06:23:32.640329+00:00] cambio_precio | sAoco (listing 756) | precio subió: 75 -> 90 USDT
+[2026-09-09T06:23:32.640515+00:00] cambio_precio | El Tripa (listing 354) | precio bajó: 75 -> 55 USDT
+[2026-09-09T06:23:32.640698+00:00] cambio_precio | Mario Moran (listing 501) | precio bajó: 100 -> 95 USDT
+[2026-09-09T06:23:44.394068+00:00] retirado_o_vencido | Prestancia (listing 619) | 50 USDT | sin transferencia coincidente tras 308 min
+[2026-09-09T06:23:44.394209+00:00] retirado_o_vencido | Drektiva (listing 728) | 130 USDT | sin transferencia coincidente tras 308 min
