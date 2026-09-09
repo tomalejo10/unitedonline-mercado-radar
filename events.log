@@ -901,3 +901,7 @@
 [2026-09-09T11:43:29.810013+00:00] cambio_precio | DOBB (listing 578) | precio subió: 70 -> 75 USDT
 [2026-09-09T11:43:29.810316+00:00] cambio_precio | Luxi (listing 758) | precio bajó: 77 -> 63 USDT
 [2026-09-09T11:43:39.536135+00:00] retirado_o_vencido | ThieveS (listing 568) | 95 USDT | sin transferencia coincidente tras 320 min
+[2026-09-09T15:18:57.459145+00:00] nuevo_listado | elxokas (listing 773) | Clérigo · Humano · Nivel 36 · 65 USDT
+[2026-09-09T15:18:57.459219+00:00] nuevo_listado | MalTika (listing 774) | Bardo · Elfo · Nivel 39 · 98 USDT
+[2026-09-09T15:18:57.459599+00:00] cambio_precio | Zoc (listing 701) | precio subió: 120 -> 150 USDT
+[2026-09-09T15:18:57.459731+00:00] cambio_precio | TukeroSS (listing 743) | precio subió: 0 -> 70 USDT
