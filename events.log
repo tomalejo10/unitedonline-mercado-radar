@@ -898,3 +898,6 @@
 [2026-09-09T06:23:32.640698+00:00] cambio_precio | Mario Moran (listing 501) | precio bajó: 100 -> 95 USDT
 [2026-09-09T06:23:44.394068+00:00] retirado_o_vencido | Prestancia (listing 619) | 50 USDT | sin transferencia coincidente tras 308 min
 [2026-09-09T06:23:44.394209+00:00] retirado_o_vencido | Drektiva (listing 728) | 130 USDT | sin transferencia coincidente tras 308 min
+[2026-09-09T11:43:29.810013+00:00] cambio_precio | DOBB (listing 578) | precio subió: 70 -> 75 USDT
+[2026-09-09T11:43:29.810316+00:00] cambio_precio | Luxi (listing 758) | precio bajó: 77 -> 63 USDT
+[2026-09-09T11:43:39.536135+00:00] retirado_o_vencido | ThieveS (listing 568) | 95 USDT | sin transferencia coincidente tras 320 min
