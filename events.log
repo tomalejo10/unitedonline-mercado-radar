@@ -944,3 +944,19 @@
 [2026-09-10T01:23:24.700233+00:00] cambio_precio | differeNt (listing 544) | precio bajó: 210 -> 190 USDT
 [2026-09-10T01:23:24.700415+00:00] cambio_precio | Linziel (listing 618) | precio bajó: 140 -> 130 USDT
 [2026-09-10T01:23:24.700684+00:00] cambio_precio | TyranA (listing 754) | precio bajó: 60 -> 50 USDT
+[2026-09-10T06:22:07.954724+00:00] nuevo_listado | HyH (listing 787) | Clérigo · Elfo oscuro · Nivel 42 · 108 USDT
+[2026-09-10T06:22:07.954798+00:00] nuevo_listado | Kiev (listing 788) | Bardo · Elfo · Nivel 35 · 50 USDT
+[2026-09-10T06:22:07.954917+00:00] cambio_precio | lli (listing 541) | precio bajó: 300 -> 250 USDT
+[2026-09-10T06:22:07.955011+00:00] cambio_precio | Rengarr (listing 559) | precio subió: 99 -> 119 USDT
+[2026-09-10T06:22:07.955221+00:00] cambio_precio | Vodka (listing 660) | precio subió: 170 -> 190 USDT
+[2026-09-10T06:22:07.955407+00:00] cambio_precio | Capote (listing 737) | precio bajó: 190 -> 150 USDT
+[2026-09-10T06:22:07.955457+00:00] cambio_precio | Zyx (listing 228) | precio bajó: 800 -> 750 USDT
+[2026-09-10T06:22:07.955507+00:00] cambio_precio | Rimpini (listing 747) | precio subió: 65 -> 70 USDT
+[2026-09-10T06:22:07.955642+00:00] cambio_precio | sAoco (listing 756) | precio bajó: 75 -> 70 USDT
+[2026-09-10T06:22:07.955716+00:00] cambio_precio | Aurore (listing 761) | precio bajó: 100 -> 90 USDT
+[2026-09-10T06:22:07.955783+00:00] cambio_precio | rakef (listing 766) | precio bajó: 110 -> 100 USDT
+[2026-09-10T06:22:07.955885+00:00] cambio_precio | mAyda (listing 778) | precio bajó: 95 -> 90 USDT
+[2026-09-10T06:22:07.955931+00:00] cambio_precio | kENDRA (listing 780) | precio bajó: 125 -> 100 USDT
+[2026-09-10T06:22:07.956126+00:00] cambio_precio | Aheel (listing 456) | precio bajó: 320 -> 160 USDT
+[2026-09-10T06:22:07.956250+00:00] cambio_precio | NadPescador (listing 510) | precio bajó: 300 -> 255 USDT
+[2026-09-10T06:22:17.044287+00:00] retirado_o_vencido | Tuhotuksi (listing 663) | 215 USDT | sin transferencia coincidente tras 298 min
