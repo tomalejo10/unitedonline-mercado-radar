@@ -960,3 +960,9 @@
 [2026-09-10T06:22:07.956126+00:00] cambio_precio | Aheel (listing 456) | precio bajó: 320 -> 160 USDT
 [2026-09-10T06:22:07.956250+00:00] cambio_precio | NadPescador (listing 510) | precio bajó: 300 -> 255 USDT
 [2026-09-10T06:22:17.044287+00:00] retirado_o_vencido | Tuhotuksi (listing 663) | 215 USDT | sin transferencia coincidente tras 298 min
+[2026-09-10T11:40:38.758334+00:00] nuevo_listado | Ginger (listing 789) | Clérigo · Humano · Nivel 39 · 95 USDT
+[2026-09-10T11:40:38.758373+00:00] nuevo_listado | Akashi (listing 790) | Mago · Elfo · Nivel 41 · 150 USDT
+[2026-09-10T11:40:38.758512+00:00] cambio_precio | Linziel (listing 618) | precio bajó: 130 -> 110 USDT
+[2026-09-10T11:40:38.758711+00:00] cambio_precio | Marceline (listing 784) | precio bajó: 134 -> 124 USDT
+[2026-09-10T11:40:38.758841+00:00] cambio_precio | BANSHEE (listing 502) | precio bajó: 250 -> 150 USDT
+[2026-09-10T11:40:45.141424+00:00] retirado_o_vencido | HyH (listing 724) | 120 USDT | sin transferencia coincidente tras 318 min
