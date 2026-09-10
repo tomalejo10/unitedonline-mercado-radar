@@ -966,3 +966,11 @@
 [2026-09-10T11:40:38.758711+00:00] cambio_precio | Marceline (listing 784) | precio bajó: 134 -> 124 USDT
 [2026-09-10T11:40:38.758841+00:00] cambio_precio | BANSHEE (listing 502) | precio bajó: 250 -> 150 USDT
 [2026-09-10T11:40:45.141424+00:00] retirado_o_vencido | HyH (listing 724) | 120 USDT | sin transferencia coincidente tras 318 min
+[2026-09-10T15:11:31.432177+00:00] nuevo_listado | Revel Stoke (listing 791) | Bardo · Elfo · Nivel 43 · 100 USDT
+[2026-09-10T15:11:31.432312+00:00] cambio_precio | Homero (listing 30) | precio bajó: 300 -> 250 USDT
+[2026-09-10T15:11:31.432861+00:00] cambio_precio | sAoco (listing 756) | precio subió: 70 -> 90 USDT
+[2026-09-10T15:11:31.432971+00:00] cambio_precio | aNNete (listing 767) | precio bajó: 180 -> 160 USDT
+[2026-09-10T15:11:31.433046+00:00] cambio_precio | mAyda (listing 778) | precio bajó: 90 -> 76 USDT
+[2026-09-10T15:11:31.433094+00:00] cambio_precio | Grodayz (listing 783) | precio bajó: 200 -> 105 USDT
+[2026-09-10T15:11:31.433136+00:00] cambio_precio | HyH (listing 787) | precio bajó: 108 -> 102 USDT
+[2026-09-10T15:11:34.797805+00:00] retirado_o_vencido | Niukh (listing 498) | 50 USDT | sin transferencia coincidente tras 210 min
