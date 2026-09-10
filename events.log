@@ -974,3 +974,19 @@
 [2026-09-10T15:11:31.433094+00:00] cambio_precio | Grodayz (listing 783) | precio bajó: 200 -> 105 USDT
 [2026-09-10T15:11:31.433136+00:00] cambio_precio | HyH (listing 787) | precio bajó: 108 -> 102 USDT
 [2026-09-10T15:11:34.797805+00:00] retirado_o_vencido | Niukh (listing 498) | 50 USDT | sin transferencia coincidente tras 210 min
+[2026-09-10T18:29:58.666294+00:00] nuevo_listado | Alarien (listing 792) | Clérigo · Elfo · Nivel 42 · 222 USDT
+[2026-09-10T18:29:58.666366+00:00] nuevo_listado | elxokas (listing 793) | Clérigo · Humano · Nivel 36 · 60 USDT
+[2026-09-10T18:29:58.666440+00:00] nuevo_listado | Flanders (listing 794) | Mago · Elfo · Nivel 34 · 50 USDT
+[2026-09-10T18:29:58.666489+00:00] nuevo_listado | yxY (listing 795) | Clérigo · Elfo · Nivel 43 · 400 USDT
+[2026-09-10T18:29:58.666534+00:00] nuevo_listado | MEMU (listing 796) | Paladín · Elfo oscuro · Nivel 42 · 130 USDT
+[2026-09-10T18:29:58.666578+00:00] nuevo_listado | ZABORG (listing 797) | Mago · Humano · Nivel 42 · 130 USDT
+[2026-09-10T18:29:58.666620+00:00] nuevo_listado | Dina (listing 798) | Bardo · Elfo · Nivel 35 · 50 USDT
+[2026-09-10T18:29:58.666785+00:00] cambio_precio | PATADA (listing 551) | precio bajó: 100 -> 90 USDT
+[2026-09-10T18:29:58.667033+00:00] cambio_precio | fiNNk (listing 677) | precio bajó: 80 -> 60 USDT
+[2026-09-10T18:29:58.667205+00:00] cambio_precio | Daeron (listing 748) | precio bajó: 64 -> 59 USDT
+[2026-09-10T18:29:58.667292+00:00] cambio_precio | Aurore (listing 761) | precio bajó: 90 -> 75 USDT
+[2026-09-10T18:29:58.667343+00:00] cambio_precio | Maxo (listing 763) | precio bajó: 250 -> 200 USDT
+[2026-09-10T18:29:58.667404+00:00] cambio_precio | Playtest (listing 770) | precio subió: 116 -> 156 USDT
+[2026-09-10T18:29:58.667457+00:00] cambio_precio | gyVaH (listing 776) | precio bajó: 110 -> 100 USDT
+[2026-09-10T18:29:58.667629+00:00] cambio_precio | Kaneki (listing 368) | precio bajó: 149 -> 99 USDT
+[2026-09-10T18:30:02.805463+00:00] retirado_o_vencido | Revel Stoke (listing 769) | 120 USDT | sin transferencia coincidente tras 198 min
