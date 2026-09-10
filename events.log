@@ -990,3 +990,17 @@
 [2026-09-10T18:29:58.667457+00:00] cambio_precio | gyVaH (listing 776) | precio bajó: 110 -> 100 USDT
 [2026-09-10T18:29:58.667629+00:00] cambio_precio | Kaneki (listing 368) | precio bajó: 149 -> 99 USDT
 [2026-09-10T18:30:02.805463+00:00] retirado_o_vencido | Revel Stoke (listing 769) | 120 USDT | sin transferencia coincidente tras 198 min
+[2026-09-10T21:08:18.802809+00:00] nuevo_listado | UndentifieD (listing 800) | Mago · Elfo · Nivel 38 · 50 USDT
+[2026-09-10T21:08:18.802863+00:00] nuevo_listado | Rhyz (listing 799) | Mago · Elfo · Nivel 26 · 199 USDT
+[2026-09-10T21:08:18.802989+00:00] cambio_precio | helkaa (listing 557) | precio bajó: 70 -> 50 USDT
+[2026-09-10T21:08:18.803300+00:00] cambio_precio | Zoc (listing 701) | precio subió: 150 -> 200 USDT
+[2026-09-10T21:08:18.803381+00:00] cambio_precio | Capote (listing 737) | precio bajó: 150 -> 120 USDT
+[2026-09-10T21:08:18.803422+00:00] cambio_precio | Daeron (listing 748) | precio bajó: 59 -> 50 USDT
+[2026-09-10T21:08:18.803464+00:00] cambio_precio | sAoco (listing 756) | precio bajó: 90 -> 80 USDT
+[2026-09-10T21:08:18.803560+00:00] cambio_precio | mAyda (listing 778) | precio bajó: 76 -> 65 USDT
+[2026-09-10T21:08:18.803591+00:00] cambio_precio | kENDRA (listing 780) | precio bajó: 100 -> 80 USDT
+[2026-09-10T21:08:18.803637+00:00] cambio_precio | Ginger (listing 789) | precio bajó: 95 -> 69 USDT
+[2026-09-10T21:08:20.416049+00:00] retirado_o_vencido | esiuda (listing 635) | 50 USDT | sin transferencia coincidente tras 158 min
+[2026-09-10T21:08:20.416173+00:00] retirado_o_vencido | Dina (listing 751) | 50 USDT | sin transferencia coincidente tras 158 min
+[2026-09-10T21:08:20.416211+00:00] retirado_o_vencido | MEMU (listing 764) | 144 USDT | sin transferencia coincidente tras 158 min
+[2026-09-10T21:08:20.416239+00:00] retirado_o_vencido | elxokas (listing 773) | 65 USDT | sin transferencia coincidente tras 158 min
