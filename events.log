@@ -1012,3 +1012,8 @@
 [2026-09-10T23:11:18.956463+00:00] cambio_precio | kENDRA (listing 780) | precio bajó: 80 -> 75 USDT
 [2026-09-10T23:11:18.956523+00:00] cambio_precio | HyH (listing 787) | precio bajó: 102 -> 95 USDT
 [2026-09-10T23:11:20.453786+00:00] retirado_o_vencido | UndentifieD (listing 496) | 60 USDT | sin transferencia coincidente tras 123 min
+[2026-09-11T01:06:31.388282+00:00] nuevo_listado | ThieveS (listing 802) | Mago · Elfo · Nivel 41 · 85 USDT
+[2026-09-11T01:06:31.388348+00:00] nuevo_listado | Teemo (listing 803) | Mago · Humano · Nivel 37 · 50 USDT
+[2026-09-11T01:06:36.614909+00:00] retirado_o_vencido | Vodka (listing 660) | 190 USDT | sin transferencia coincidente tras 115 min
+[2026-09-11T01:06:36.615014+00:00] retirado_o_vencido | Aurore (listing 761) | 75 USDT | sin transferencia coincidente tras 115 min
+[2026-09-11T01:06:36.615091+00:00] retirado_o_vencido | mAyda (listing 778) | 65 USDT | sin transferencia coincidente tras 115 min
