@@ -1017,3 +1017,14 @@
 [2026-09-11T01:06:36.614909+00:00] retirado_o_vencido | Vodka (listing 660) | 190 USDT | sin transferencia coincidente tras 115 min
 [2026-09-11T01:06:36.615014+00:00] retirado_o_vencido | Aurore (listing 761) | 75 USDT | sin transferencia coincidente tras 115 min
 [2026-09-11T01:06:36.615091+00:00] retirado_o_vencido | mAyda (listing 778) | 65 USDT | sin transferencia coincidente tras 115 min
+[2026-09-11T06:00:01.561982+00:00] nuevo_listado | Lykhev (listing 808) | Clérigo · Humano · Nivel 45 · 800 USDT
+[2026-09-11T06:00:01.562055+00:00] nuevo_listado | Canuto (listing 805) | Asesino · Elfo oscuro · Nivel 36 · 0 USDT
+[2026-09-11T06:00:01.562106+00:00] nuevo_listado | Luxi (listing 806) | Mago · Elfo · Nivel 38 · 53 USDT
+[2026-09-11T06:00:01.562152+00:00] nuevo_listado | MEMU (listing 807) | Paladín · Elfo oscuro · Nivel 42 · 80 USDT
+[2026-09-11T06:00:01.562576+00:00] cambio_precio | Capote (listing 737) | precio bajó: 120 -> 100 USDT
+[2026-09-11T06:00:01.562721+00:00] cambio_precio | sAoco (listing 756) | precio bajó: 70 -> 60 USDT
+[2026-09-11T06:00:01.562862+00:00] cambio_precio | Threndo (listing 777) | precio bajó: 109 -> 99 USDT
+[2026-09-11T06:00:01.562930+00:00] cambio_precio | Marceline (listing 784) | precio bajó: 124 -> 100 USDT
+[2026-09-11T06:00:01.562994+00:00] cambio_precio | Ginger (listing 789) | precio subió: 69 -> 89 USDT
+[2026-09-11T06:00:05.864235+00:00] retirado_o_vencido | Teemo (listing 775) | 50 USDT | sin transferencia coincidente tras 293 min
+[2026-09-11T06:00:05.864357+00:00] retirado_o_vencido | MEMU (listing 796) | 130 USDT | sin transferencia coincidente tras 293 min
