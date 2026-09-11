@@ -1035,3 +1035,8 @@
 [2026-09-11T15:01:58.158692+00:00] cambio_precio | Rengarr (listing 559) | precio subió: 119 -> 149 USDT
 [2026-09-11T15:01:58.159112+00:00] cambio_precio | Threndo (listing 777) | precio bajó: 99 -> 94 USDT
 [2026-09-11T15:01:58.159193+00:00] cambio_precio | Ginger (listing 789) | precio bajó: 89 -> 75 USDT
+[2026-09-11T18:33:04.150972+00:00] nuevo_listado | sAoco (listing 756) | Mago · Elfo · Nivel 40 · 60 USDT
+[2026-09-11T18:33:04.151363+00:00] cambio_precio | Marti (listing 755) | precio bajó: 150 -> 120 USDT
+[2026-09-11T18:33:04.151422+00:00] cambio_precio | rakef (listing 766) | precio bajó: 90 -> 80 USDT
+[2026-09-11T18:33:04.151562+00:00] cambio_precio | Lykhev (listing 808) | precio subió: 800 -> 1000 USDT
+[2026-09-11T18:33:12.353116+00:00] retirado_o_vencido | sAoco (listing 756) | 60 USDT | sin transferencia coincidente tras 211 min
