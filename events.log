@@ -1048,3 +1048,10 @@
 [2026-09-11T21:19:48.024539+00:00] cambio_precio | Marti (listing 755) | precio bajó: 120 -> 100 USDT
 [2026-09-11T21:19:48.024667+00:00] cambio_precio | kENDRA (listing 780) | precio bajó: 75 -> 70 USDT
 [2026-09-11T21:19:49.434944+00:00] retirado_o_vencido | Flanders (listing 794) | 50 USDT | sin transferencia coincidente tras 166 min
+[2026-09-11T23:28:38.693531+00:00] nuevo_listado | NismanVive (listing 811) | Clérigo · Elfo · Nivel 40 · 100 USDT
+[2026-09-11T23:28:38.693578+00:00] nuevo_listado | Zoc (listing 812) | Asesino · Gnomo · Nivel 39 · 150 USDT
+[2026-09-11T23:28:38.693839+00:00] cambio_precio | InuYasha (listing 692) | precio bajó: 130 -> 90 USDT
+[2026-09-11T23:28:38.693912+00:00] cambio_precio | Vaydrahj (listing 731) | precio bajó: 150 -> 90 USDT
+[2026-09-11T23:28:38.694059+00:00] cambio_precio | Moltres (listing 779) | precio bajó: 350 -> 290 USDT
+[2026-09-11T23:28:38.694127+00:00] cambio_precio | mAyda (listing 801) | precio bajó: 76 -> 55 USDT
+[2026-09-11T23:28:43.011436+00:00] retirado_o_vencido | elxokas (listing 793) | 60 USDT | sin transferencia coincidente tras 128 min
