@@ -1031,3 +1031,7 @@
 [2026-09-11T11:07:46.097147+00:00] retirado_o_vencido | Maxo (listing 763) | 200 USDT | sin transferencia coincidente tras 307 min
 [2026-09-11T11:07:46.097212+00:00] retirado_o_vencido | gyVaH (listing 776) | 100 USDT | sin transferencia coincidente tras 307 min
 [2026-09-11T11:07:46.097233+00:00] retirado_o_vencido | Luxi (listing 782) | 57 USDT | sin transferencia coincidente tras 307 min
+[2026-09-11T15:01:58.158509+00:00] nuevo_listado | Godiesito (listing 809) | Paladín · Elfo oscuro · Nivel 37 · 50 USDT
+[2026-09-11T15:01:58.158692+00:00] cambio_precio | Rengarr (listing 559) | precio subió: 119 -> 149 USDT
+[2026-09-11T15:01:58.159112+00:00] cambio_precio | Threndo (listing 777) | precio bajó: 99 -> 94 USDT
+[2026-09-11T15:01:58.159193+00:00] cambio_precio | Ginger (listing 789) | precio bajó: 89 -> 75 USDT
