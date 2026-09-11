@@ -1040,3 +1040,11 @@
 [2026-09-11T18:33:04.151422+00:00] cambio_precio | rakef (listing 766) | precio bajó: 90 -> 80 USDT
 [2026-09-11T18:33:04.151562+00:00] cambio_precio | Lykhev (listing 808) | precio subió: 800 -> 1000 USDT
 [2026-09-11T18:33:12.353116+00:00] retirado_o_vencido | sAoco (listing 756) | 60 USDT | sin transferencia coincidente tras 211 min
+[2026-09-11T21:19:48.023756+00:00] nuevo_listado | elxokas (listing 810) | Clérigo · Humano · Nivel 36 · 50 USDT
+[2026-09-11T21:19:48.023941+00:00] cambio_precio | Bandio (listing 535) | precio bajó: 89 -> 75 USDT
+[2026-09-11T21:19:48.024094+00:00] cambio_precio | Mifky (listing 579) | precio bajó: 100 -> 90 USDT
+[2026-09-11T21:19:48.024223+00:00] cambio_precio | Fraigh (listing 626) | precio bajó: 120 -> 95 USDT
+[2026-09-11T21:19:48.024330+00:00] cambio_precio | PRINCESO (listing 160) | precio bajó: 170 -> 120 USDT
+[2026-09-11T21:19:48.024539+00:00] cambio_precio | Marti (listing 755) | precio bajó: 120 -> 100 USDT
+[2026-09-11T21:19:48.024667+00:00] cambio_precio | kENDRA (listing 780) | precio bajó: 75 -> 70 USDT
+[2026-09-11T21:19:49.434944+00:00] retirado_o_vencido | Flanders (listing 794) | 50 USDT | sin transferencia coincidente tras 166 min
