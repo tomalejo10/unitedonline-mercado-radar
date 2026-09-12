@@ -1055,3 +1055,10 @@
 [2026-09-11T23:28:38.694059+00:00] cambio_precio | Moltres (listing 779) | precio bajó: 350 -> 290 USDT
 [2026-09-11T23:28:38.694127+00:00] cambio_precio | mAyda (listing 801) | precio bajó: 76 -> 55 USDT
 [2026-09-11T23:28:43.011436+00:00] retirado_o_vencido | elxokas (listing 793) | 60 USDT | sin transferencia coincidente tras 128 min
+[2026-09-12T01:26:20.750576+00:00] nuevo_listado | ToffIck (listing 813) | Mago · Elfo · Nivel 41 · 0 USDT
+[2026-09-12T01:26:20.750624+00:00] nuevo_listado | Lizz (listing 814) | Asesino · Elfo oscuro · Nivel 36 · 0 USDT
+[2026-09-12T01:26:20.750974+00:00] cambio_precio | AKD (listing 739) | precio bajó: 100 -> 80 USDT
+[2026-09-12T01:26:20.751096+00:00] cambio_precio | kENDRA (listing 780) | precio subió: 70 -> 75 USDT
+[2026-09-12T01:26:20.751131+00:00] cambio_precio | RheleM (listing 785) | precio bajó: 105 -> 80 USDT
+[2026-09-12T01:26:20.751242+00:00] cambio_precio | ZABORG (listing 797) | precio bajó: 130 -> 120 USDT
+[2026-09-12T01:26:22.173451+00:00] retirado_o_vencido | Zoc (listing 701) | 200 USDT | sin transferencia coincidente tras 117 min
