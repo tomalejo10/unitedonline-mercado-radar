@@ -1067,3 +1067,5 @@
 [2026-09-12T06:13:35.256597+00:00] cambio_precio | rakef (listing 766) | precio bajó: 80 -> 70 USDT
 [2026-09-12T06:13:35.256690+00:00] cambio_precio | Rhyz (listing 799) | precio subió: 199 -> 9999 USDT
 [2026-09-12T06:13:35.256881+00:00] cambio_precio | Mario Moran (listing 501) | precio bajó: 95 -> 75 USDT
+[2026-09-12T13:53:30.114403+00:00] cambio_precio | Linziel (listing 618) | precio bajó: 110 -> 104 USDT
+[2026-09-12T13:53:31.589878+00:00] retirado_o_vencido | Teemo (listing 803) | 50 USDT | sin transferencia coincidente tras 181 min
