@@ -1069,3 +1069,8 @@
 [2026-09-12T06:13:35.256881+00:00] cambio_precio | Mario Moran (listing 501) | precio bajó: 95 -> 75 USDT
 [2026-09-12T13:53:30.114403+00:00] cambio_precio | Linziel (listing 618) | precio bajó: 110 -> 104 USDT
 [2026-09-12T13:53:31.589878+00:00] retirado_o_vencido | Teemo (listing 803) | 50 USDT | sin transferencia coincidente tras 181 min
+[2026-09-12T16:46:34.009158+00:00] nuevo_listado | Sophie (listing 816) | Mago · Elfo · Nivel 42 · 130 USDT
+[2026-09-12T16:46:34.009588+00:00] cambio_precio | Manel (listing 146) | precio bajó: 125 -> 60 USDT
+[2026-09-12T16:46:34.009943+00:00] cambio_precio | RachelBerry (listing 746) | precio bajó: 220 -> 165 USDT
+[2026-09-12T16:46:34.010279+00:00] cambio_precio | ThieveS (listing 802) | precio bajó: 85 -> 60 USDT
+[2026-09-12T16:46:34.010440+00:00] cambio_precio | ElhendiR (listing 348) | precio bajó: 125 -> 50 USDT
