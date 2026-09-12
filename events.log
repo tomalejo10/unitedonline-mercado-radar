@@ -1062,3 +1062,8 @@
 [2026-09-12T01:26:20.751131+00:00] cambio_precio | RheleM (listing 785) | precio bajó: 105 -> 80 USDT
 [2026-09-12T01:26:20.751242+00:00] cambio_precio | ZABORG (listing 797) | precio bajó: 130 -> 120 USDT
 [2026-09-12T01:26:22.173451+00:00] retirado_o_vencido | Zoc (listing 701) | 200 USDT | sin transferencia coincidente tras 117 min
+[2026-09-12T06:13:35.256121+00:00] nuevo_listado | Awx (listing 815) | Mago · Elfo · Nivel 43 · 250 USDT
+[2026-09-12T06:13:35.256566+00:00] cambio_precio | TAPION (listing 251) | precio bajó: 200 -> 150 USDT
+[2026-09-12T06:13:35.256597+00:00] cambio_precio | rakef (listing 766) | precio bajó: 80 -> 70 USDT
+[2026-09-12T06:13:35.256690+00:00] cambio_precio | Rhyz (listing 799) | precio subió: 199 -> 9999 USDT
+[2026-09-12T06:13:35.256881+00:00] cambio_precio | Mario Moran (listing 501) | precio bajó: 95 -> 75 USDT
