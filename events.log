@@ -1074,3 +1074,7 @@
 [2026-09-12T16:46:34.009943+00:00] cambio_precio | RachelBerry (listing 746) | precio bajó: 220 -> 165 USDT
 [2026-09-12T16:46:34.010279+00:00] cambio_precio | ThieveS (listing 802) | precio bajó: 85 -> 60 USDT
 [2026-09-12T16:46:34.010440+00:00] cambio_precio | ElhendiR (listing 348) | precio bajó: 125 -> 50 USDT
+[2026-09-12T18:58:31.399385+00:00] nuevo_listado | Tuhotuksi (listing 817) | Mago · Humano · Nivel 43 · 150 USDT
+[2026-09-12T18:58:31.399775+00:00] cambio_precio | sAoco (listing 756) | precio bajó: 60 -> 50 USDT
+[2026-09-12T18:58:36.546357+00:00] retirado_o_vencido | mAyda (listing 801) | 55 USDT | sin transferencia coincidente tras 132 min
+[2026-09-12T18:58:36.546437+00:00] retirado_o_vencido | MEMU (listing 807) | 80 USDT | sin transferencia coincidente tras 132 min
