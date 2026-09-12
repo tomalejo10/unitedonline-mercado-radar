@@ -1078,3 +1078,17 @@
 [2026-09-12T18:58:31.399775+00:00] cambio_precio | sAoco (listing 756) | precio bajó: 60 -> 50 USDT
 [2026-09-12T18:58:36.546357+00:00] retirado_o_vencido | mAyda (listing 801) | 55 USDT | sin transferencia coincidente tras 132 min
 [2026-09-12T18:58:36.546437+00:00] retirado_o_vencido | MEMU (listing 807) | 80 USDT | sin transferencia coincidente tras 132 min
+[2026-09-12T21:20:39.570876+00:00] nuevo_listado | ThieveS (listing 802) | Mago · Elfo · Nivel 41 · 60 USDT
+[2026-09-12T21:20:39.570945+00:00] nuevo_listado | JULiETA (listing 819) | Bandido · Elfo · Nivel 28 · 50 USDT
+[2026-09-12T21:20:39.570997+00:00] nuevo_listado | Vydhaem (listing 820) | Clérigo · Elfo oscuro · Nivel 36 · 70 USDT
+[2026-09-12T21:20:39.571046+00:00] nuevo_listado | Alyssane (listing 821) | Cazador · Enano · Nivel 31 · 55 USDT
+[2026-09-12T21:20:39.571092+00:00] nuevo_listado | GALTiERi (listing 822) | Mago · Humano · Nivel 35 · 75 USDT
+[2026-09-12T21:20:39.571135+00:00] nuevo_listado | THOMSEN KICK (listing 823) | Guerrero · Enano · Nivel 26 · 50 USDT
+[2026-09-12T21:20:39.571680+00:00] cambio_precio | TAPION (listing 251) | precio bajó: 150 -> 100 USDT
+[2026-09-12T21:20:39.571788+00:00] cambio_precio | kENDRA (listing 780) | precio bajó: 75 -> 70 USDT
+[2026-09-12T21:20:39.571852+00:00] cambio_precio | Ginger (listing 789) | precio bajó: 75 -> 69 USDT
+[2026-09-12T21:20:39.572068+00:00] cambio_precio | AMANEK (listing 433) | precio bajó: 200 -> 70 USDT
+[2026-09-12T21:20:40.862506+00:00] retirado_o_vencido | Threndo (listing 777) | 94 USDT | sin transferencia coincidente tras 142 min
+[2026-09-12T21:20:40.862606+00:00] retirado_o_vencido | Tuhotuksi (listing 786) | 215 USDT | sin transferencia coincidente tras 142 min
+[2026-09-12T21:20:40.862655+00:00] retirado_o_vencido | Revel Stoke (listing 791) | 100 USDT | sin transferencia coincidente tras 142 min
+[2026-09-12T21:20:40.862699+00:00] retirado_o_vencido | ThieveS (listing 802) | 60 USDT | sin transferencia coincidente tras 142 min
