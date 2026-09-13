@@ -1120,3 +1120,8 @@
 [2026-09-13T18:21:11.151152+00:00] nuevo_listado | Qvi (listing 645) | Cazador · Enano · Nivel 40 · 92 USDT
 [2026-09-13T18:21:11.151588+00:00] cambio_precio | Sophie (listing 816) | precio bajó: 119 -> 90 USDT
 [2026-09-13T18:21:16.407774+00:00] retirado_o_vencido | Qvi (listing 645) | 92 USDT | sin transferencia coincidente tras 161 min
+[2026-09-13T21:01:30.490661+00:00] nuevo_listado | GOLPEAR (listing 829) | Guerrero · Orco · Nivel 36 · 55 USDT
+[2026-09-13T21:01:30.490835+00:00] cambio_precio | Qvi (listing 645) | precio bajó: 92 -> 85 USDT
+[2026-09-13T21:01:30.490923+00:00] cambio_precio | Capote (listing 737) | precio bajó: 100 -> 80 USDT
+[2026-09-13T21:01:30.490984+00:00] cambio_precio | Marti (listing 755) | precio bajó: 100 -> 90 USDT
+[2026-09-13T21:01:30.491041+00:00] cambio_precio | Marceline (listing 784) | precio bajó: 100 -> 70 USDT
