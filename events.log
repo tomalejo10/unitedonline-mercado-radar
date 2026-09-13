@@ -1102,3 +1102,14 @@
 [2026-09-13T01:00:55.080454+00:00] cambio_precio | Vydhaem (listing 820) | precio bajó: 70 -> 50 USDT
 [2026-09-13T01:00:55.080508+00:00] cambio_precio | GALTiERi (listing 822) | precio bajó: 75 -> 50 USDT
 [2026-09-13T01:00:58.350855+00:00] retirado_o_vencido | Dinamita (listing 706) | 70 USDT | sin transferencia coincidente tras 111 min
+[2026-09-13T06:11:06.181102+00:00] nuevo_listado | Corticoide (listing 826) | Guerrero · Enano · Nivel 40 · 70 USDT
+[2026-09-13T06:11:06.181269+00:00] cambio_precio | Rengarr (listing 559) | precio bajó: 149 -> 67 USDT
+[2026-09-13T06:11:06.181426+00:00] cambio_precio | DOBB (listing 578) | precio subió: 75 -> 95 USDT
+[2026-09-13T06:11:06.181608+00:00] cambio_precio | Boris (listing 612) | precio bajó: 200 -> 130 USDT
+[2026-09-13T06:11:06.181934+00:00] cambio_precio | Brang (listing 771) | precio bajó: 80 -> 60 USDT
+[2026-09-13T06:11:06.182098+00:00] cambio_precio | Sophie (listing 816) | precio bajó: 130 -> 119 USDT
+[2026-09-13T06:11:06.182238+00:00] cambio_precio | Kaneki (listing 368) | precio bajó: 99 -> 89 USDT
+[2026-09-13T06:11:06.182286+00:00] cambio_precio | Aquaa (listing 377) | precio bajó: 320 -> 200 USDT
+[2026-09-13T06:11:06.182343+00:00] cambio_precio | Galavil (listing 394) | precio bajó: 115 -> 60 USDT
+[2026-09-13T06:11:06.182386+00:00] cambio_precio | Ghosted (listing 395) | precio bajó: 150 -> 85 USDT
+[2026-09-13T06:11:06.182577+00:00] cambio_precio | Brigone (listing 476) | precio bajó: 75 -> 50 USDT
