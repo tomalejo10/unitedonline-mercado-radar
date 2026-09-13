@@ -1125,3 +1125,8 @@
 [2026-09-13T21:01:30.490923+00:00] cambio_precio | Capote (listing 737) | precio bajó: 100 -> 80 USDT
 [2026-09-13T21:01:30.490984+00:00] cambio_precio | Marti (listing 755) | precio bajó: 100 -> 90 USDT
 [2026-09-13T21:01:30.491041+00:00] cambio_precio | Marceline (listing 784) | precio bajó: 100 -> 70 USDT
+[2026-09-13T23:10:29.108568+00:00] cambio_precio | ZABORG (listing 797) | precio bajó: 120 -> 100 USDT
+[2026-09-13T23:10:29.108710+00:00] cambio_precio | Awx (listing 815) | precio bajó: 250 -> 200 USDT
+[2026-09-13T23:10:29.108775+00:00] cambio_precio | Alyssane (listing 821) | precio bajó: 55 -> 50 USDT
+[2026-09-13T23:10:30.551603+00:00] retirado_o_vencido | Botardapp (listing 750) | 50 USDT | sin transferencia coincidente tras 129 min
+[2026-09-13T23:10:30.551754+00:00] retirado_o_vencido | Sophie (listing 816) | 90 USDT | sin transferencia coincidente tras 129 min
