@@ -1153,3 +1153,8 @@
 [2026-09-14T18:38:48.021628+00:00] cambio_precio | rakef (listing 766) | precio bajó: 70 -> 60 USDT
 [2026-09-14T18:38:57.980854+00:00] retirado_o_vencido | Nayral (listing 467) | 65 USDT | sin transferencia coincidente tras 328 min
 [2026-09-14T18:38:57.980952+00:00] retirado_o_vencido | Vaydrahj (listing 731) | 50 USDT | sin transferencia coincidente tras 328 min
+[2026-09-14T22:04:25.467555+00:00] nuevo_listado | Tafeen (listing 833) | Mago · Elfo · Nivel 40 · 150 USDT
+[2026-09-14T22:04:25.467788+00:00] cambio_precio | Niukhs (listing 604) | precio subió: 0 -> 190 USDT
+[2026-09-14T22:04:25.467968+00:00] cambio_precio | Qvi (listing 645) | precio bajó: 85 -> 65 USDT
+[2026-09-14T22:04:27.165161+00:00] retirado_o_vencido | kENDRA (listing 780) | 70 USDT | sin transferencia coincidente tras 205 min
+[2026-09-14T22:04:27.165278+00:00] retirado_o_vencido | ThieveS (listing 802) | 60 USDT | sin transferencia coincidente tras 205 min
