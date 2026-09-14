@@ -1134,3 +1134,9 @@
 [2026-09-14T01:05:03.216013+00:00] cambio_precio | Vaydrahj (listing 731) | precio bajó: 90 -> 50 USDT
 [2026-09-14T01:05:03.216256+00:00] cambio_precio | Moltres (listing 779) | precio bajó: 290 -> 250 USDT
 [2026-09-14T01:05:03.216335+00:00] cambio_precio | Ginger (listing 789) | precio bajó: 59 -> 50 USDT
+[2026-09-14T06:17:38.863707+00:00] nuevo_listado | RTX (listing 830) | Asesino · Orco · Nivel 42 · 120 USDT
+[2026-09-14T06:17:38.863758+00:00] nuevo_listado | Canuto (listing 831) | Asesino · Elfo oscuro · Nivel 36 · 0 USDT
+[2026-09-14T06:17:38.864080+00:00] cambio_precio | Capote (listing 737) | precio bajó: 80 -> 70 USDT
+[2026-09-14T06:17:38.864135+00:00] cambio_precio | Marti (listing 755) | precio bajó: 90 -> 80 USDT
+[2026-09-14T06:17:38.864191+00:00] cambio_precio | TAPION (listing 251) | precio bajó: 100 -> 98 USDT
+[2026-09-14T06:17:48.420230+00:00] retirado_o_vencido | Jimi (listing 592) | 135 USDT | sin transferencia coincidente tras 312 min
