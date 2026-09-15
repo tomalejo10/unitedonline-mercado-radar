@@ -1177,3 +1177,11 @@
 [2026-09-15T19:00:35.610161+00:00] nuevo_listado | kENDRA (listing 842) | Clérigo · Elfo oscuro · Nivel 40 · 80 USDT
 [2026-09-15T19:00:35.610546+00:00] cambio_precio | Capote (listing 737) | precio subió: 50 -> 100 USDT
 [2026-09-15T19:00:35.610879+00:00] cambio_precio | sobrinitO (listing 834) | precio subió: 50 -> 52 USDT
+[2026-09-15T22:06:57.156770+00:00] cambio_precio | PATADA (listing 551) | precio bajó: 90 -> 65 USDT
+[2026-09-15T22:06:57.157082+00:00] cambio_precio | Manuela Pisuela (listing 703) | precio bajó: 500 -> 400 USDT
+[2026-09-15T22:06:57.157484+00:00] cambio_precio | gyVaH (listing 835) | precio bajó: 90 -> 80 USDT
+[2026-09-15T22:06:57.157674+00:00] cambio_precio | sveNja (listing 458) | precio bajó: 75 -> 50 USDT
+[2026-09-15T22:07:03.234085+00:00] retirado_o_vencido | Qvi (listing 645) | 65 USDT | sin transferencia coincidente tras 186 min
+[2026-09-15T22:07:03.234292+00:00] retirado_o_vencido | Turgon (listing 646) | 225 USDT | sin transferencia coincidente tras 186 min
+[2026-09-15T22:07:03.234369+00:00] retirado_o_vencido | Marceline (listing 784) | 50 USDT | sin transferencia coincidente tras 186 min
+[2026-09-15T22:07:03.234419+00:00] retirado_o_vencido | Canuto (listing 831) | 0 USDT | sin transferencia coincidente tras 186 min
