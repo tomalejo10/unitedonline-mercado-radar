@@ -1165,3 +1165,6 @@
 [2026-09-15T05:23:45.297437+00:00] nuevo_listado | Sophie (listing 837) | Mago · Elfo · Nivel 42 · 105 USDT
 [2026-09-15T05:23:45.297853+00:00] cambio_precio | Marceline (listing 784) | precio bajó: 70 -> 50 USDT
 [2026-09-15T05:23:45.297985+00:00] cambio_precio | sobrinitO (listing 834) | precio bajó: 59 -> 54 USDT
+[2026-09-15T10:17:35.541905+00:00] cambio_precio | Capote (listing 737) | precio bajó: 70 -> 50 USDT
+[2026-09-15T10:17:35.542150+00:00] cambio_precio | RTX (listing 830) | precio bajó: 120 -> 95 USDT
+[2026-09-15T10:17:45.453884+00:00] retirado_o_vencido | Anethra (listing 759) | 160 USDT | sin transferencia coincidente tras 294 min
