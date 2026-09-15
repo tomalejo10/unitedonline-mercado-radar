@@ -1168,3 +1168,5 @@
 [2026-09-15T10:17:35.541905+00:00] cambio_precio | Capote (listing 737) | precio bajó: 70 -> 50 USDT
 [2026-09-15T10:17:35.542150+00:00] cambio_precio | RTX (listing 830) | precio bajó: 120 -> 95 USDT
 [2026-09-15T10:17:45.453884+00:00] retirado_o_vencido | Anethra (listing 759) | 160 USDT | sin transferencia coincidente tras 294 min
+[2026-09-15T15:10:42.436338+00:00] cambio_precio | Myst (listing 691) | precio bajó: 200 -> 75 USDT
+[2026-09-15T15:10:42.436623+00:00] cambio_precio | sobrinitO (listing 834) | precio bajó: 54 -> 50 USDT
