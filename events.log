@@ -1160,3 +1160,8 @@
 [2026-09-14T22:04:27.165278+00:00] retirado_o_vencido | ThieveS (listing 802) | 60 USDT | sin transferencia coincidente tras 205 min
 [2026-09-15T00:38:19.691545+00:00] nuevo_listado | sobrinitO (listing 834) | Clérigo · Elfo oscuro · Nivel 40 · 59 USDT
 [2026-09-15T00:38:24.351757+00:00] retirado_o_vencido | InuYasha (listing 692) | 50 USDT | sin transferencia coincidente tras 153 min
+[2026-09-15T05:23:45.297344+00:00] nuevo_listado | gyVaH (listing 835) | Cazador · Enano · Nivel 41 · 90 USDT
+[2026-09-15T05:23:45.297396+00:00] nuevo_listado | Anethra (listing 836) | Asesino · Elfo oscuro · Nivel 40 · 109 USDT
+[2026-09-15T05:23:45.297437+00:00] nuevo_listado | Sophie (listing 837) | Mago · Elfo · Nivel 42 · 105 USDT
+[2026-09-15T05:23:45.297853+00:00] cambio_precio | Marceline (listing 784) | precio bajó: 70 -> 50 USDT
+[2026-09-15T05:23:45.297985+00:00] cambio_precio | sobrinitO (listing 834) | precio bajó: 59 -> 54 USDT
