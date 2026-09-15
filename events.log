@@ -1158,3 +1158,5 @@
 [2026-09-14T22:04:25.467968+00:00] cambio_precio | Qvi (listing 645) | precio bajó: 85 -> 65 USDT
 [2026-09-14T22:04:27.165161+00:00] retirado_o_vencido | kENDRA (listing 780) | 70 USDT | sin transferencia coincidente tras 205 min
 [2026-09-14T22:04:27.165278+00:00] retirado_o_vencido | ThieveS (listing 802) | 60 USDT | sin transferencia coincidente tras 205 min
+[2026-09-15T00:38:19.691545+00:00] nuevo_listado | sobrinitO (listing 834) | Clérigo · Elfo oscuro · Nivel 40 · 59 USDT
+[2026-09-15T00:38:24.351757+00:00] retirado_o_vencido | InuYasha (listing 692) | 50 USDT | sin transferencia coincidente tras 153 min
