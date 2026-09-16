@@ -1220,3 +1220,8 @@
 [2026-09-16T21:36:28.392956+00:00] cambio_precio | TAPION (listing 251) | precio bajó: 98 -> 94 USDT
 [2026-09-16T21:36:28.393190+00:00] cambio_precio | kENDRA (listing 842) | precio bajó: 80 -> 69 USDT
 [2026-09-16T21:36:34.523575+00:00] retirado_o_vencido | Oscuridad (listing 576) | 50 USDT | sin transferencia coincidente tras 187 min
+[2026-09-16T23:51:52.832221+00:00] cambio_precio | DOBB (listing 578) | precio subió: 95 -> 98 USDT
+[2026-09-16T23:51:52.832483+00:00] cambio_precio | Lady aliceNt (listing 717) | precio bajó: 67 -> 50 USDT
+[2026-09-16T23:51:52.832789+00:00] cambio_precio | GOLPEAR (listing 829) | precio subió: 65 -> 85 USDT
+[2026-09-16T23:51:52.832925+00:00] cambio_precio | Sophie (listing 837) | precio bajó: 155 -> 125 USDT
+[2026-09-16T23:51:52.833026+00:00] cambio_precio | kENDRA (listing 842) | precio bajó: 69 -> 62 USDT
