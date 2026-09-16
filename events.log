@@ -1191,3 +1191,12 @@
 [2026-09-16T00:20:09.516562+00:00] cambio_precio | uNNN (listing 824) | precio bajó: 135 -> 125 USDT
 [2026-09-16T00:20:09.516625+00:00] cambio_precio | sobrinitO (listing 834) | precio subió: 52 -> 59 USDT
 [2026-09-16T00:20:09.516653+00:00] cambio_precio | gyVaH (listing 835) | precio bajó: 80 -> 70 USDT
+[2026-09-16T05:05:27.039024+00:00] nuevo_listado | Ankudinova (listing 848) | Asesino · Humano · Nivel 40 · 90 USDT
+[2026-09-16T05:05:27.039093+00:00] nuevo_listado | Insjk (listing 845) | Cazador · Enano · Nivel 41 · 0 USDT
+[2026-09-16T05:05:27.039144+00:00] nuevo_listado | Mick Jagger (listing 846) | Clérigo · Elfo · Nivel 41 · 0 USDT
+[2026-09-16T05:05:27.039190+00:00] nuevo_listado | Lil Neo (listing 847) | Druida · Elfo · Nivel 42 · 140 USDT
+[2026-09-16T05:05:27.039537+00:00] cambio_precio | PRINCESO (listing 160) | precio bajó: 120 -> 98 USDT
+[2026-09-16T05:05:27.039596+00:00] cambio_precio | Vithak (listing 163) | precio bajó: 100 -> 65 USDT
+[2026-09-16T05:05:27.039770+00:00] cambio_precio | Marti (listing 755) | precio bajó: 80 -> 75 USDT
+[2026-09-16T05:05:27.040041+00:00] cambio_precio | sobrinitO (listing 834) | precio bajó: 59 -> 54 USDT
+[2026-09-16T05:05:31.056550+00:00] retirado_o_vencido | Rimpini (listing 747) | 70 USDT | sin transferencia coincidente tras 285 min
