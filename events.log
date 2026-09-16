@@ -1185,3 +1185,9 @@
 [2026-09-15T22:07:03.234292+00:00] retirado_o_vencido | Turgon (listing 646) | 225 USDT | sin transferencia coincidente tras 186 min
 [2026-09-15T22:07:03.234369+00:00] retirado_o_vencido | Marceline (listing 784) | 50 USDT | sin transferencia coincidente tras 186 min
 [2026-09-15T22:07:03.234419+00:00] retirado_o_vencido | Canuto (listing 831) | 0 USDT | sin transferencia coincidente tras 186 min
+[2026-09-16T00:20:09.515928+00:00] nuevo_listado | Aries (listing 843) | Bardo · Elfo · Nivel 40 · 0 USDT
+[2026-09-16T00:20:09.515980+00:00] nuevo_listado | LMH (listing 844) | Clérigo · Elfo · Nivel 36 · 0 USDT
+[2026-09-16T00:20:09.516202+00:00] cambio_precio | Boris (listing 612) | precio bajó: 130 -> 100 USDT
+[2026-09-16T00:20:09.516562+00:00] cambio_precio | uNNN (listing 824) | precio bajó: 135 -> 125 USDT
+[2026-09-16T00:20:09.516625+00:00] cambio_precio | sobrinitO (listing 834) | precio subió: 52 -> 59 USDT
+[2026-09-16T00:20:09.516653+00:00] cambio_precio | gyVaH (listing 835) | precio bajó: 80 -> 70 USDT
