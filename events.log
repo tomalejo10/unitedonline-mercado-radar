@@ -1216,3 +1216,7 @@
 [2026-09-16T18:28:36.375769+00:00] cambio_precio | sobrinitO (listing 834) | precio bajó: 54 -> 50 USDT
 [2026-09-16T18:28:43.147937+00:00] retirado_o_vencido | M a (listing 134) | 700 USDT | sin transferencia coincidente tras 225 min
 [2026-09-16T18:28:43.148045+00:00] retirado_o_vencido | Piju (listing 611) | 400 USDT | sin transferencia coincidente tras 225 min
+[2026-09-16T21:36:28.392736+00:00] cambio_precio | Linziel (listing 618) | precio subió: 80 -> 100 USDT
+[2026-09-16T21:36:28.392956+00:00] cambio_precio | TAPION (listing 251) | precio bajó: 98 -> 94 USDT
+[2026-09-16T21:36:28.393190+00:00] cambio_precio | kENDRA (listing 842) | precio bajó: 80 -> 69 USDT
+[2026-09-16T21:36:34.523575+00:00] retirado_o_vencido | Oscuridad (listing 576) | 50 USDT | sin transferencia coincidente tras 187 min
