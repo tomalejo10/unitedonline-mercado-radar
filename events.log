@@ -1204,3 +1204,5 @@
 [2026-09-16T09:57:43.984437+00:00] cambio_precio | Ankudinova (listing 848) | precio bajó: 90 -> 75 USDT
 [2026-09-16T09:57:43.984502+00:00] cambio_precio | El Tripa (listing 354) | precio bajó: 55 -> 50 USDT
 [2026-09-16T09:57:46.842164+00:00] retirado_o_vencido | Insjk (listing 752) | 0 USDT | sin transferencia coincidente tras 292 min
+[2026-09-16T14:43:39.313751+00:00] cambio_precio | GOLPEAR (listing 829) | precio subió: 55 -> 65 USDT
+[2026-09-16T14:43:39.313920+00:00] cambio_precio | Sophie (listing 837) | precio subió: 105 -> 155 USDT
