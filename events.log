@@ -1228,3 +1228,9 @@
 [2026-09-17T03:33:07.044466+00:00] cambio_precio | Playtest (listing 770) | precio subió: 156 -> 222 USDT
 [2026-09-17T14:07:25.950419+00:00] nuevo_listado | kTku Jrs (listing 850) | Asesino · Elfo oscuro · Nivel 40 · 160 USDT
 [2026-09-17T14:07:25.950846+00:00] cambio_precio | TukeroSS (listing 743) | precio bajó: 60 -> 50 USDT
+[2026-09-17T18:14:14.621104+00:00] cambio_precio | MalTika (listing 774) | precio bajó: 98 -> 90 USDT
+[2026-09-17T18:14:14.621344+00:00] cambio_precio | Turgon (listing 840) | precio bajó: 99 -> 77 USDT
+[2026-09-17T18:14:14.621392+00:00] cambio_precio | LYSTEN (listing 841) | precio bajó: 75 -> 65 USDT
+[2026-09-17T18:14:14.621457+00:00] cambio_precio | Lil Neo (listing 847) | precio bajó: 140 -> 125 USDT
+[2026-09-17T18:14:14.621507+00:00] cambio_precio | REY DE LA PIZZA (listing 849) | precio bajó: 75 -> 65 USDT
+[2026-09-17T18:14:16.648552+00:00] retirado_o_vencido | Rengarr (listing 559) | 67 USDT | sin transferencia coincidente tras 246 min
