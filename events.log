@@ -1226,3 +1226,5 @@
 [2026-09-16T23:51:52.832925+00:00] cambio_precio | Sophie (listing 837) | precio bajó: 155 -> 125 USDT
 [2026-09-16T23:51:52.833026+00:00] cambio_precio | kENDRA (listing 842) | precio bajó: 69 -> 62 USDT
 [2026-09-17T03:33:07.044466+00:00] cambio_precio | Playtest (listing 770) | precio subió: 156 -> 222 USDT
+[2026-09-17T14:07:25.950419+00:00] nuevo_listado | kTku Jrs (listing 850) | Asesino · Elfo oscuro · Nivel 40 · 160 USDT
+[2026-09-17T14:07:25.950846+00:00] cambio_precio | TukeroSS (listing 743) | precio bajó: 60 -> 50 USDT
