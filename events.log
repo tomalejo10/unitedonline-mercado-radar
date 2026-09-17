@@ -1234,3 +1234,6 @@
 [2026-09-17T18:14:14.621457+00:00] cambio_precio | Lil Neo (listing 847) | precio bajó: 140 -> 125 USDT
 [2026-09-17T18:14:14.621507+00:00] cambio_precio | REY DE LA PIZZA (listing 849) | precio bajó: 75 -> 65 USDT
 [2026-09-17T18:14:16.648552+00:00] retirado_o_vencido | Rengarr (listing 559) | 67 USDT | sin transferencia coincidente tras 246 min
+[2026-09-17T21:26:22.485661+00:00] cambio_precio | Zoc (listing 812) | precio bajó: 200 -> 150 USDT
+[2026-09-17T21:26:22.485792+00:00] cambio_precio | kENDRA (listing 842) | precio bajó: 62 -> 59 USDT
+[2026-09-17T21:26:28.085385+00:00] retirado_o_vencido | Kiev (listing 788) | 50 USDT | sin transferencia coincidente tras 192 min
