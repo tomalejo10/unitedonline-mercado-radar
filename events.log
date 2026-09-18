@@ -1242,3 +1242,6 @@
 [2026-09-17T23:37:14.243082+00:00] retirado_o_vencido | rakef (listing 766) | 50 USDT | sin transferencia coincidente tras 130 min
 [2026-09-17T23:37:14.243215+00:00] retirado_o_vencido | Turgon (listing 840) | 77 USDT | sin transferencia coincidente tras 130 min
 [2026-09-18T01:31:48.399800+00:00] nuevo_listado | yyy (listing 852) | Asesino · Elfo oscuro · Nivel 40 · 0 USDT
+[2026-09-18T06:41:16.523428+00:00] cambio_precio | DOBB (listing 578) | precio bajó: 98 -> 80 USDT
+[2026-09-18T06:41:16.523734+00:00] cambio_precio | Marti (listing 755) | precio bajó: 75 -> 50 USDT
+[2026-09-18T06:41:16.524215+00:00] cambio_precio | Better (listing 457) | precio bajó: 280 -> 100 USDT
