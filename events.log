@@ -1253,3 +1253,6 @@
 [2026-09-18T15:52:54.891624+00:00] cambio_precio | AMANEK (listing 433) | precio bajó: 70 -> 50 USDT
 [2026-09-18T18:53:23.537943+00:00] nuevo_listado | Sophie (listing 854) | Mago · Elfo · Nivel 42 · 95 USDT
 [2026-09-18T18:53:23.538433+00:00] cambio_precio | Awx (listing 815) | precio bajó: 150 -> 100 USDT
+[2026-09-18T21:26:02.347767+00:00] retirado_o_vencido | Luxi (listing 806) | 54 USDT | sin transferencia coincidente tras 152 min
+[2026-09-18T21:26:02.347859+00:00] retirado_o_vencido | Sophie (listing 837) | 125 USDT | sin transferencia coincidente tras 152 min
+[2026-09-18T21:26:02.347902+00:00] retirado_o_vencido | Canuto (listing 839) | 50 USDT | sin transferencia coincidente tras 152 min
