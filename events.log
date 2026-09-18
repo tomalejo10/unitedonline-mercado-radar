@@ -1256,3 +1256,6 @@
 [2026-09-18T21:26:02.347767+00:00] retirado_o_vencido | Luxi (listing 806) | 54 USDT | sin transferencia coincidente tras 152 min
 [2026-09-18T21:26:02.347859+00:00] retirado_o_vencido | Sophie (listing 837) | 125 USDT | sin transferencia coincidente tras 152 min
 [2026-09-18T21:26:02.347902+00:00] retirado_o_vencido | Canuto (listing 839) | 50 USDT | sin transferencia coincidente tras 152 min
+[2026-09-18T23:29:22.869573+00:00] nuevo_listado | Blunt (listing 855) | Clérigo · Elfo · Nivel 39 · 0 USDT
+[2026-09-18T23:29:22.869856+00:00] cambio_precio | aNNete (listing 767) | precio bajó: 160 -> 75 USDT
+[2026-09-18T23:29:22.870001+00:00] cambio_precio | Turgon (listing 840) | precio bajó: 69 -> 55 USDT
