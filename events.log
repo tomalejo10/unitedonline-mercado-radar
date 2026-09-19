@@ -1275,3 +1275,5 @@
 [2026-09-19T19:31:15.670442+00:00] cambio_precio | Turra Chispa (listing 63) | precio bajó: 150 -> 70 USDT
 [2026-09-19T19:31:15.670670+00:00] cambio_precio | Manuela Pisuela (listing 703) | precio bajó: 400 -> 300 USDT
 [2026-09-19T19:31:15.671100+00:00] cambio_precio | Nagisa (listing 860) | precio bajó: 140 -> 100 USDT
+[2026-09-19T21:46:38.061589+00:00] retirado_o_vencido | ElhendiR (listing 348) | 50 USDT | sin transferencia coincidente tras 135 min
+[2026-09-19T21:46:38.061687+00:00] retirado_o_vencido | GINEiSEN (listing 827) | 0 USDT | sin transferencia coincidente tras 135 min
