@@ -1263,3 +1263,7 @@
 [2026-09-19T01:29:50.512405+00:00] nuevo_listado | Fraigh (listing 626) | Mago · Elfo · Nivel 40 · 55 USDT
 [2026-09-19T01:29:50.512544+00:00] cambio_precio | Doue (listing 552) | precio bajó: 100 -> 55 USDT
 [2026-09-19T01:29:52.116285+00:00] retirado_o_vencido | Fraigh (listing 626) | 55 USDT | sin transferencia coincidente tras 120 min
+[2026-09-19T06:30:39.791349+00:00] nuevo_listado | Revenanchi (listing 857) | Mago · Humano · Nivel 36 · 50 USDT
+[2026-09-19T06:30:45.993148+00:00] retirado_o_vencido | Zoc (listing 812) | 150 USDT | sin transferencia coincidente tras 300 min
+[2026-09-19T06:30:45.993263+00:00] retirado_o_vencido | JeyCee (listing 838) | 56 USDT | sin transferencia coincidente tras 300 min
+[2026-09-19T06:30:45.993305+00:00] retirado_o_vencido | Turgon (listing 840) | 55 USDT | sin transferencia coincidente tras 300 min
