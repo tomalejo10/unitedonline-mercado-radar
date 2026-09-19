@@ -1271,3 +1271,7 @@
 [2026-09-19T14:40:04.110470+00:00] nuevo_listado | ianesY (listing 859) | Mago · Elfo · Nivel 41 · 60 USDT
 [2026-09-19T14:40:04.110549+00:00] nuevo_listado | Nagisa (listing 860) | Mago · Humano · Nivel 39 · 140 USDT
 [2026-09-19T17:27:18.879533+00:00] cambio_precio | DOBB (listing 578) | precio bajó: 80 -> 70 USDT
+[2026-09-19T19:31:15.670257+00:00] nuevo_listado | Enzo (listing 861) | Mago · Elfo · Nivel 33 · 60 USDT
+[2026-09-19T19:31:15.670442+00:00] cambio_precio | Turra Chispa (listing 63) | precio bajó: 150 -> 70 USDT
+[2026-09-19T19:31:15.670670+00:00] cambio_precio | Manuela Pisuela (listing 703) | precio bajó: 400 -> 300 USDT
+[2026-09-19T19:31:15.671100+00:00] cambio_precio | Nagisa (listing 860) | precio bajó: 140 -> 100 USDT
