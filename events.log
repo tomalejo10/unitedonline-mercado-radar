@@ -1259,3 +1259,7 @@
 [2026-09-18T23:29:22.869573+00:00] nuevo_listado | Blunt (listing 855) | Clérigo · Elfo · Nivel 39 · 0 USDT
 [2026-09-18T23:29:22.869856+00:00] cambio_precio | aNNete (listing 767) | precio bajó: 160 -> 75 USDT
 [2026-09-18T23:29:22.870001+00:00] cambio_precio | Turgon (listing 840) | precio bajó: 69 -> 55 USDT
+[2026-09-19T01:29:50.512324+00:00] nuevo_listado | Zoc (listing 856) | Asesino · Gnomo · Nivel 41 · 100 USDT
+[2026-09-19T01:29:50.512405+00:00] nuevo_listado | Fraigh (listing 626) | Mago · Elfo · Nivel 40 · 55 USDT
+[2026-09-19T01:29:50.512544+00:00] cambio_precio | Doue (listing 552) | precio bajó: 100 -> 55 USDT
+[2026-09-19T01:29:52.116285+00:00] retirado_o_vencido | Fraigh (listing 626) | 55 USDT | sin transferencia coincidente tras 120 min
