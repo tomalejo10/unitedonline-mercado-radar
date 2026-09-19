@@ -1277,3 +1277,5 @@
 [2026-09-19T19:31:15.671100+00:00] cambio_precio | Nagisa (listing 860) | precio bajó: 140 -> 100 USDT
 [2026-09-19T21:46:38.061589+00:00] retirado_o_vencido | ElhendiR (listing 348) | 50 USDT | sin transferencia coincidente tras 135 min
 [2026-09-19T21:46:38.061687+00:00] retirado_o_vencido | GINEiSEN (listing 827) | 0 USDT | sin transferencia coincidente tras 135 min
+[2026-09-19T23:54:45.936951+00:00] cambio_precio | Lil Neo (listing 847) | precio bajó: 125 -> 100 USDT
+[2026-09-19T23:54:45.937013+00:00] cambio_precio | Ankudinova (listing 848) | precio bajó: 75 -> 55 USDT
