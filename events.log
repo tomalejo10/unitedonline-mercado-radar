@@ -1286,3 +1286,7 @@
 [2026-09-20T19:18:16.039920+00:00] retirado_o_vencido | Chuchina (listing 673) | 170 USDT | sin transferencia coincidente tras 140 min
 [2026-09-20T21:44:39.259836+00:00] nuevo_listado | Neptuno (listing 864) | Bardo · Elfo · Nivel 43 · 100 USDT
 [2026-09-20T21:44:39.260309+00:00] cambio_precio | Capote (listing 737) | precio bajó: 100 -> 50 USDT
+[2026-09-20T23:34:55.090663+00:00] cambio_precio | Totelio (listing 554) | precio bajó: 75 -> 50 USDT
+[2026-09-20T23:34:55.090700+00:00] cambio_precio | SJEANE (listing 555) | precio bajó: 110 -> 75 USDT
+[2026-09-20T23:34:55.090752+00:00] cambio_precio | Ullr (listing 584) | precio bajó: 130 -> 80 USDT
+[2026-09-20T23:34:55.091050+00:00] cambio_precio | LYSTEN (listing 841) | precio bajó: 65 -> 50 USDT
