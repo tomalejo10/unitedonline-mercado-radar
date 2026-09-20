@@ -1282,3 +1282,5 @@
 [2026-09-20T03:32:14.271827+00:00] cambio_precio | Lykhev (listing 808) | precio bajó: 1000 -> 700 USDT
 [2026-09-20T03:32:18.476380+00:00] retirado_o_vencido | gyVaH (listing 835) | 70 USDT | sin transferencia coincidente tras 217 min
 [2026-09-20T16:57:24.753367+00:00] cambio_precio | Nagisa (listing 860) | precio bajó: 100 -> 80 USDT
+[2026-09-20T19:18:16.039859+00:00] retirado_o_vencido | Charly Garcia (listing 672) | 170 USDT | sin transferencia coincidente tras 140 min
+[2026-09-20T19:18:16.039920+00:00] retirado_o_vencido | Chuchina (listing 673) | 170 USDT | sin transferencia coincidente tras 140 min
