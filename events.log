@@ -1279,3 +1279,5 @@
 [2026-09-19T21:46:38.061687+00:00] retirado_o_vencido | GINEiSEN (listing 827) | 0 USDT | sin transferencia coincidente tras 135 min
 [2026-09-19T23:54:45.936951+00:00] cambio_precio | Lil Neo (listing 847) | precio bajó: 125 -> 100 USDT
 [2026-09-19T23:54:45.937013+00:00] cambio_precio | Ankudinova (listing 848) | precio bajó: 75 -> 55 USDT
+[2026-09-20T03:32:14.271827+00:00] cambio_precio | Lykhev (listing 808) | precio bajó: 1000 -> 700 USDT
+[2026-09-20T03:32:18.476380+00:00] retirado_o_vencido | gyVaH (listing 835) | 70 USDT | sin transferencia coincidente tras 217 min
