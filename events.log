@@ -1290,3 +1290,6 @@
 [2026-09-20T23:34:55.090700+00:00] cambio_precio | SJEANE (listing 555) | precio bajó: 110 -> 75 USDT
 [2026-09-20T23:34:55.090752+00:00] cambio_precio | Ullr (listing 584) | precio bajó: 130 -> 80 USDT
 [2026-09-20T23:34:55.091050+00:00] cambio_precio | LYSTEN (listing 841) | precio bajó: 65 -> 50 USDT
+[2026-09-21T01:42:06.740000+00:00] cambio_precio | Moltres (listing 779) | precio bajó: 250 -> 190 USDT
+[2026-09-21T01:42:06.740146+00:00] cambio_precio | RTX (listing 830) | precio bajó: 95 -> 75 USDT
+[2026-09-21T01:42:12.882791+00:00] retirado_o_vencido | LeiF (listing 853) | 60 USDT | sin transferencia coincidente tras 127 min
