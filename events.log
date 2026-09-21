@@ -1304,3 +1304,9 @@
 [2026-09-21T19:31:58.910574+00:00] cambio_precio | Mick Jagger (listing 846) | precio subió: 0 -> 55 USDT
 [2026-09-21T19:31:58.910810+00:00] cambio_precio | NadPescador (listing 510) | precio bajó: 255 -> 200 USDT
 [2026-09-21T19:32:07.709075+00:00] retirado_o_vencido | Lil Neo (listing 847) | 80 USDT | sin transferencia coincidente tras 317 min
+[2026-09-21T22:50:21.768941+00:00] cambio_precio | uNNN (listing 824) | precio bajó: 125 -> 110 USDT
+[2026-09-21T22:50:21.769090+00:00] cambio_precio | Mick Jagger (listing 846) | precio bajó: 55 -> 50 USDT
+[2026-09-21T22:50:26.408914+00:00] retirado_o_vencido | differeNt (listing 544) | 190 USDT | sin transferencia coincidente tras 198 min
+[2026-09-21T22:50:26.409041+00:00] retirado_o_vencido | Awx (listing 815) | 100 USDT | sin transferencia coincidente tras 198 min
+[2026-09-21T22:50:26.409064+00:00] retirado_o_vencido | GOLPEAR (listing 829) | 85 USDT | sin transferencia coincidente tras 198 min
+[2026-09-21T22:50:26.409082+00:00] retirado_o_vencido | Sophie (listing 854) | 95 USDT | sin transferencia coincidente tras 198 min
