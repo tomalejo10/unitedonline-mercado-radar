@@ -1294,3 +1294,6 @@
 [2026-09-21T01:42:06.740146+00:00] cambio_precio | RTX (listing 830) | precio bajó: 95 -> 75 USDT
 [2026-09-21T01:42:12.882791+00:00] retirado_o_vencido | LeiF (listing 853) | 60 USDT | sin transferencia coincidente tras 127 min
 [2026-09-21T07:13:24.411966+00:00] cambio_precio | Lil Neo (listing 847) | precio bajó: 100 -> 80 USDT
+[2026-09-21T14:14:10.742024+00:00] nuevo_listado | gyVaH (listing 865) | Cazador · Enano · Nivel 41 · 70 USDT
+[2026-09-21T14:14:10.742092+00:00] nuevo_listado | Thalor (listing 866) | Cazador · Orco · Nivel 43 · 110 USDT
+[2026-09-21T14:14:10.742752+00:00] cambio_precio | REY DE LA PIZZA (listing 849) | precio bajó: 55 -> 50 USDT
