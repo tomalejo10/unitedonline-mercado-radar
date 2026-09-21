@@ -1297,3 +1297,10 @@
 [2026-09-21T14:14:10.742024+00:00] nuevo_listado | gyVaH (listing 865) | Cazador · Enano · Nivel 41 · 70 USDT
 [2026-09-21T14:14:10.742092+00:00] nuevo_listado | Thalor (listing 866) | Cazador · Orco · Nivel 43 · 110 USDT
 [2026-09-21T14:14:10.742752+00:00] cambio_precio | REY DE LA PIZZA (listing 849) | precio bajó: 55 -> 50 USDT
+[2026-09-21T19:31:58.909754+00:00] nuevo_listado | Sophie (listing 867) | Mago · Elfo · Nivel 42 · 80 USDT
+[2026-09-21T19:31:58.909818+00:00] nuevo_listado | GOLPEAR (listing 868) | Guerrero · Orco · Nivel 39 · 55 USDT
+[2026-09-21T19:31:58.909860+00:00] nuevo_listado | Lil Neo (listing 847) | Druida · Elfo · Nivel 42 · 80 USDT
+[2026-09-21T19:31:58.910331+00:00] cambio_precio | TAPION (listing 251) | precio bajó: 94 -> 70 USDT
+[2026-09-21T19:31:58.910574+00:00] cambio_precio | Mick Jagger (listing 846) | precio subió: 0 -> 55 USDT
+[2026-09-21T19:31:58.910810+00:00] cambio_precio | NadPescador (listing 510) | precio bajó: 255 -> 200 USDT
+[2026-09-21T19:32:07.709075+00:00] retirado_o_vencido | Lil Neo (listing 847) | 80 USDT | sin transferencia coincidente tras 317 min
