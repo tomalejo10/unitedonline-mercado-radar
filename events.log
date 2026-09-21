@@ -1293,3 +1293,4 @@
 [2026-09-21T01:42:06.740000+00:00] cambio_precio | Moltres (listing 779) | precio bajó: 250 -> 190 USDT
 [2026-09-21T01:42:06.740146+00:00] cambio_precio | RTX (listing 830) | precio bajó: 95 -> 75 USDT
 [2026-09-21T01:42:12.882791+00:00] retirado_o_vencido | LeiF (listing 853) | 60 USDT | sin transferencia coincidente tras 127 min
+[2026-09-21T07:13:24.411966+00:00] cambio_precio | Lil Neo (listing 847) | precio bajó: 100 -> 80 USDT
