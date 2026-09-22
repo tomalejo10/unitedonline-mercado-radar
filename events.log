@@ -1315,3 +1315,4 @@
 [2026-09-22T01:26:42.290230+00:00] cambio_precio | uNNN (listing 824) | precio bajó: 110 -> 95 USDT
 [2026-09-22T01:26:42.290397+00:00] cambio_precio | Ged (listing 345) | precio bajó: 300 -> 150 USDT
 [2026-09-22T01:26:43.604156+00:00] retirado_o_vencido | Sophie (listing 867) | 80 USDT | sin transferencia coincidente tras 156 min
+[2026-09-22T06:37:31.076288+00:00] retirado_o_vencido | Anethra (listing 836) | 109 USDT | sin transferencia coincidente tras 310 min
