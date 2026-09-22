@@ -1316,3 +1316,7 @@
 [2026-09-22T01:26:42.290397+00:00] cambio_precio | Ged (listing 345) | precio bajó: 300 -> 150 USDT
 [2026-09-22T01:26:43.604156+00:00] retirado_o_vencido | Sophie (listing 867) | 80 USDT | sin transferencia coincidente tras 156 min
 [2026-09-22T06:37:31.076288+00:00] retirado_o_vencido | Anethra (listing 836) | 109 USDT | sin transferencia coincidente tras 310 min
+[2026-09-22T12:03:40.789745+00:00] nuevo_listado | Sophie (listing 867) | Mago · Elfo · Nivel 42 · 80 USDT
+[2026-09-22T12:03:50.744310+00:00] retirado_o_vencido | gROK (listing 97) | 390 USDT | sin transferencia coincidente tras 326 min
+[2026-09-22T12:03:50.744393+00:00] retirado_o_vencido | Double Strafe (listing 760) | 50 USDT | sin transferencia coincidente tras 326 min
+[2026-09-22T12:03:50.744413+00:00] retirado_o_vencido | Sophie (listing 867) | 80 USDT | sin transferencia coincidente tras 326 min
