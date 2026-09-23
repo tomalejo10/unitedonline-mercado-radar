@@ -1336,3 +1336,6 @@
 [2026-09-23T06:21:06.542603+00:00] retirado_o_vencido | gavilAn (listing 639) | 80 USDT | sin transferencia coincidente tras 301 min
 [2026-09-23T06:21:06.542734+00:00] retirado_o_vencido | Blunt (listing 855) | 0 USDT | sin transferencia coincidente tras 301 min
 [2026-09-23T11:57:33.734567+00:00] cambio_precio | Suemyx (listing 869) | precio bajó: 75 -> 60 USDT
+[2026-09-23T16:26:00.319283+00:00] nuevo_listado | Ruina (listing 872) | Mago · Elfo · Nivel 41 · 65 USDT
+[2026-09-23T16:26:00.319695+00:00] cambio_precio | RaptoR (listing 753) | precio bajó: 65 -> 50 USDT
+[2026-09-23T16:26:00.320107+00:00] cambio_precio | Suemyx (listing 869) | precio bajó: 60 -> 50 USDT
