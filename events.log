@@ -1335,3 +1335,4 @@
 [2026-09-23T06:21:00.771099+00:00] cambio_precio | gyVaH (listing 865) | precio bajó: 70 -> 60 USDT
 [2026-09-23T06:21:06.542603+00:00] retirado_o_vencido | gavilAn (listing 639) | 80 USDT | sin transferencia coincidente tras 301 min
 [2026-09-23T06:21:06.542734+00:00] retirado_o_vencido | Blunt (listing 855) | 0 USDT | sin transferencia coincidente tras 301 min
+[2026-09-23T11:57:33.734567+00:00] cambio_precio | Suemyx (listing 869) | precio bajó: 75 -> 60 USDT
