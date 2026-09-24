@@ -1344,3 +1344,6 @@
 [2026-09-23T19:45:48.396901+00:00] retirado_o_vencido | Ruina (listing 870) | 75 USDT | sin transferencia coincidente tras 199 min
 [2026-09-23T22:28:44.067466+00:00] nuevo_listado | Truly Unique (listing 873) | Asesino · Elfo oscuro · Nivel 40 · 120 USDT
 [2026-09-23T22:28:44.068104+00:00] cambio_precio | Kaneki (listing 368) | precio bajó: 89 -> 50 USDT
+[2026-09-24T05:52:46.025873+00:00] nuevo_listado | LionKing (listing 874) | Paladín · Humano · Nivel 35 · 0 USDT
+[2026-09-24T05:52:46.026321+00:00] cambio_precio | Corticoide (listing 826) | precio bajó: 70 -> 0 USDT
+[2026-09-24T05:52:53.671493+00:00] retirado_o_vencido | plm (listing 608) | 50 USDT | sin transferencia coincidente tras 305 min
