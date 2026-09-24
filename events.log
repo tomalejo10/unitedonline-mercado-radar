@@ -1347,3 +1347,6 @@
 [2026-09-24T05:52:46.025873+00:00] nuevo_listado | LionKing (listing 874) | Paladín · Humano · Nivel 35 · 0 USDT
 [2026-09-24T05:52:46.026321+00:00] cambio_precio | Corticoide (listing 826) | precio bajó: 70 -> 0 USDT
 [2026-09-24T05:52:53.671493+00:00] retirado_o_vencido | plm (listing 608) | 50 USDT | sin transferencia coincidente tras 305 min
+[2026-09-24T15:49:45.826001+00:00] nuevo_listado | lilil (listing 875) | Mago · Elfo · Nivel 43 · 110 USDT
+[2026-09-24T15:49:45.826315+00:00] cambio_precio | Playtest (listing 770) | precio bajó: 222 -> 115 USDT
+[2026-09-24T15:49:45.826434+00:00] cambio_precio | uNNN (listing 824) | precio bajó: 95 -> 80 USDT
