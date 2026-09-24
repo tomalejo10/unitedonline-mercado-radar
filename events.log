@@ -1354,3 +1354,9 @@
 [2026-09-24T19:48:48.646981+00:00] cambio_precio | Thalor (listing 866) | precio bajó: 110 -> 80 USDT
 [2026-09-24T19:48:56.007462+00:00] retirado_o_vencido | gyVaH (listing 865) | 60 USDT | sin transferencia coincidente tras 239 min
 [2026-09-24T19:48:56.007552+00:00] retirado_o_vencido | Suemyx (listing 869) | 50 USDT | sin transferencia coincidente tras 239 min
+[2026-09-24T23:01:16.579032+00:00] nuevo_listado | Fraigh (listing 626) | Mago · Elfo · Nivel 40 · 50 USDT
+[2026-09-24T23:01:16.579120+00:00] nuevo_listado | HyH (listing 877) | Clérigo · Elfo oscuro · Nivel 42 · 50 USDT
+[2026-09-24T23:01:16.579181+00:00] nuevo_listado | PorLaEspalda (listing 878) | Asesino · Elfo oscuro · Nivel 42 · 96 USDT
+[2026-09-24T23:01:16.579408+00:00] cambio_precio | NaGato (listing 96) | precio bajó: 59 -> 50 USDT
+[2026-09-24T23:01:27.043652+00:00] retirado_o_vencido | Fraigh (listing 626) | 50 USDT | sin transferencia coincidente tras 192 min
+[2026-09-24T23:01:27.043755+00:00] retirado_o_vencido | lilil (listing 875) | 110 USDT | sin transferencia coincidente tras 192 min
