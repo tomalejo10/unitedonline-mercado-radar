@@ -1350,3 +1350,7 @@
 [2026-09-24T15:49:45.826001+00:00] nuevo_listado | lilil (listing 875) | Mago · Elfo · Nivel 43 · 110 USDT
 [2026-09-24T15:49:45.826315+00:00] cambio_precio | Playtest (listing 770) | precio bajó: 222 -> 115 USDT
 [2026-09-24T15:49:45.826434+00:00] cambio_precio | uNNN (listing 824) | precio bajó: 95 -> 80 USDT
+[2026-09-24T19:48:48.646372+00:00] nuevo_listado | Kiev (listing 876) | Bardo · Elfo · Nivel 39 · 9999 USDT
+[2026-09-24T19:48:48.646981+00:00] cambio_precio | Thalor (listing 866) | precio bajó: 110 -> 80 USDT
+[2026-09-24T19:48:56.007462+00:00] retirado_o_vencido | gyVaH (listing 865) | 60 USDT | sin transferencia coincidente tras 239 min
+[2026-09-24T19:48:56.007552+00:00] retirado_o_vencido | Suemyx (listing 869) | 50 USDT | sin transferencia coincidente tras 239 min
