@@ -1365,3 +1365,5 @@
 [2026-09-25T01:30:39.676604+00:00] cambio_precio | Sophie (listing 867) | precio bajó: 65 -> 60 USDT
 [2026-09-25T01:30:44.676200+00:00] retirado_o_vencido | HyH (listing 787) | 75 USDT | sin transferencia coincidente tras 149 min
 [2026-09-25T01:30:44.676290+00:00] retirado_o_vencido | Thalor (listing 866) | 80 USDT | sin transferencia coincidente tras 149 min
+[2026-09-25T06:33:07.270891+00:00] cambio_precio | HyH (listing 877) | precio subió: 50 -> 65 USDT
+[2026-09-25T06:33:11.432718+00:00] retirado_o_vencido | DOBB (listing 578) | 60 USDT | sin transferencia coincidente tras 302 min
