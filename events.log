@@ -1374,3 +1374,7 @@
 [2026-09-25T20:38:31.529777+00:00] cambio_precio | Brang (listing 771) | precio bajó: 60 -> 50 USDT
 [2026-09-25T20:38:31.530109+00:00] cambio_precio | Sophie (listing 867) | precio bajó: 60 -> 55 USDT
 [2026-09-25T20:38:38.278829+00:00] retirado_o_vencido | Marti (listing 755) | 50 USDT | sin transferencia coincidente tras 192 min
+[2026-09-25T23:34:15.000774+00:00] cambio_precio | MalTika (listing 774) | precio bajó: 90 -> 80 USDT
+[2026-09-25T23:34:15.001086+00:00] cambio_precio | Sophie (listing 867) | precio bajó: 55 -> 50 USDT
+[2026-09-25T23:34:15.001148+00:00] cambio_precio | Ruina (listing 872) | precio bajó: 60 -> 55 USDT
+[2026-09-25T23:34:17.137153+00:00] retirado_o_vencido | PorLaEspalda (listing 878) | 85 USDT | sin transferencia coincidente tras 175 min
