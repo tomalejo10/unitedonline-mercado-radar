@@ -1371,3 +1371,6 @@
 [2026-09-25T17:25:47.182661+00:00] cambio_precio | Manuela Pisuela (listing 703) | precio bajó: 200 -> 180 USDT
 [2026-09-25T17:25:47.183115+00:00] cambio_precio | Ruina (listing 872) | precio bajó: 65 -> 60 USDT
 [2026-09-25T17:25:47.183186+00:00] cambio_precio | PorLaEspalda (listing 878) | precio bajó: 96 -> 85 USDT
+[2026-09-25T20:38:31.529777+00:00] cambio_precio | Brang (listing 771) | precio bajó: 60 -> 50 USDT
+[2026-09-25T20:38:31.530109+00:00] cambio_precio | Sophie (listing 867) | precio bajó: 60 -> 55 USDT
+[2026-09-25T20:38:38.278829+00:00] retirado_o_vencido | Marti (listing 755) | 50 USDT | sin transferencia coincidente tras 192 min
