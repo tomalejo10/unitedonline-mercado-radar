@@ -1360,3 +1360,8 @@
 [2026-09-24T23:01:16.579408+00:00] cambio_precio | NaGato (listing 96) | precio bajó: 59 -> 50 USDT
 [2026-09-24T23:01:27.043652+00:00] retirado_o_vencido | Fraigh (listing 626) | 50 USDT | sin transferencia coincidente tras 192 min
 [2026-09-24T23:01:27.043755+00:00] retirado_o_vencido | lilil (listing 875) | 110 USDT | sin transferencia coincidente tras 192 min
+[2026-09-25T01:30:39.676103+00:00] nuevo_listado | mAyda (listing 880) | Bardo · Elfo · Nivel 41 · 200 USDT
+[2026-09-25T01:30:39.676145+00:00] nuevo_listado | Kyra (listing 879) | Clérigo · Elfo oscuro · Nivel 46 · 650 USDT
+[2026-09-25T01:30:39.676604+00:00] cambio_precio | Sophie (listing 867) | precio bajó: 65 -> 60 USDT
+[2026-09-25T01:30:44.676200+00:00] retirado_o_vencido | HyH (listing 787) | 75 USDT | sin transferencia coincidente tras 149 min
+[2026-09-25T01:30:44.676290+00:00] retirado_o_vencido | Thalor (listing 866) | 80 USDT | sin transferencia coincidente tras 149 min
