@@ -1378,3 +1378,6 @@
 [2026-09-25T23:34:15.001086+00:00] cambio_precio | Sophie (listing 867) | precio bajó: 55 -> 50 USDT
 [2026-09-25T23:34:15.001148+00:00] cambio_precio | Ruina (listing 872) | precio bajó: 60 -> 55 USDT
 [2026-09-25T23:34:17.137153+00:00] retirado_o_vencido | PorLaEspalda (listing 878) | 85 USDT | sin transferencia coincidente tras 175 min
+[2026-09-26T02:00:30.664448+00:00] nuevo_listado | GINEiSEN (listing 882) | Mago · Elfo · Nivel 36 · 60 USDT
+[2026-09-26T02:00:30.664500+00:00] nuevo_listado | MEMU (listing 883) | Paladín · Elfo oscuro · Nivel 42 · 170 USDT
+[2026-09-26T02:00:35.424182+00:00] retirado_o_vencido | Barak (listing 613) | 55 USDT | sin transferencia coincidente tras 146 min
