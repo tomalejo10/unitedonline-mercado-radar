@@ -1409,3 +1409,6 @@
 [2026-09-28T06:55:29.515499+00:00] nuevo_listado | Lil Neo (listing 847) | Druida · Elfo · Nivel 42 · 70 USDT
 [2026-09-28T06:55:29.516071+00:00] cambio_precio | Lykhev (listing 808) | precio bajó: 1000 -> 750 USDT
 [2026-09-28T06:55:35.196274+00:00] retirado_o_vencido | Lil Neo (listing 847) | 80 USDT | sin transferencia coincidente tras 343 min
+[2026-09-28T14:59:36.021298+00:00] nuevo_listado | Kyra (listing 892) | Clérigo · Elfo oscuro · Nivel 46 · 500 USDT
+[2026-09-28T14:59:36.021352+00:00] nuevo_listado | Shaun (listing 893) | Mago · Elfo · Nivel 42 · 60 USDT
+[2026-09-28T14:59:36.021941+00:00] cambio_precio | mAyda (listing 880) | precio bajó: 200 -> 140 USDT
