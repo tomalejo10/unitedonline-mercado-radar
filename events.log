@@ -1406,3 +1406,6 @@
 [2026-09-28T01:11:36.543586+00:00] cambio_precio | ZWEIT (listing 885) | precio subió: 50 -> 500 USDT
 [2026-09-28T01:11:39.655505+00:00] retirado_o_vencido | Fraigh (listing 626) | 50 USDT | sin transferencia coincidente tras 158 min
 [2026-09-28T01:11:39.655577+00:00] retirado_o_vencido | Suemyx (listing 890) | 70 USDT | sin transferencia coincidente tras 158 min
+[2026-09-28T06:55:29.515499+00:00] nuevo_listado | Lil Neo (listing 847) | Druida · Elfo · Nivel 42 · 70 USDT
+[2026-09-28T06:55:29.516071+00:00] cambio_precio | Lykhev (listing 808) | precio bajó: 1000 -> 750 USDT
+[2026-09-28T06:55:35.196274+00:00] retirado_o_vencido | Lil Neo (listing 847) | 80 USDT | sin transferencia coincidente tras 343 min
