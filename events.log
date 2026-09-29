@@ -1415,3 +1415,6 @@
 [2026-09-28T21:10:05.436419+00:00] cambio_precio | RaptoR (listing 753) | precio subió: 50 -> 60 USDT
 [2026-09-28T21:10:05.436894+00:00] cambio_precio | Rev (listing 889) | precio bajó: 80 -> 65 USDT
 [2026-09-29T00:59:50.186315+00:00] nuevo_listado | Soushiro (listing 894) | Asesino · Elfo oscuro · Nivel 44 · 270 USDT
+[2026-09-29T06:47:16.725142+00:00] nuevo_listado | GOLPEAR (listing 896) | Guerrero · Orco · Nivel 39 · 50 USDT
+[2026-09-29T06:47:16.725214+00:00] nuevo_listado | Liza (listing 897) | Druida · Gnomo · Nivel 38 · 50 USDT
+[2026-09-29T06:47:16.725267+00:00] nuevo_listado | LBDT (listing 895) | Mago · Gnomo · Nivel 34 · 0 USDT
