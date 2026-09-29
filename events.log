@@ -1418,3 +1418,8 @@
 [2026-09-29T06:47:16.725142+00:00] nuevo_listado | GOLPEAR (listing 896) | Guerrero · Orco · Nivel 39 · 50 USDT
 [2026-09-29T06:47:16.725214+00:00] nuevo_listado | Liza (listing 897) | Druida · Gnomo · Nivel 38 · 50 USDT
 [2026-09-29T06:47:16.725267+00:00] nuevo_listado | LBDT (listing 895) | Mago · Gnomo · Nivel 34 · 0 USDT
+[2026-09-29T13:45:23.049965+00:00] nuevo_listado | BlackFire (listing 898) | Clérigo · Humano · Nivel 41 · 70 USDT
+[2026-09-29T13:45:23.050017+00:00] nuevo_listado | Paltita (listing 899) | Mago · Elfo · Nivel 41 · 75 USDT
+[2026-09-29T13:45:23.050660+00:00] cambio_precio | Rev (listing 889) | precio bajó: 65 -> 50 USDT
+[2026-09-29T13:45:35.458604+00:00] retirado_o_vencido | GOLPEAR (listing 868) | 50 USDT | sin transferencia coincidente tras 418 min
+[2026-09-29T13:45:35.458724+00:00] retirado_o_vencido | Liza (listing 887) | 50 USDT | sin transferencia coincidente tras 418 min
