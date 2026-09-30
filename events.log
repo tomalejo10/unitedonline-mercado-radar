@@ -1434,3 +1434,4 @@
 [2026-09-30T08:01:37.813666+00:00] cambio_precio | Soushiro (listing 894) | precio bajó: 220 -> 210 USDT
 [2026-09-30T14:59:32.186822+00:00] retirado_o_vencido | Alarien (listing 792) | 222 USDT | sin transferencia coincidente tras 417 min
 [2026-09-30T14:59:32.186899+00:00] retirado_o_vencido | LYSTEN (listing 841) | 50 USDT | sin transferencia coincidente tras 417 min
+[2026-09-30T19:51:28.007467+00:00] cambio_precio | Zoc (listing 856) | precio subió: 100 -> 250 USDT
