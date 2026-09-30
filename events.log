@@ -1431,3 +1431,4 @@
 [2026-09-29T22:51:03.431936+00:00] cambio_precio | Treinta (listing 900) | precio bajó: 315 -> 260 USDT
 [2026-09-30T01:51:10.708053+00:00] cambio_precio | Soushiro (listing 894) | precio bajó: 230 -> 220 USDT
 [2026-09-30T01:51:12.114175+00:00] retirado_o_vencido | GALADRIEL (listing 323) | 350 USDT | sin transferencia coincidente tras 180 min
+[2026-09-30T08:01:37.813666+00:00] cambio_precio | Soushiro (listing 894) | precio bajó: 220 -> 210 USDT
