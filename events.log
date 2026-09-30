@@ -1432,3 +1432,5 @@
 [2026-09-30T01:51:10.708053+00:00] cambio_precio | Soushiro (listing 894) | precio bajó: 230 -> 220 USDT
 [2026-09-30T01:51:12.114175+00:00] retirado_o_vencido | GALADRIEL (listing 323) | 350 USDT | sin transferencia coincidente tras 180 min
 [2026-09-30T08:01:37.813666+00:00] cambio_precio | Soushiro (listing 894) | precio bajó: 220 -> 210 USDT
+[2026-09-30T14:59:32.186822+00:00] retirado_o_vencido | Alarien (listing 792) | 222 USDT | sin transferencia coincidente tras 417 min
+[2026-09-30T14:59:32.186899+00:00] retirado_o_vencido | LYSTEN (listing 841) | 50 USDT | sin transferencia coincidente tras 417 min
