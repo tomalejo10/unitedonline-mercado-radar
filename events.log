@@ -1440,3 +1440,5 @@
 [2026-09-30T23:30:05.661194+00:00] cambio_precio | GINEiSEN (listing 882) | precio bajó: 60 -> 50 USDT
 [2026-09-30T23:30:05.661244+00:00] cambio_precio | MEMU (listing 883) | precio bajó: 170 -> 140 USDT
 [2026-09-30T23:30:05.661413+00:00] cambio_precio | Soushiro (listing 894) | precio bajó: 210 -> 190 USDT
+[2026-10-01T16:38:11.326839+00:00] cambio_precio | Moltres (listing 779) | precio bajó: 190 -> 150 USDT
+[2026-10-01T16:38:11.327027+00:00] cambio_precio | RTX (listing 830) | precio bajó: 75 -> 50 USDT
