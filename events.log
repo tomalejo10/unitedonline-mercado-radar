@@ -1442,3 +1442,5 @@
 [2026-09-30T23:30:05.661413+00:00] cambio_precio | Soushiro (listing 894) | precio bajó: 210 -> 190 USDT
 [2026-10-01T16:38:11.326839+00:00] cambio_precio | Moltres (listing 779) | precio bajó: 190 -> 150 USDT
 [2026-10-01T16:38:11.327027+00:00] cambio_precio | RTX (listing 830) | precio bajó: 75 -> 50 USDT
+[2026-10-01T21:23:07.257956+00:00] nuevo_listado | Aurelius (listing 903) | Mago · Humano · Nivel 43 · 145 USDT
+[2026-10-01T21:23:07.258584+00:00] cambio_precio | foureyeS (listing 901) | precio bajó: 299 -> 249 USDT
