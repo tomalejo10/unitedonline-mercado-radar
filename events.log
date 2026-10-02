@@ -1445,3 +1445,7 @@
 [2026-10-01T21:23:07.257956+00:00] nuevo_listado | Aurelius (listing 903) | Mago · Humano · Nivel 43 · 145 USDT
 [2026-10-01T21:23:07.258584+00:00] cambio_precio | foureyeS (listing 901) | precio bajó: 299 -> 249 USDT
 [2026-10-02T01:00:42.109039+00:00] nuevo_listado | Piju (listing 904) | Clérigo · Elfo oscuro · Nivel 43 · 90 USDT
+[2026-10-02T06:56:42.805382+00:00] cambio_precio | Piju (listing 904) | precio bajó: 90 -> 80 USDT
+[2026-10-02T06:56:55.939194+00:00] retirado_o_vencido | RTX (listing 830) | 50 USDT | sin transferencia coincidente tras 356 min
+[2026-10-02T06:56:55.939316+00:00] retirado_o_vencido | Rev (listing 889) | 50 USDT | sin transferencia coincidente tras 356 min
+[2026-10-02T06:56:55.939377+00:00] retirado_o_vencido | Soushiro (listing 894) | 190 USDT | sin transferencia coincidente tras 356 min
