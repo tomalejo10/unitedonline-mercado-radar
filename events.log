@@ -1455,3 +1455,4 @@
 [2026-10-02T18:42:47.026652+00:00] cambio_precio | Lykhev (listing 808) | precio bajó: 750 -> 500 USDT
 [2026-10-02T22:35:39.403337+00:00] nuevo_listado | brunito (listing 906) | Mago · Elfo · Nivel 46 · 433 USDT
 [2026-10-02T22:35:43.687960+00:00] retirado_o_vencido | TENSION (listing 689) | 130 USDT | sin transferencia coincidente tras 232 min
+[2026-10-03T01:28:48.058014+00:00] cambio_precio | brunito (listing 906) | precio bajó: 433 -> 400 USDT
