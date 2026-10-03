@@ -1457,3 +1457,7 @@
 [2026-10-02T22:35:43.687960+00:00] retirado_o_vencido | TENSION (listing 689) | 130 USDT | sin transferencia coincidente tras 232 min
 [2026-10-03T01:28:48.058014+00:00] cambio_precio | brunito (listing 906) | precio bajó: 433 -> 400 USDT
 [2026-10-03T06:59:05.605106+00:00] retirado_o_vencido | Mick Jagger (listing 846) | 50 USDT | sin transferencia coincidente tras 330 min
+[2026-10-03T16:35:44.607802+00:00] nuevo_listado | kTku Jrs (listing 850) | Asesino · Elfo oscuro · Nivel 42 · 100 USDT
+[2026-10-03T16:35:44.607860+00:00] nuevo_listado | Germanico (listing 907) | Druida · Humano · Nivel 45 · 600 USDT
+[2026-10-03T16:35:44.608152+00:00] cambio_precio | AKD (listing 739) | precio bajó: 70 -> 50 USDT
+[2026-10-03T16:35:46.568453+00:00] retirado_o_vencido | kTku Jrs (listing 850) | 100 USDT | sin transferencia coincidente tras 251 min
