@@ -1464,3 +1464,4 @@
 [2026-10-03T22:21:32.098603+00:00] cambio_precio | mAyda (listing 880) | precio bajó: 140 -> 60 USDT
 [2026-10-03T22:21:32.098710+00:00] cambio_precio | Kyra (listing 892) | precio bajó: 500 -> 300 USDT
 [2026-10-04T01:49:21.202153+00:00] retirado_o_vencido | Piju (listing 904) | 80 USDT | sin transferencia coincidente tras 207 min
+[2026-10-04T07:47:30.289622+00:00] cambio_precio | FaFFy (listing 832) | precio subió: 336 -> 446 USDT
