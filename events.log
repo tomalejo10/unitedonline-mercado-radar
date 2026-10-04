@@ -1469,3 +1469,5 @@
 [2026-10-04T13:42:26.136207+00:00] cambio_precio | ianesY (listing 859) | precio subió: 56 -> 70 USDT
 [2026-10-04T17:51:45.209796+00:00] nuevo_listado | gavilAn (listing 908) | Bardo · Elfo · Nivel 41 · 0 USDT
 [2026-10-04T17:51:45.210709+00:00] cambio_precio | Germanico (listing 907) | precio bajó: 600 -> 400 USDT
+[2026-10-04T20:53:58.604025+00:00] retirado_o_vencido | gavilAn (listing 871) | 0 USDT | sin transferencia coincidente tras 182 min
+[2026-10-04T20:53:58.604125+00:00] retirado_o_vencido | RANDU (listing 902) | 55 USDT | sin transferencia coincidente tras 182 min
