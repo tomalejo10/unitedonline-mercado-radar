@@ -1471,3 +1471,5 @@
 [2026-10-04T17:51:45.210709+00:00] cambio_precio | Germanico (listing 907) | precio bajó: 600 -> 400 USDT
 [2026-10-04T20:53:58.604025+00:00] retirado_o_vencido | gavilAn (listing 871) | 0 USDT | sin transferencia coincidente tras 182 min
 [2026-10-04T20:53:58.604125+00:00] retirado_o_vencido | RANDU (listing 902) | 55 USDT | sin transferencia coincidente tras 182 min
+[2026-10-05T04:11:42.110554+00:00] nuevo_listado | Shaun (listing 893) | Mago · Elfo · Nivel 42 · 60 USDT
+[2026-10-05T04:11:45.844695+00:00] retirado_o_vencido | Shaun (listing 893) | 60 USDT | sin transferencia coincidente tras 261 min
