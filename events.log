@@ -1474,3 +1474,5 @@
 [2026-10-05T04:11:42.110554+00:00] nuevo_listado | Shaun (listing 893) | Mago · Elfo · Nivel 42 · 60 USDT
 [2026-10-05T04:11:45.844695+00:00] retirado_o_vencido | Shaun (listing 893) | 60 USDT | sin transferencia coincidente tras 261 min
 [2026-10-05T11:30:22.601130+00:00] retirado_o_vencido | Lil Neo (listing 847) | 70 USDT | sin transferencia coincidente tras 438 min
+[2026-10-06T00:59:02.640545+00:00] cambio_precio | ianesY (listing 859) | precio bajó: 70 -> 60 USDT
+[2026-10-06T00:59:02.640766+00:00] cambio_precio | brunito (listing 906) | precio bajó: 400 -> 333 USDT
