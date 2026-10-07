@@ -1490,3 +1490,5 @@
 [2026-10-06T19:42:51.816637+00:00] cambio_precio | Lykhev (listing 808) | precio bajó: 500 -> 400 USDT
 [2026-10-06T19:42:57.785038+00:00] retirado_o_vencido | mAyda (listing 880) | 60 USDT | sin transferencia coincidente tras 318 min
 [2026-10-06T19:42:57.785171+00:00] retirado_o_vencido | Kyra (listing 892) | 300 USDT | sin transferencia coincidente tras 318 min
+[2026-10-07T02:38:31.945971+00:00] nuevo_listado | Suemyx (listing 912) | Mago · Humano · Nivel 42 · 0 USDT
+[2026-10-07T02:38:31.946506+00:00] cambio_precio | Lykhev (listing 808) | precio bajó: 400 -> 350 USDT
