@@ -1493,3 +1493,5 @@
 [2026-10-07T02:38:31.945971+00:00] nuevo_listado | Suemyx (listing 912) | Mago · Humano · Nivel 42 · 0 USDT
 [2026-10-07T02:38:31.946506+00:00] cambio_precio | Lykhev (listing 808) | precio bajó: 400 -> 350 USDT
 [2026-10-07T09:18:21.613708+00:00] retirado_o_vencido | Demisha (listing 736) | 150 USDT | sin transferencia coincidente tras 399 min
+[2026-10-07T16:47:27.327974+00:00] cambio_precio | Lykhev (listing 808) | precio bajó: 350 -> 300 USDT
+[2026-10-07T16:47:27.328256+00:00] cambio_precio | Suemyx (listing 912) | precio subió: 0 -> 80 USDT
