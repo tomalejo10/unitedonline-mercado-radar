@@ -1503,3 +1503,7 @@
 [2026-10-08T01:34:47.626522+00:00] retirado_o_vencido | Liza (listing 897) | 50 USDT | sin transferencia coincidente tras 225 min
 [2026-10-08T08:00:04.692466+00:00] cambio_precio | PRINCESO (listing 160) | precio bajó: 98 -> 50 USDT
 [2026-10-08T08:00:04.692542+00:00] cambio_precio | Vithak (listing 163) | precio bajó: 65 -> 50 USDT
+[2026-10-08T15:31:14.247010+00:00] nuevo_listado | Lil Neo (listing 913) | Druida · Elfo · Nivel 42 · 180 USDT
+[2026-10-08T15:31:14.247414+00:00] cambio_precio | UndentifieD (listing 800) | precio subió: 50 -> 51 USDT
+[2026-10-08T15:31:14.247611+00:00] cambio_precio | Zoc (listing 856) | precio bajó: 250 -> 150 USDT
+[2026-10-08T15:31:14.247702+00:00] cambio_precio | HyH (listing 877) | precio subió: 65 -> 75 USDT
