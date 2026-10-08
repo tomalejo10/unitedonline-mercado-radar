@@ -1501,3 +1501,5 @@
 [2026-10-08T01:34:39.270032+00:00] cambio_precio | ianesY (listing 859) | precio bajó: 60 -> 50 USDT
 [2026-10-08T01:34:39.270239+00:00] cambio_precio | Germanico (listing 907) | precio bajó: 332 -> 299 USDT
 [2026-10-08T01:34:47.626522+00:00] retirado_o_vencido | Liza (listing 897) | 50 USDT | sin transferencia coincidente tras 225 min
+[2026-10-08T08:00:04.692466+00:00] cambio_precio | PRINCESO (listing 160) | precio bajó: 98 -> 50 USDT
+[2026-10-08T08:00:04.692542+00:00] cambio_precio | Vithak (listing 163) | precio bajó: 65 -> 50 USDT
