@@ -1511,3 +1511,5 @@
 [2026-10-08T20:50:12.807665+00:00] retirado_o_vencido | SHuliens (listing 911) | 90 USDT | sin transferencia coincidente tras 318 min
 [2026-10-09T00:59:19.968682+00:00] cambio_precio | Truly Unique (listing 873) | precio bajó: 120 -> 90 USDT
 [2026-10-09T00:59:26.729466+00:00] retirado_o_vencido | LBDT (listing 895) | 0 USDT | sin transferencia coincidente tras 249 min
+[2026-10-09T19:41:06.955558+00:00] cambio_precio | Manuela Pisuela (listing 703) | precio bajó: 140 -> 120 USDT
+[2026-10-09T19:41:06.955824+00:00] cambio_precio | HyH (listing 877) | precio subió: 75 -> 78 USDT
