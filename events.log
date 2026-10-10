@@ -1520,3 +1520,7 @@
 [2026-10-10T02:47:14.772972+00:00] nuevo_listado | Wuhr (listing 917) | Druida · Elfo · Nivel 43 · 0 USDT
 [2026-10-10T09:26:41.687904+00:00] retirado_o_vencido | aNaDriEl (listing 589) | 350 USDT | sin transferencia coincidente tras 399 min
 [2026-10-10T15:31:31.099875+00:00] nuevo_listado | BlackFire (listing 918) | Clérigo · Humano · Nivel 42 · 50 USDT
+[2026-10-10T19:32:52.901287+00:00] nuevo_listado | Agnorop (listing 919) | Mago · Elfo · Nivel 43 · 350 USDT
+[2026-10-10T19:32:52.901578+00:00] cambio_precio | Playtest (listing 770) | precio subió: 50 -> 85 USDT
+[2026-10-10T19:32:52.901738+00:00] cambio_precio | Ged (listing 345) | precio bajó: 90 -> 60 USDT
+[2026-10-10T19:32:52.901870+00:00] cambio_precio | Suemyx (listing 912) | precio bajó: 80 -> 60 USDT
