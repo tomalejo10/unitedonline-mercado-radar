@@ -1524,3 +1524,5 @@
 [2026-10-10T19:32:52.901578+00:00] cambio_precio | Playtest (listing 770) | precio subió: 50 -> 85 USDT
 [2026-10-10T19:32:52.901738+00:00] cambio_precio | Ged (listing 345) | precio bajó: 90 -> 60 USDT
 [2026-10-10T19:32:52.901870+00:00] cambio_precio | Suemyx (listing 912) | precio bajó: 80 -> 60 USDT
+[2026-10-10T22:57:44.660143+00:00] cambio_precio | Lykhev (listing 808) | precio subió: 300 -> 400 USDT
+[2026-10-10T22:57:44.660476+00:00] cambio_precio | Suemyx (listing 912) | precio bajó: 60 -> 50 USDT
