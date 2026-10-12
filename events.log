@@ -1530,3 +1530,7 @@
 [2026-10-11T07:51:27.118171+00:00] cambio_precio | Lykhev (listing 808) | precio subió: 400 -> 500 USDT
 [2026-10-11T07:51:39.032024+00:00] retirado_o_vencido | Ged (listing 345) | 60 USDT | sin transferencia coincidente tras 369 min
 [2026-10-12T02:05:43.869619+00:00] cambio_precio | Lykhev (listing 808) | precio subió: 500 -> 700 USDT
+[2026-10-12T09:12:21.768006+00:00] nuevo_listado | mana player (listing 920) | Mago · Elfo · Nivel 43 · 120 USDT
+[2026-10-12T09:12:21.768052+00:00] nuevo_listado | Laurelie (listing 921) | Clérigo · Humano · Nivel 42 · 0 USDT
+[2026-10-12T09:12:21.768363+00:00] cambio_precio | Lykhev (listing 808) | precio bajó: 700 -> 500 USDT
+[2026-10-12T09:12:21.768517+00:00] cambio_precio | ZWEIT (listing 885) | precio bajó: 500 -> 50 USDT
