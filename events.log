@@ -1538,3 +1538,6 @@
 [2026-10-12T19:05:01.222754+00:00] cambio_precio | Agnorop (listing 919) | precio bajó: 350 -> 270 USDT
 [2026-10-13T08:07:33.518716+00:00] nuevo_listado | Laurelie (listing 922) | Clérigo · Humano · Nivel 42 · 0 USDT
 [2026-10-13T08:07:37.006332+00:00] retirado_o_vencido | baK (listing 910) | 0 USDT | sin transferencia coincidente tras 405 min
+[2026-10-13T15:58:51.548127+00:00] cambio_precio | Manuela Pisuela (listing 703) | precio bajó: 120 -> 100 USDT
+[2026-10-13T15:59:00.522163+00:00] retirado_o_vencido | Suemyx (listing 912) | 50 USDT | sin transferencia coincidente tras 471 min
+[2026-10-13T15:59:00.522284+00:00] retirado_o_vencido | Laurelie (listing 921) | 0 USDT | sin transferencia coincidente tras 471 min
