@@ -1536,3 +1536,5 @@
 [2026-10-12T09:12:21.768517+00:00] cambio_precio | ZWEIT (listing 885) | precio bajó: 500 -> 50 USDT
 [2026-10-12T19:05:01.222404+00:00] cambio_precio | UndentifieD (listing 800) | precio bajó: 51 -> 50 USDT
 [2026-10-12T19:05:01.222754+00:00] cambio_precio | Agnorop (listing 919) | precio bajó: 350 -> 270 USDT
+[2026-10-13T08:07:33.518716+00:00] nuevo_listado | Laurelie (listing 922) | Clérigo · Humano · Nivel 42 · 0 USDT
+[2026-10-13T08:07:37.006332+00:00] retirado_o_vencido | baK (listing 910) | 0 USDT | sin transferencia coincidente tras 405 min
