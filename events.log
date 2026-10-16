@@ -1559,3 +1559,4 @@
 [2026-10-16T00:34:20.740634+00:00] cambio_precio | Germanico (listing 907) | precio bajó: 299 -> 270 USDT
 [2026-10-16T05:02:12.785554+00:00] cambio_precio | Truly Unique (listing 873) | precio bajó: 90 -> 85 USDT
 [2026-10-16T05:02:20.992865+00:00] retirado_o_vencido | ZABORG (listing 797) | 100 USDT | sin transferencia coincidente tras 268 min
+[2026-10-16T09:49:09.017687+00:00] retirado_o_vencido | Bob esponja (listing 929) | 0 USDT | sin transferencia coincidente tras 286 min
