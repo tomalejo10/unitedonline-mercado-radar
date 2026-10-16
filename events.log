@@ -1555,3 +1555,5 @@
 [2026-10-15T19:11:45.574323+00:00] nuevo_listado | mana player (listing 928) | Mago · Elfo · Nivel 43 · 90 USDT
 [2026-10-15T22:20:04.231259+00:00] cambio_precio | HyH (listing 877) | precio bajó: 78 -> 70 USDT
 [2026-10-15T22:20:10.926186+00:00] retirado_o_vencido | mana player (listing 920) | 120 USDT | sin transferencia coincidente tras 188 min
+[2026-10-16T00:34:20.739813+00:00] nuevo_listado | Bob esponja (listing 929) | Clérigo · Elfo oscuro · Nivel 44 · 0 USDT
+[2026-10-16T00:34:20.740634+00:00] cambio_precio | Germanico (listing 907) | precio bajó: 299 -> 270 USDT
