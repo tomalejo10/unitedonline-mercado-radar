@@ -1590,3 +1590,5 @@
 [2026-10-18T18:58:37.702495+00:00] cambio_precio | Truly Unique (listing 873) | precio subió: 75 -> 80 USDT
 [2026-10-18T21:22:06.392086+00:00] nuevo_listado | mana player (listing 942) | Mago · Elfo · Nivel 43 · 60 USDT
 [2026-10-18T21:22:12.842341+00:00] retirado_o_vencido | Insjk (listing 845) | 0 USDT | sin transferencia coincidente tras 143 min
+[2026-10-18T23:30:04.570755+00:00] cambio_precio | HyH (listing 877) | precio bajó: 70 -> 65 USDT
+[2026-10-18T23:30:10.104704+00:00] retirado_o_vencido | mana player (listing 928) | 90 USDT | sin transferencia coincidente tras 128 min
