@@ -1597,3 +1597,8 @@
 [2026-10-19T01:35:10.873894+00:00] cambio_precio | Sandunga (listing 931) | precio bajó: 100 -> 50 USDT
 [2026-10-19T01:35:10.873979+00:00] cambio_precio | Aheel (listing 456) | precio bajó: 160 -> 95 USDT
 [2026-10-19T06:52:10.368912+00:00] cambio_precio | Roguee (listing 933) | precio bajó: 80 -> 70 USDT
+[2026-10-19T14:21:41.174840+00:00] nuevo_listado | DER DOLCH (listing 943) | Asesino · Elfo oscuro · Nivel 40 · 100 USDT
+[2026-10-19T14:21:41.175373+00:00] cambio_precio | Truly Unique (listing 873) | precio bajó: 80 -> 70 USDT
+[2026-10-19T14:22:16.007707+00:00] retirado_o_vencido | Revenanchi (listing 857) | 50 USDT | sin transferencia coincidente tras 450 min
+[2026-10-19T14:22:16.007801+00:00] retirado_o_vencido | Suemyx (listing 932) | 50 USDT | sin transferencia coincidente tras 450 min
+[2026-10-19T14:22:16.007832+00:00] retirado_o_vencido | mana player (listing 942) | 60 USDT | sin transferencia coincidente tras 450 min
