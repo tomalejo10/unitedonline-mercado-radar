@@ -1602,3 +1602,7 @@
 [2026-10-19T14:22:16.007707+00:00] retirado_o_vencido | Revenanchi (listing 857) | 50 USDT | sin transferencia coincidente tras 450 min
 [2026-10-19T14:22:16.007801+00:00] retirado_o_vencido | Suemyx (listing 932) | 50 USDT | sin transferencia coincidente tras 450 min
 [2026-10-19T14:22:16.007832+00:00] retirado_o_vencido | mana player (listing 942) | 60 USDT | sin transferencia coincidente tras 450 min
+[2026-10-19T20:05:09.000204+00:00] nuevo_listado | kANTON (listing 944) | Druida · Elfo · Nivel 42 · 69 USDT
+[2026-10-19T20:05:09.000679+00:00] cambio_precio | Lykhev (listing 808) | precio bajó: 5000 -> 2000 USDT
+[2026-10-19T20:05:09.000856+00:00] cambio_precio | Zoc (listing 856) | precio subió: 150 -> 200 USDT
+[2026-10-19T20:05:23.849417+00:00] retirado_o_vencido | Roguee (listing 933) | 70 USDT | sin transferencia coincidente tras 343 min
