@@ -1606,3 +1606,5 @@
 [2026-10-19T20:05:09.000679+00:00] cambio_precio | Lykhev (listing 808) | precio bajó: 5000 -> 2000 USDT
 [2026-10-19T20:05:09.000856+00:00] cambio_precio | Zoc (listing 856) | precio subió: 150 -> 200 USDT
 [2026-10-19T20:05:23.849417+00:00] retirado_o_vencido | Roguee (listing 933) | 70 USDT | sin transferencia coincidente tras 343 min
+[2026-10-19T23:41:40.314782+00:00] cambio_precio | Anethra (listing 930) | precio subió: 100 -> 120 USDT
+[2026-10-19T23:41:40.314858+00:00] cambio_precio | Kdaf (listing 934) | precio bajó: 400 -> 350 USDT
