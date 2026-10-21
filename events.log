@@ -1618,3 +1618,6 @@
 [2026-10-21T04:45:54.090376+00:00] nuevo_listado | TAPION (listing 251) | Clérigo · Elfo oscuro · Nivel 42 · 55 USDT
 [2026-10-21T04:45:54.091162+00:00] cambio_precio | Agnorop (listing 919) | precio bajó: 270 -> 230 USDT
 [2026-10-21T04:45:56.945712+00:00] retirado_o_vencido | TAPION (listing 251) | 55 USDT | sin transferencia coincidente tras 284 min
+[2026-10-21T09:49:57.103402+00:00] nuevo_listado | tANGART (listing 948) | Paladín · Humano · Nivel 43 · 199 USDT
+[2026-10-21T09:50:12.253980+00:00] retirado_o_vencido | Rengarr (listing 891) | 50 USDT | sin transferencia coincidente tras 304 min
+[2026-10-21T09:50:12.254095+00:00] retirado_o_vencido | El Dicipulo (listing 940) | 0 USDT | sin transferencia coincidente tras 304 min
