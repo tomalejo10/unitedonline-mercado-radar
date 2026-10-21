@@ -1615,3 +1615,6 @@
 [2026-10-20T21:17:43.565665+00:00] retirado_o_vencido | Treinta (listing 900) | 105 USDT | sin transferencia coincidente tras 202 min
 [2026-10-21T00:01:54.651096+00:00] nuevo_listado | Neptuno (listing 946) | Bardo · Humano · Nivel 43 · 0 USDT
 [2026-10-21T00:01:54.651146+00:00] nuevo_listado | Sophie (listing 947) | Mago · Elfo · Nivel 46 · 300 USDT
+[2026-10-21T04:45:54.090376+00:00] nuevo_listado | TAPION (listing 251) | Clérigo · Elfo oscuro · Nivel 42 · 55 USDT
+[2026-10-21T04:45:54.091162+00:00] cambio_precio | Agnorop (listing 919) | precio bajó: 270 -> 230 USDT
+[2026-10-21T04:45:56.945712+00:00] retirado_o_vencido | TAPION (listing 251) | 55 USDT | sin transferencia coincidente tras 284 min
