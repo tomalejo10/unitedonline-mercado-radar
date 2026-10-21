@@ -1613,3 +1613,5 @@
 [2026-10-20T07:33:37.931377+00:00] cambio_precio | Papum (listing 936) | precio bajó: 400 -> 300 USDT
 [2026-10-20T21:17:35.383392+00:00] nuevo_listado | dAitON (listing 945) | Cazador · Enano · Nivel 45 · 390 USDT
 [2026-10-20T21:17:43.565665+00:00] retirado_o_vencido | Treinta (listing 900) | 105 USDT | sin transferencia coincidente tras 202 min
+[2026-10-21T00:01:54.651096+00:00] nuevo_listado | Neptuno (listing 946) | Bardo · Humano · Nivel 43 · 0 USDT
+[2026-10-21T00:01:54.651146+00:00] nuevo_listado | Sophie (listing 947) | Mago · Elfo · Nivel 46 · 300 USDT
