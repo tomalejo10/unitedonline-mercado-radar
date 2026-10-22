@@ -1634,3 +1634,7 @@
 [2026-10-22T00:48:01.732350+00:00] nuevo_listado | Roguee (listing 953) | Clérigo · Elfo · Nivel 43 · 80 USDT
 [2026-10-22T00:48:01.732396+00:00] nuevo_listado | Suemyx (listing 954) | Mago · Humano · Nivel 42 · 60 USDT
 [2026-10-22T00:48:05.747205+00:00] retirado_o_vencido | Karol (listing 951) | 300 USDT | sin transferencia coincidente tras 146 min
+[2026-10-22T15:53:50.235499+00:00] cambio_precio | Playtest (listing 770) | precio subió: 50 -> 100 USDT
+[2026-10-22T15:53:50.235728+00:00] cambio_precio | Germanico (listing 907) | precio bajó: 220 -> 199 USDT
+[2026-10-22T15:53:50.235822+00:00] cambio_precio | dAitON (listing 945) | precio bajó: 370 -> 320 USDT
+[2026-10-22T15:53:50.235858+00:00] cambio_precio | Roguee (listing 953) | precio bajó: 80 -> 70 USDT
