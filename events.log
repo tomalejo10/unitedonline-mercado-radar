@@ -1638,3 +1638,7 @@
 [2026-10-22T15:53:50.235728+00:00] cambio_precio | Germanico (listing 907) | precio bajó: 220 -> 199 USDT
 [2026-10-22T15:53:50.235822+00:00] cambio_precio | dAitON (listing 945) | precio bajó: 370 -> 320 USDT
 [2026-10-22T15:53:50.235858+00:00] cambio_precio | Roguee (listing 953) | precio bajó: 80 -> 70 USDT
+[2026-10-22T19:45:11.745444+00:00] nuevo_listado | RiCOTTA (listing 955) | Bardo · Elfo · Nivel 40 · 55 USDT
+[2026-10-22T19:45:11.746020+00:00] cambio_precio | Papum (listing 936) | precio bajó: 300 -> 200 USDT
+[2026-10-22T19:45:17.270896+00:00] retirado_o_vencido | Agressive (listing 326) | 50 USDT | sin transferencia coincidente tras 231 min
+[2026-10-22T19:45:17.270995+00:00] retirado_o_vencido | NhuK (listing 858) | 65 USDT | sin transferencia coincidente tras 231 min
