@@ -1648,3 +1648,6 @@
 [2026-10-23T16:08:47.656964+00:00] cambio_precio | MalTika (listing 774) | precio bajó: 80 -> 60 USDT
 [2026-10-23T16:08:47.657170+00:00] cambio_precio | Truly Unique (listing 873) | precio bajó: 95 -> 70 USDT
 [2026-10-23T16:08:47.657321+00:00] cambio_precio | RiCOTTA (listing 955) | precio bajó: 55 -> 50 USDT
+[2026-10-23T19:48:04.964343+00:00] nuevo_listado | Hydra (listing 957) | Paladín · Humano · Nivel 43 · 100 USDT
+[2026-10-23T19:48:15.156943+00:00] retirado_o_vencido | Wuhr (listing 917) | 0 USDT | sin transferencia coincidente tras 219 min
+[2026-10-23T19:48:15.157041+00:00] retirado_o_vencido | Helsinki (listing 952) | 0 USDT | sin transferencia coincidente tras 219 min
